@@ -2,12 +2,12 @@
 
 ## Table of Contents:
 
-1. City Escape  
-1. Metal Harbor
-1. Green Forest
-1. Pyramid Cave
-1. Crazy Gadget
-1. Final Rush 
+1. [ City Escape ](#city-escape)
+1. [ Metal Harbor ](#metal-harbor)
+1. [ Green Forest ](#green-forest)
+1. [ Pyramid Cave ](#pyramid-cave)
+1. [ Crazy Gadget ](#crazy-gadget)
+1. [ Final Rush ](#final-rush)
 
 # City Escape
 
@@ -32,41 +32,108 @@
 ![](./CityEscape/Chaobox-3rd-Close.jpg)
 
 ## Pipe 1
+![](./CityEscape/Pipe-1st-Far.jpg)
+![](./CityEscape/Pipe-1st-Close.jpg)
+
 ## Pipe 2
+![](./CityEscape/Pipe-2nd-Far.jpg)
+![](./CityEscape/Pipe-2nd-Close.jpg)
+
 ## Pipe 3
+![](./CityEscape/Pipe-3rd-Far.jpg)
+![](./CityEscape/Pipe-3rd-Far2.jpg)
+![](./CityEscape/Pipe-3rd-Close.jpg)
+
 ## Pipe 4
+![](./CityEscape/Pipe-4th-Far.jpg)
+![](./CityEscape/Pipe-4th-Close.jpg)
 
 ## Hidden 1
-## Hidden 2
-## Hidden 3
-## Hidden 4
-## Hidden 5
+![](./CityEscape/Hidden-1st-Far.jpg)
+![](./CityEscape/Hidden-1st-Close.jpg)
 
-![](./CityEscape/)
+## Hidden 2
+![](./CityEscape/Hidden-2nd-Far.jpg)
+![](./CityEscape/Hidden-2nd-Close.jpg)
+
+## Hidden 3
+![](./CityEscape/Hidden-3rd-Far.jpg)
+![](./CityEscape/Hidden-3rd-Close.jpg)
+
+## Hidden 4
+![](./CityEscape/Hidden-4th-Far.jpg)
+![](./CityEscape/Hidden-4th-Close.jpg)
+
+## Hidden 5
+![](./CityEscape/Hidden-5th-Far.jpg)
+![](./CityEscape/Hidden-5th-Close.jpg)
 
 # Metal Harbor
 
-## Upgrade
-
 ## Gold Beetle
+![](./MetalHarbor/GoldBeetle-Far.jpg)
+![](./MetalHarbor/GoldBeetle-Close.jpg)
 
 ## Chao Box 1
+![](./MetalHarbor/Chaobox-1st-Far.jpg)
+![](./MetalHarbor/Chaobox-1st-Close.jpg)
 
 ## Chao Box 2
+![](./MetalHarbor/Chaobox-2nd-Far.jpg)
+![](./MetalHarbor/Chaobox-2nd-Close.jpg)
 
 ## Chao Box 3
+![](./MetalHarbor/Chaobox-3rd-Far.jpg)
+![](./MetalHarbor/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./MetalHarbor/Pipe-1st-Far.jpg)
+![](./MetalHarbor/Pipe-1st-Close.jpg)
 
 # Green Forest
 
 ## Upgrade
+![](./GreenForest/Upgrade-Far.jpg)
+![](./GreenForest/Upgrade-Close.jpg)
 
 ## Gold Beetle
+![](./GreenForest/GoldBeetle-Close.jpg)
 
 ## Chao Box 1
+![](./GreenForest/Chaobox-1st-Far.jpg)
+![](./GreenForest/Chaobox-1st-Far2.jpg)
+![](./GreenForest/Chaobox-1st-Close.jpg)
 
 ## Chao Box 2
+![](./GreenForest/Chaobox-2nd-Far.jpg)
+![](./GreenForest/Chaobox-2nd-Close.jpg)
 
 ## Chao Box 3
+![](./GreenForest/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./GreenForest/Pipe-1st-Far.jpg)
+![](./GreenForest/Pipe-1st-Far2.jpg)
+![](./GreenForest/Pipe-1st-Close.jpg)
+
+## Pipe 2
+![](./GreenForest/Pipe-2nd-Close.jpg)
+
+## Hidden 1
+![](./GreenForest/Hidden-1st-Far.jpg)
+![](./GreenForest/Hidden-1st-Close.jpg)
+
+## Hidden 2
+![](./GreenForest/Hidden-2nd-Far.jpg)
+![](./GreenForest/Hidden-2nd-Close.jpg)
+
+## Hidden 3
+![](./GreenForest/Hidden-3rd-Far.jpg)
+![](./GreenForest/Hidden-3rd-Close.jpg)
+
+## Hidden 4
+![](./GreenForest/Hidden-4th-Far.jpg)
+![](./GreenForest/Hidden-4th-Close.jpg)
 
 # Pyramid Cave
 
