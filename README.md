@@ -19,3 +19,8 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [Pyramid Cave](./Sonic/Sonic.md#pyramid-cave)
     1. [Crazy Gadget](./Sonic/Sonic.md#crazy-gadget)
     1. [Final Rush](./Sonic/Sonic.md#final-rush)
+1. [Tails Stages](./Tails/Tails.md)
+    1. [Prison Lane](./Tails/Tails.md#prison-lane)
+    1. [Mission Street](./Tails/Tails.md#mission-street)
+    1. [Hidden Base](./Tails/Tails.md#hidden-base)
+    1. [Eternal Engine](./Tails/Tails.md#eternal-engine)
