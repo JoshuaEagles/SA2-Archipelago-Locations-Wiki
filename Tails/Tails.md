@@ -1,4 +1,4 @@
-# Sonic Stages
+# Tails Stages
 
 ## Table of Contents:
 1. [ Prison Lane ](#prison-lane)
