@@ -137,6 +137,92 @@
 
 # Pyramid Cave
 
+## Gold Beetle
+![](./PyramidCave/GoldBeetle-Close.jpg)
+
+## Chao Box 1
+![](./PyramidCave/Chaobox-1st-Far.jpg)
+![](./PyramidCave/Chaobox-1st-Close.jpg)
+
+## Chao Box 2
+![](./PyramidCave/Chaobox-2nd-Far.jpg)
+![](./PyramidCave/Chaobox-2nd-Close.jpg)
+
+## Chao Box 3
+![](./PyramidCave/Chaobox-3rd-Far.jpg)
+![](./PyramidCave/Chaobox-3rd-Far2.jpg)
+![](./PyramidCave/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./PyramidCave/Pipe-1st-Far.jpg)
+![](./PyramidCave/Pipe-1st-Close.jpg)
+
+## Pipe 2
+![](./PyramidCave/Pipe-2nd-Far.jpg)
+![](./PyramidCave/Pipe-2nd-Close.jpg)
+
+## Pipe 3
+![](./PyramidCave/Pipe-3rd-Far.jpg)
+![](./PyramidCave/Pipe-3rd-Close.jpg)
+
+## Pipe 4
+![](./PyramidCave/Pipe-4th-Close.jpg)
+
 # Crazy Gadget 
 
+## Gold Beetle
+![](./CrazyGadget/GoldBeetle-Close.jpg)
+
+## Chao Box 1
+![](./CrazyGadget/Chaobox-1st-Far.jpg)
+![](./CrazyGadget/Chaobox-1st-Close.jpg)
+
+## Chao Box 2
+![](./CrazyGadget/Chaobox-2nd-Far.jpg)
+![](./CrazyGadget/Chaobox-2nd-Close.jpg)
+
+## Chao Box 3
+![](./CrazyGadget/Chaobox-3rd-Far.jpg)
+![](./CrazyGadget/Chaobox-3rd-Far2.jpg)
+![](./CrazyGadget/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./CrazyGadget/Pipe-1st-Far.jpg)
+![](./CrazyGadget/Pipe-1st-Close.jpg)
+
+## Pipe 2
+![](./CrazyGadget/Pipe-2nd-Far.jpg)
+![](./CrazyGadget/Pipe-2nd-Close.jpg)
+
+## Pipe 3
+![](./CrazyGadget/Pipe-3rd-Far.jpg)
+![](./CrazyGadget/Pipe-3rd-Far2.jpg)
+![](./CrazyGadget/Pipe-3rd-Close.jpg)
+
+## Pipe 4
+![](./CrazyGadget/Pipe-4th-Close.jpg)
+
 # Final Rush
+
+## Gold Beetle
+![](./FinalRush/GoldBeetle-Far.jpg)
+![](./FinalRush/GoldBeetle-Close.jpg)
+
+## Chao Box 1
+![](./FinalRush/Chaobox-1st-Far.jpg)
+![](./FinalRush/Chaobox-1st-Close.jpg)
+
+## Chao Box 2
+![](./FinalRush/Chaobox-2nd-Far.jpg)
+![](./FinalRush/Chaobox-2nd-Close.jpg)
+
+## Chao Box 3
+![](./FinalRush/Chaobox-3rd-Far.jpg)
+![](./FinalRush/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./FinalRush/Pipe-1st-Far.jpg)
+![](./FinalRush/Pipe-1st-Close.jpg)
+
+## Pipe 2
+![](./FinalRush/Pipe-2nd-Close.jpg)
