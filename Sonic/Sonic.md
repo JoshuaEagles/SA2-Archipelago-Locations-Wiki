@@ -204,6 +204,11 @@
 
 # Final Rush
 
+## Upgrade
+![](./FinalRush/Upgrade-Far.jpg)
+![](./FinalRush/Upgrade-Far2.jpg)
+![](./FinalRush/Upgrade-Close.jpg)
+
 ## Gold Beetle
 ![](./FinalRush/GoldBeetle-Far.jpg)
 ![](./FinalRush/GoldBeetle-Close.jpg)
