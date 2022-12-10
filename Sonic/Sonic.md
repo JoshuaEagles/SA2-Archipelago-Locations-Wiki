@@ -18,6 +18,11 @@
 ## Gold Beetle
 ![](./CityEscape/GoldBeetle-Close.jpg)  
 
+## Lost Chao
+![](./CityEscape/LostChao-Far.jpg)
+![](./CityEscape/LostChao-Far2.jpg)
+![](./CityEscape/LostChao-Close.jpg)  
+
 ## Chao Box 1
 ![](./CityEscape/Chaobox-1st-Far.jpg)
 ![](./CityEscape/Chaobox-1st-Close.jpg)  
@@ -74,6 +79,12 @@
 ![](./MetalHarbor/GoldBeetle-Far.jpg)
 ![](./MetalHarbor/GoldBeetle-Close.jpg)
 
+## Lost Chao
+![](./MetalHarbor/LostChao-Far.jpg)
+![](./MetalHarbor/LostChao-Far2.jpg)
+![](./MetalHarbor/LostChao-Far3.jpg)
+![](./MetalHarbor/LostChao-Close.jpg)  
+
 ## Chao Box 1
 ![](./MetalHarbor/Chaobox-1st-Far.jpg)
 ![](./MetalHarbor/Chaobox-1st-Close.jpg)
@@ -98,6 +109,11 @@
 
 ## Gold Beetle
 ![](./GreenForest/GoldBeetle-Close.jpg)
+
+## Lost Chao
+![](./GreenForest/LostChao-Far.jpg)
+![](./GreenForest/LostChao-Far2.jpg)
+![](./GreenForest/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./GreenForest/Chaobox-1st-Far.jpg)
@@ -139,6 +155,10 @@
 
 ## Gold Beetle
 ![](./PyramidCave/GoldBeetle-Close.jpg)
+
+## Lost Chao
+![](./PyramidCave/LostChao-Far.jpg)
+![](./PyramidCave/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./PyramidCave/Chaobox-1st-Far.jpg)
@@ -186,6 +206,10 @@
 ![](./CrazyGadget/Chaobox-3rd-Far2.jpg)
 ![](./CrazyGadget/Chaobox-3rd-Close.jpg)
 
+## Lost Chao
+![](./CrazyGadget/LostChao-Far.jpg)
+![](./CrazyGadget/LostChao-Close.jpg)  
+
 ## Pipe 1
 ![](./CrazyGadget/Pipe-1st-Far.jpg)
 ![](./CrazyGadget/Pipe-1st-Close.jpg)
@@ -212,6 +236,10 @@
 ## Gold Beetle
 ![](./FinalRush/GoldBeetle-Far.jpg)
 ![](./FinalRush/GoldBeetle-Close.jpg)
+
+## Lost Chao
+![](./FinalRush/LostChao-Far.jpg)
+![](./FinalRush/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./FinalRush/Chaobox-1st-Far.jpg)

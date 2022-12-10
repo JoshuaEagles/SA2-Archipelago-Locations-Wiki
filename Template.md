@@ -17,7 +17,12 @@
 ## Gold Beetle
 ![](./CityEscape/GoldBeetle-Far.jpg)  
 ![](./CityEscape/GoldBeetle-Far2.jpg)  
-![](./CityEscape/GoldBeetle-Close.jpg)  
+![](./CityEscape/GoldBeetle-Close.jpg)
+
+## Lost Chao
+![](./CityEscape/LostChao-Far.jpg)
+![](./CityEscape/LostChao-Far2.jpg)
+![](./CityEscape/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./CityEscape/Chaobox-1st-Far.jpg)
