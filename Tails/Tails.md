@@ -104,6 +104,10 @@
 ![](./MissionStreet/Hidden-3rd-Far.jpg)
 ![](./MissionStreet/Hidden-3rd-Close.jpg)
 
+## Hidden 4
+![](./MissionStreet/Hidden-4th-Far.jpg)
+![](./MissionStreet/Hidden-4th-Close.jpg)
+
 # Hidden Base
 
 ## Upgrade
