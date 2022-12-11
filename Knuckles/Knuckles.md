@@ -105,3 +105,84 @@
 ## Pipe 3
 ![](./AquaticMine/Pipe-3rd-Far.jpg)
 ![](./AquaticMine/Pipe-3rd-Close.jpg)
+
+# Death Chamber
+
+## Gold Beetle
+![](./DeathChamber/GoldBeetle-Far.jpg)  
+![](./DeathChamber/GoldBeetle-Close.jpg)
+
+## Lost Chao
+![](./DeathChamber/LostChao-Far.jpg)
+![](./DeathChamber/LostChao-Close.jpg)  
+
+## Chao Box 1
+![](./DeathChamber/Chaobox-1st-Close.jpg)  
+
+## Chao Box 2
+![](./DeathChamber/Chaobox-2nd-Far.jpg)  
+![](./DeathChamber/Chaobox-2nd-Close.jpg)  
+
+## Chao Box 3
+![](./DeathChamber/Chaobox-3rd-Far.jpg)  
+![](./DeathChamber/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./DeathChamber/Pipe-1st-Far.jpg)
+![](./DeathChamber/Pipe-1st-Close.jpg)
+
+## Pipe 2
+![](./DeathChamber/Pipe-2nd-Far.jpg)
+![](./DeathChamber/Pipe-2nd-Close.jpg)
+
+## Pipe 3
+![](./DeathChamber/Pipe-3rd-Far.jpg)
+![](./DeathChamber/Pipe-3rd-Close.jpg)
+
+## Hidden 1
+![](./DeathChamber/Hidden-1st-Far.jpg)
+![](./DeathChamber/Hidden-1st-Close.jpg)
+
+## Hidden 2
+![](./DeathChamber/Hidden-2nd-Far.jpg)
+![](./DeathChamber/Hidden-2nd-Close.jpg)
+
+# Meteor Herd
+
+## Upgrade
+![](./MeteorHerd/Upgrade-Far.jpg)  
+![](./MeteorHerd/Upgrade-Far2.jpg)  
+![](./MeteorHerd/Upgrade-Close.jpg)
+
+## Gold Beetle
+![](./MeteorHerd/GoldBeetle-Far.jpg)  
+![](./MeteorHerd/GoldBeetle-Far2.jpg)  
+![](./MeteorHerd/GoldBeetle-Close.jpg)
+
+## Lost Chao
+![](./MeteorHerd/LostChao-Far.jpg)
+![](./MeteorHerd/LostChao-Close.jpg)  
+
+## Chao Box 1
+![](./MeteorHerd/Chaobox-1st-Far.jpg)
+![](./MeteorHerd/Chaobox-1st-Close.jpg)  
+
+## Chao Box 2
+![](./MeteorHerd/Chaobox-2nd-Far.jpg)  
+![](./MeteorHerd/Chaobox-2nd-Close.jpg)  
+
+## Chao Box 3
+![](./MeteorHerd/Chaobox-3rd-Far.jpg)  
+![](./MeteorHerd/Chaobox-3rd-Close.jpg)
+
+## Pipe 1
+![](./MeteorHerd/Pipe-1st-Far.jpg)
+![](./MeteorHerd/Pipe-1st-Close.jpg)
+
+## Pipe 2
+![](./MeteorHerd/Pipe-2nd-Far.jpg)
+![](./MeteorHerd/Pipe-2nd-Close.jpg)
+
+## Pipe 3
+![](./MeteorHerd/Pipe-3rd-Far.jpg)
+![](./MeteorHerd/Pipe-3rd-Close.jpg)
