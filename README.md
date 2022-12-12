@@ -7,6 +7,8 @@ Still WIP, adding more stages slowly.
 Also TODO:
 - Re-encode the images to a better format like webp, maybe reduce resolution as well.
 - More views for each stage, for example a minimal view that only has 1 screenshot per check or a chronological view.
+- Use the SET editor to check for any other locations
+- Maybe add logic information beside each image?
 
 PRs are welcome to this, but I'll get to everything myself eventually.
 
@@ -19,6 +21,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [Pyramid Cave](./Sonic/Sonic.md#pyramid-cave)
     1. [Crazy Gadget](./Sonic/Sonic.md#crazy-gadget)
     1. [Final Rush](./Sonic/Sonic.md#final-rush)
+    1. [Green Hill](./Sonic/Sonic.md#green-hill)
 1. [Tails Stages](./Tails/Tails.md)
     1. [Prison Lane](./Tails/Tails.md#prison-lane)
     1. [Mission Street](./Tails/Tails.md#mission-street)
@@ -42,3 +45,8 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [ Weapons Bed ](./Eggman/Eggman.md#weapons-bed)
     1. [ Cosmic Wall ](./Eggman/Eggman.md#cosmic-wall)
 1. [Rouge Stages](./Rouge/Rouge.md)
+    1. [ Dry Lagoon ](./Rouge/Rouge.md#prison-lane)
+    1. [ Egg Quarters ](./Rouge/Rouge.md#mission-street)
+    1. [ Security Hall ](./Rouge/Rouge.md#hidden-base)
+    1. [ Mad Space ](./Rouge/Rouge.md#eternal-engine)
+1. [Cannon's Core](./CannonsCore/CannonsCore.md#cannons-core)

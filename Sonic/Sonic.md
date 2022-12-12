@@ -8,6 +8,7 @@
 1. [ Pyramid Cave ](#pyramid-cave)
 1. [ Crazy Gadget ](#crazy-gadget)
 1. [ Final Rush ](#final-rush)
+1. [ Green Hill ](#green-hill)
 
 # City Escape
 
@@ -259,3 +260,9 @@
 
 ## Pipe 2
 ![](./FinalRush/Pipe-2nd-Close.jpg)
+
+# Green Hill
+
+## Chao Box 1
+![](./GreenHill/Chaobox-1st-Far.jpg)
+![](./GreenHill/Chaobox-1st-Close.jpg)
