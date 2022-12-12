@@ -152,7 +152,6 @@
 
 ## Upgrade
 ![](./FinalChase/Upgrade-Far.jpg)  
-![](./FinalChase/Upgrade-Far2.jpg)  
 ![](./FinalChase/Upgrade-Close.jpg)
 
 ## Gold Beetle
@@ -162,17 +161,14 @@
 
 ## Lost Chao
 ![](./FinalChase/LostChao-Far.jpg)
-![](./FinalChase/LostChao-Far2.jpg)
 ![](./FinalChase/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./FinalChase/Chaobox-1st-Far.jpg)
-![](./FinalChase/Chaobox-1st-Far2.jpg)
 ![](./FinalChase/Chaobox-1st-Close.jpg)  
 
 ## Chao Box 2
 ![](./FinalChase/Chaobox-2nd-Far.jpg)  
-![](./FinalChase/Chaobox-2nd-Far2.jpg)  
 ![](./FinalChase/Chaobox-2nd-Close.jpg)  
 
 ## Chao Box 3
@@ -182,45 +178,13 @@
 
 ## Pipe 1
 ![](./FinalChase/Pipe-1st-Far.jpg)
-![](./FinalChase/Pipe-1st-Far2.jpg)
 ![](./FinalChase/Pipe-1st-Close.jpg)
 
 ## Pipe 2
 ![](./FinalChase/Pipe-2nd-Far.jpg)
-![](./FinalChase/Pipe-2nd-Far2.jpg)
 ![](./FinalChase/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./FinalChase/Pipe-3rd-Far.jpg)
 ![](./FinalChase/Pipe-3rd-Far2.jpg)
 ![](./FinalChase/Pipe-3rd-Close.jpg)
-
-## Pipe 4
-![](./FinalChase/Pipe-4th-Far.jpg)
-![](./FinalChase/Pipe-4th-Far2.jpg)
-![](./FinalChase/Pipe-4th-Close.jpg)
-
-## Hidden 1
-![](./FinalChase/Hidden-1st-Far.jpg)
-![](./FinalChase/Hidden-1st-Far2.jpg)
-![](./FinalChase/Hidden-1st-Close.jpg)
-
-## Hidden 2
-![](./FinalChase/Hidden-2nd-Far.jpg)
-![](./FinalChase/Hidden-2nd-Far2.jpg)
-![](./FinalChase/Hidden-2nd-Close.jpg)
-
-## Hidden 3
-![](./FinalChase/Hidden-3rd-Far.jpg)
-![](./FinalChase/Hidden-3rd-Far2.jpg)
-![](./FinalChase/Hidden-3rd-Close.jpg)
-
-## Hidden 4
-![](./FinalChase/Hidden-4th-Far.jpg)
-![](./FinalChase/Hidden-4th-Far2.jpg)
-![](./FinalChase/Hidden-4th-Close.jpg)
-
-## Hidden 5
-![](./FinalChase/Hidden-5th-Far.jpg)
-![](./FinalChase/Hidden-5th-Far2.jpg)
-![](./FinalChase/Hidden-5th-Close.jpg)
