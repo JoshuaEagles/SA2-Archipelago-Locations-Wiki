@@ -183,6 +183,7 @@
 
 ## Gold Beetle
 ![](./CosmicWall/GoldBeetle-Far.jpg)  
+Note: the below picture was taken using the debug mode mod, you dont need to be in this spot to get this.
 ![](./CosmicWall/GoldBeetle-Close.jpg)
 
 ## Lost Chao
