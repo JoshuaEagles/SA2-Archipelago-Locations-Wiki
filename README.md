@@ -12,6 +12,7 @@ Also TODO:
 - Use the SET editor to check for any other locations
 - Maybe add logic information beside each image?
 - Trim images down, remove unnecessary ones that don't provide value
+- Retake all images with HUD off.
 
 PRs are welcome to this, but I'll get to everything myself eventually.
 
