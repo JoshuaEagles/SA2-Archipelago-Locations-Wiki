@@ -21,20 +21,15 @@
 
 ## Lost Chao
 ![](./CityEscape/LostChao-Far.jpg)
-![](./CityEscape/LostChao-Far2.jpg)
-![](./CityEscape/LostChao-Close.jpg)  
 
 ## Chao Box 1
-![](./CityEscape/Chaobox-1st-Far.jpg)
 ![](./CityEscape/Chaobox-1st-Close.jpg)  
 
 ## Chao Box 2
-![](./CityEscape/Chaobox-2nd-Far.jpg)  
 ![](./CityEscape/Chaobox-2nd-Close.jpg)  
 
 ## Chao Box 3
 ![](./CityEscape/Chaobox-3rd-Far.jpg)  
-![](./CityEscape/Chaobox-3rd-Far2.jpg)  
 ![](./CityEscape/Chaobox-3rd-Close.jpg)
 
 ## Pipe 1
@@ -47,7 +42,6 @@
 
 ## Pipe 3
 ![](./CityEscape/Pipe-3rd-Far.jpg)
-![](./CityEscape/Pipe-3rd-Far2.jpg)
 ![](./CityEscape/Pipe-3rd-Close.jpg)
 
 ## Pipe 4
@@ -79,29 +73,21 @@
 # Metal Harbor
 
 ## Gold Beetle
-![](./MetalHarbor/GoldBeetle-Far.jpg)
 ![](./MetalHarbor/GoldBeetle-Close.jpg)
 
 ## Lost Chao
 ![](./MetalHarbor/LostChao-Far.jpg)
-![](./MetalHarbor/LostChao-Far2.jpg)
-![](./MetalHarbor/LostChao-Far3.jpg)
-![](./MetalHarbor/LostChao-Close.jpg)  
 
 ## Chao Box 1
-![](./MetalHarbor/Chaobox-1st-Far.jpg)
 ![](./MetalHarbor/Chaobox-1st-Close.jpg)
 
 ## Chao Box 2
-![](./MetalHarbor/Chaobox-2nd-Far.jpg)
 ![](./MetalHarbor/Chaobox-2nd-Close.jpg)
 
 ## Chao Box 3
-![](./MetalHarbor/Chaobox-3rd-Far.jpg)
 ![](./MetalHarbor/Chaobox-3rd-Close.jpg)
 
 ## Pipe 1
-![](./MetalHarbor/Pipe-1st-Far.jpg)
 ![](./MetalHarbor/Pipe-1st-Close.jpg)
 
 [Back to Top](#)
@@ -117,8 +103,6 @@
 
 ## Lost Chao
 ![](./GreenForest/LostChao-Far.jpg)
-![](./GreenForest/LostChao-Far2.jpg)
-![](./GreenForest/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./GreenForest/Chaobox-1st-Far.jpg)
@@ -127,21 +111,18 @@
 
 ## Chao Box 2
 ![](./GreenForest/Chaobox-2nd-Far.jpg)
-![](./GreenForest/Chaobox-2nd-Close.jpg)
 
 ## Chao Box 3
 ![](./GreenForest/Chaobox-3rd-Close.jpg)
 
 ## Pipe 1
 ![](./GreenForest/Pipe-1st-Far.jpg)
-![](./GreenForest/Pipe-1st-Far2.jpg)
 ![](./GreenForest/Pipe-1st-Close.jpg)
 
 ## Pipe 2
 ![](./GreenForest/Pipe-2nd-Close.jpg)
 
 ## Hidden 1
-![](./GreenForest/Hidden-1st-Far.jpg)
 ![](./GreenForest/Hidden-1st-Close.jpg)
 
 ## Hidden 2
@@ -149,11 +130,9 @@
 ![](./GreenForest/Hidden-2nd-Close.jpg)
 
 ## Hidden 3
-![](./GreenForest/Hidden-3rd-Far.jpg)
 ![](./GreenForest/Hidden-3rd-Close.jpg)
 
 ## Hidden 4
-![](./GreenForest/Hidden-4th-Far.jpg)
 ![](./GreenForest/Hidden-4th-Close.jpg)
 
 [Back to Top](#)
@@ -165,31 +144,24 @@
 
 ## Lost Chao
 ![](./PyramidCave/LostChao-Far.jpg)
-![](./PyramidCave/LostChao-Close.jpg)  
 
 ## Chao Box 1
-![](./PyramidCave/Chaobox-1st-Far.jpg)
 ![](./PyramidCave/Chaobox-1st-Close.jpg)
 
 ## Chao Box 2
-![](./PyramidCave/Chaobox-2nd-Far.jpg)
 ![](./PyramidCave/Chaobox-2nd-Close.jpg)
 
 ## Chao Box 3
 ![](./PyramidCave/Chaobox-3rd-Far.jpg)
-![](./PyramidCave/Chaobox-3rd-Far2.jpg)
 ![](./PyramidCave/Chaobox-3rd-Close.jpg)
 
 ## Pipe 1
-![](./PyramidCave/Pipe-1st-Far.jpg)
 ![](./PyramidCave/Pipe-1st-Close.jpg)
 
 ## Pipe 2
-![](./PyramidCave/Pipe-2nd-Far.jpg)
 ![](./PyramidCave/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
-![](./PyramidCave/Pipe-3rd-Far.jpg)
 ![](./PyramidCave/Pipe-3rd-Close.jpg)
 
 ## Pipe 4
@@ -212,11 +184,8 @@
 
 ## Chao Box 3
 ![](./CrazyGadget/Chaobox-3rd-Far.jpg)
-![](./CrazyGadget/Chaobox-3rd-Far2.jpg)
-![](./CrazyGadget/Chaobox-3rd-Close.jpg)
 
 ## Lost Chao
-![](./CrazyGadget/LostChao-Far.jpg)
 ![](./CrazyGadget/LostChao-Close.jpg)  
 
 ## Pipe 1
@@ -224,7 +193,6 @@
 ![](./CrazyGadget/Pipe-1st-Close.jpg)
 
 ## Pipe 2
-![](./CrazyGadget/Pipe-2nd-Far.jpg)
 ![](./CrazyGadget/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
@@ -246,7 +214,6 @@
 ## Upgrade
 ![](./FinalRush/Upgrade-Far.jpg)
 ![](./FinalRush/Upgrade-Far2.jpg)
-![](./FinalRush/Upgrade-Close.jpg)
 
 ## Gold Beetle
 ![](./FinalRush/GoldBeetle-Far.jpg)
@@ -254,14 +221,12 @@
 
 ## Lost Chao
 ![](./FinalRush/LostChao-Far.jpg)
-![](./FinalRush/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./FinalRush/Chaobox-1st-Far.jpg)
 ![](./FinalRush/Chaobox-1st-Close.jpg)
 
 ## Chao Box 2
-![](./FinalRush/Chaobox-2nd-Far.jpg)
 ![](./FinalRush/Chaobox-2nd-Close.jpg)
 
 ## Chao Box 3
