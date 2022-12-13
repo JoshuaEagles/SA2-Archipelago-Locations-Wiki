@@ -52,6 +52,8 @@
 ![](./IronGate/Pipe-5th-Far.jpg)
 ![](./IronGate/Pipe-5th-Close.jpg)
 
+[Back to Top](#)
+
 # Sand Ocean
 
 ## Upgrade
@@ -98,6 +100,8 @@
 ![](./SandOcean/Pipe-5th-Far.jpg)
 ![](./SandOcean/Pipe-5th-Close.jpg)
 
+[Back to Top](#)
+
 # Lost Colony
 
 ## Gold Beetle
@@ -130,6 +134,8 @@
 ## Hidden 1
 ![](./LostColony/Hidden-1st-Far.jpg)
 ![](./LostColony/Hidden-1st-Close.jpg)
+
+[Back to Top](#)
 
 # Weapons Bed
 
@@ -166,6 +172,8 @@
 
 ## Pipe 5
 ![](./WeaponsBed/Pipe-5th-Close.jpg)
+
+[Back to Top](#)
 
 # Cosmic Wall
 
@@ -212,3 +220,5 @@
 ## Pipe 5
 ![](./CosmicWall/Pipe-5th-Far.jpg)
 ![](./CosmicWall/Pipe-5th-Close.jpg)
+
+[Back to Top](#)

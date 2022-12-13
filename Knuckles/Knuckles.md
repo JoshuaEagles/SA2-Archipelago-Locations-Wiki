@@ -45,6 +45,8 @@
 ![](./WildCanyon/Pipe-3rd-Far.jpg)
 ![](./WildCanyon/Pipe-3rd-Close.jpg)
 
+[Back to Top](#)
+
 # Pumpkin Hill
 
 ## Lost Chao
@@ -106,6 +108,8 @@
 ![](./AquaticMine/Pipe-3rd-Far.jpg)
 ![](./AquaticMine/Pipe-3rd-Close.jpg)
 
+[Back to Top](#)
+
 # Death Chamber
 
 ## Gold Beetle
@@ -147,6 +151,8 @@
 ![](./DeathChamber/Hidden-2nd-Far.jpg)
 ![](./DeathChamber/Hidden-2nd-Close.jpg)
 
+[Back to Top](#)
+
 # Meteor Herd
 
 ## Upgrade
@@ -186,3 +192,5 @@
 ## Pipe 3
 ![](./MeteorHerd/Pipe-3rd-Far.jpg)
 ![](./MeteorHerd/Pipe-3rd-Close.jpg)
+
+[Back to Top](#)

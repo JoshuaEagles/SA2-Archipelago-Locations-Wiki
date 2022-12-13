@@ -36,6 +36,8 @@
 ## Hidden 1
 ![](./DryLagoon/Hidden-1st-Close.jpg)
 
+[Back to Top](#)
+
 # Egg Quarters
 
 ## Gold Beetle
@@ -72,6 +74,8 @@
 ![](./EggQuarters/Hidden-2nd-Far.jpg)
 ![](./EggQuarters/Hidden-2nd-Close.jpg)
 
+[Back to Top](#)
+
 # Security Hall
 
 ## Upgrade
@@ -101,6 +105,8 @@
 
 ## Hidden 1
 ![](./SecurityHall/Hidden-1st-Close.jpg)
+
+[Back to Top](#)
 
 # Mad Space
 
@@ -134,3 +140,5 @@
 
 ## Pipe 4
 ![](./MadSpace/Pipe-4th-Close.jpg)
+
+[Back to Top](#)

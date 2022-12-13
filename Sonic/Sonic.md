@@ -74,6 +74,8 @@
 ![](./CityEscape/Hidden-5th-Far.jpg)
 ![](./CityEscape/Hidden-5th-Close.jpg)
 
+[Back to Top](#)
+
 # Metal Harbor
 
 ## Gold Beetle
@@ -101,6 +103,8 @@
 ## Pipe 1
 ![](./MetalHarbor/Pipe-1st-Far.jpg)
 ![](./MetalHarbor/Pipe-1st-Close.jpg)
+
+[Back to Top](#)
 
 # Green Forest
 
@@ -152,6 +156,8 @@
 ![](./GreenForest/Hidden-4th-Far.jpg)
 ![](./GreenForest/Hidden-4th-Close.jpg)
 
+[Back to Top](#)
+
 # Pyramid Cave
 
 ## Gold Beetle
@@ -188,6 +194,8 @@
 
 ## Pipe 4
 ![](./PyramidCave/Pipe-4th-Close.jpg)
+
+[Back to Top](#)
 
 # Crazy Gadget 
 
@@ -227,6 +235,8 @@
 ## Pipe 4
 ![](./CrazyGadget/Pipe-4th-Close.jpg)
 
+[Back to Top](#)
+
 # Final Rush
 
 ## Upgrade
@@ -261,8 +271,12 @@
 ## Pipe 2
 ![](./FinalRush/Pipe-2nd-Close.jpg)
 
+[Back to Top](#)
+
 # Green Hill
 
 ## Chao Box 1
 ![](./GreenHill/Chaobox-1st-Far.jpg)
 ![](./GreenHill/Chaobox-1st-Close.jpg)
+
+[Back to Top](#)
