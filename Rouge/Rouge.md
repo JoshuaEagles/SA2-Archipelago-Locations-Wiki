@@ -1,10 +1,11 @@
 # Rouge Stages
 
 ## Table of Contents:
-1. [ Dry Lagoon ](#prison-lane)
-1. [ Egg Quarters ](#mission-street)
-1. [ Security Hall ](#hidden-base)
-1. [ Mad Space ](#eternal-engine)
+1. [ Dry Lagoon ](#dry-lagoon)
+1. [ Egg Quarters ](#egg-quarters)
+1. [ Security Hall ](#security-hall)
+1. [ Mad Space ](#mad-space)
+
 
 # Dry Lagoon
 
