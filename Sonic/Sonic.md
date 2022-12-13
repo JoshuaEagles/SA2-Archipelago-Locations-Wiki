@@ -235,6 +235,10 @@
 ## Pipe 4
 ![](./CrazyGadget/Pipe-4th-Close.jpg)
 
+## Hidden 1
+![](./CrazyGadget/Hidden-1st-Far.jpg)
+![](./CrazyGadget/Hidden-1st-Close.jpg)
+
 [Back to Top](#)
 
 # Final Rush
