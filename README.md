@@ -2,13 +2,16 @@
 
 This project aims to include screenshots of every optional in-stage location check for SA2 Archipelago. If you've found this and don't know what Archipelago is, here's a link: https://archipelago.gg/. This could also just be used outside of an Archipelago context, for finding chao-boxes and whistle locations and such. 
 
-Still WIP, adding more stages slowly.
+This is considered content complete now, with all stages included in the guide. Additional improvements are still planned. 
+
+If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
 
 Also TODO:
 - Re-encode the images to a better format like webp, maybe reduce resolution as well.
 - More views for each stage, for example a minimal view that only has 1 screenshot per check or a chronological view.
 - Use the SET editor to check for any other locations
 - Maybe add logic information beside each image?
+- Trim images down, remove unnecessary ones that don't provide value
 
 PRs are welcome to this, but I'll get to everything myself eventually.
 
