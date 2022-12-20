@@ -52,7 +52,7 @@
 [Back to Top](#)
 
 # Crazy Gadget
-![](../Sonic/CrazyGadget/LostChao-Close.jpg)  
+![](../Sonic/CrazyGadget/LostChao-Far.jpg)  
 
 [Back to Top](#)
 
@@ -63,49 +63,39 @@
 
 # Prison Lane
 ![](../Tails/PrisonLane/LostChao-Far.jpg)
-![](../Tails/PrisonLane/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Mission Street
 ![](../Tails/MissionStreet/LostChao-Far.jpg)
-![](../Tails/MissionStreet/LostChao-Far2.jpg)
-![](../Tails/MissionStreet/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Hidden Base
 ![](../Tails/HiddenBase/LostChao-Far.jpg)
-![](../Tails/HiddenBase/LostChao-Far2.jpg)
-![](../Tails/HiddenBase/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Eternal Engine
 ![](../Tails/EternalEngine/LostChao-Far.jpg)
 ![](../Tails/EternalEngine/LostChao-Far2.jpg)
-![](../Tails/EternalEngine/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Wild Canyon
 ![](../Knuckles/WildCanyon/LostChao-Far.jpg)
 ![](../Knuckles/WildCanyon/LostChao-Far2.jpg)
-![](../Knuckles/WildCanyon/LostChao-Far3.jpg)
-![](../Knuckles/WildCanyon/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Pumpkin Hill
 ![](../Knuckles/PumpkinHill/LostChao-Far.jpg)
-![](../Knuckles/PumpkinHill/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Aquatic Mine
 ![](../Knuckles/AquaticMine/LostChao-Far.jpg)
 ![](../Knuckles/AquaticMine/LostChao-Far2.jpg)
-![](../Knuckles/AquaticMine/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
@@ -117,89 +107,75 @@
 
 # Meteor Herd
 ![](../Knuckles/MeteorHerd/LostChao-Far.jpg)
-![](../Knuckles/MeteorHerd/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Radical Highway
 ![](../Shadow/RadicalHighway/LostChao-Far.jpg)
-![](../Shadow/RadicalHighway/LostChao-Far2.jpg)
-![](../Shadow/RadicalHighway/LostChao-Far3.jpg)
-![](../Shadow/RadicalHighway/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # White Jungle
 ![](../Shadow/WhiteJungle/LostChao-Far.jpg)
-![](../Shadow/WhiteJungle/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Sky Rail
 ![](../Shadow/SkyRail/LostChao-Far.jpg)
-![](../Shadow/SkyRail/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Final Chase
 ![](../Shadow/FinalChase/LostChao-Far.jpg)
-![](../Shadow/FinalChase/LostChao-Close.jpg)  
+![](../Shadow/FinalChase/LostChao-Far2.jpg)  
 
 [Back to Top](#)
 
 # Iron Gate
 ![](../Eggman/IronGate/LostChao-Far.jpg)
-![](../Eggman/IronGate/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Sand Ocean
 ![](../Eggman/SandOcean/LostChao-Far.jpg)
-![](../Eggman/SandOcean/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Lost Colony
 ![](../Eggman/LostColony/LostChao-Far.jpg)
 ![](../Eggman/LostColony/LostChao-Far2.jpg)
-![](../Eggman/LostColony/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Weapons Bed
 ![](../Eggman/WeaponsBed/LostChao-Far.jpg)
-![](../Eggman/WeaponsBed/LostChao-Close.jpg)  
+![](../Eggman/WeaponsBed/LostChao-Far2.jpg)
 
 [Back to Top](#)
 
 # Cosmic Wall
 ![](../Eggman/CosmicWall/LostChao-Far.jpg)
 ![](../Eggman/CosmicWall/LostChao-Far2.jpg)
-![](../Eggman/CosmicWall/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Dry Lagoon 
 ![](../Rouge/DryLagoon/LostChao-Far.jpg)
-![](../Rouge/DryLagoon/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Egg Quarters
 ![](../Rouge/EggQuarters/LostChao-Far.jpg)
-![](../Rouge/EggQuarters/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Security Hall
 ![](../Rouge/SecurityHall/LostChao-Far.jpg)
-![](../Rouge/SecurityHall/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
 # Mad Space
 ![](../Rouge/MadSpace/LostChao-Far.jpg)
-![](../Rouge/MadSpace/LostChao-Close.jpg)  
 
 [Back to Top](#)
 
@@ -211,6 +187,5 @@
 ![](../CannonsCore/CannonsCore/LostChao-Far5.jpg)
 ![](../CannonsCore/CannonsCore/LostChao-Far6.jpg)
 ![](../CannonsCore/CannonsCore/LostChao-Far7.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Close.jpg)  
 
 [Back to Top](#)
