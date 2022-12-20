@@ -8,17 +8,8 @@
 
 # Prison Lane
 
-## Upgrade
-![](./PrisonLane/Upgrade-Far.jpg)  
-![](./PrisonLane/Upgrade-Far2.jpg)  
-![](./PrisonLane/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./PrisonLane/GoldBeetle-Close.jpg)  
-
-## Lost Chao
-![](./PrisonLane/LostChao-Far.jpg)
-![](./PrisonLane/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./PrisonLane/Chaobox-1st-Far.jpg)
@@ -65,11 +56,6 @@
 ## Gold Beetle
 ![](./MissionStreet/GoldBeetle-Close.jpg)  
 
-## Lost Chao
-![](./MissionStreet/LostChao-Far.jpg)
-![](./MissionStreet/LostChao-Far2.jpg)
-![](./MissionStreet/LostChao-Close.jpg)  
-
 ## Chao Box 1
 ![](./MissionStreet/Chaobox-1st-Far.jpg)
 ![](./MissionStreet/Chaobox-1st-Close.jpg)  
@@ -114,19 +100,9 @@
 
 # Hidden Base
 
-## Upgrade
-![](./HiddenBase/Upgrade-Far.jpg)  
-![](./HiddenBase/Upgrade-Far2.jpg)  
-![](./HiddenBase/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./HiddenBase/GoldBeetle-Far.jpg)  
 ![](./HiddenBase/GoldBeetle-Close.jpg)  
-
-## Lost Chao
-![](./HiddenBase/LostChao-Far.jpg)
-![](./HiddenBase/LostChao-Far2.jpg)
-![](./HiddenBase/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./HiddenBase/Chaobox-1st-Far.jpg)
@@ -162,11 +138,6 @@
 
 ## Gold Beetle
 ![](./EternalEngine/GoldBeetle-Close.jpg)  
-
-## Lost Chao
-![](./EternalEngine/LostChao-Far.jpg)
-![](./EternalEngine/LostChao-Far2.jpg)
-![](./EternalEngine/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./EternalEngine/Chaobox-1st-Far.jpg)

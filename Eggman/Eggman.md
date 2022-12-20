@@ -9,16 +9,8 @@
 
 # Iron Gate
 
-## Upgrade
-![](./IronGate/Upgrade-Far.jpg)  
-![](./IronGate/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./IronGate/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./IronGate/LostChao-Far.jpg)
-![](./IronGate/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./IronGate/Chaobox-1st-Far.jpg)
@@ -56,17 +48,8 @@
 
 # Sand Ocean
 
-## Upgrade
-![](./SandOcean/Upgrade-Far.jpg)  
-![](./SandOcean/Upgrade-Far2.jpg)  
-![](./SandOcean/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./SandOcean/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./SandOcean/LostChao-Far.jpg)
-![](./SandOcean/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./SandOcean/Chaobox-1st-Far.jpg)
@@ -107,11 +90,6 @@
 ## Gold Beetle
 ![](./LostColony/GoldBeetle-Close.jpg)
 
-## Lost Chao
-![](./LostColony/LostChao-Far.jpg)
-![](./LostColony/LostChao-Far2.jpg)
-![](./LostColony/LostChao-Close.jpg)  
-
 ## Chao Box 1
 ![](./LostColony/Chaobox-1st-Far.jpg)
 ![](./LostColony/Chaobox-1st-Close.jpg)  
@@ -138,10 +116,6 @@
 [Back to Top](#)
 
 # Weapons Bed
-
-## Lost Chao
-![](./WeaponsBed/LostChao-Far.jpg)
-![](./WeaponsBed/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./WeaponsBed/Chaobox-1st-Far.jpg)
@@ -177,18 +151,9 @@
 
 # Cosmic Wall
 
-## Upgrade
-![](./CosmicWall/Upgrade-Far.jpg)  
-![](./CosmicWall/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./CosmicWall/GoldBeetle-Far.jpg)  
 ![](./CosmicWall/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./CosmicWall/LostChao-Far.jpg)
-![](./CosmicWall/LostChao-Far2.jpg)
-![](./CosmicWall/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./CosmicWall/Chaobox-1st-Far.jpg)

@@ -6,20 +6,11 @@
 1. [ Security Hall ](#security-hall)
 1. [ Mad Space ](#mad-space)
 
-
 # Dry Lagoon
-
-## Upgrade
-![](./DryLagoon/Upgrade-Far.jpg)  
-![](./DryLagoon/Upgrade-Close.jpg)
 
 ## Gold Beetle
 ![](./DryLagoon/GoldBeetle-Far.jpg)  
 ![](./DryLagoon/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./DryLagoon/LostChao-Far.jpg)
-![](./DryLagoon/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./DryLagoon/Chaobox-1st-Close.jpg)  
@@ -43,10 +34,6 @@
 ## Gold Beetle
 ![](./EggQuarters/GoldBeetle-Far.jpg)  
 ![](./EggQuarters/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./EggQuarters/LostChao-Far.jpg)
-![](./EggQuarters/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./EggQuarters/Chaobox-1st-Close.jpg)  
@@ -78,16 +65,8 @@
 
 # Security Hall
 
-## Upgrade
-![](./SecurityHall/Upgrade-Far.jpg)  
-![](./SecurityHall/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./SecurityHall/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./SecurityHall/LostChao-Far.jpg)
-![](./SecurityHall/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./SecurityHall/Chaobox-1st-Close.jpg)  
@@ -112,10 +91,6 @@
 
 ## Gold Beetle
 ![](./MadSpace/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./MadSpace/LostChao-Far.jpg)
-![](./MadSpace/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./MadSpace/Chaobox-1st-Far.jpg)

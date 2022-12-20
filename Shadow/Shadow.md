@@ -8,19 +8,9 @@
 
 # Radical Highway
 
-## Upgrade
-![](./RadicalHighway/Upgrade-Far.jpg)  
-![](./RadicalHighway/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./RadicalHighway/GoldBeetle-Far.jpg)  
 ![](./RadicalHighway/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./RadicalHighway/LostChao-Far.jpg)
-![](./RadicalHighway/LostChao-Far2.jpg)
-![](./RadicalHighway/LostChao-Far3.jpg)
-![](./RadicalHighway/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./RadicalHighway/Chaobox-1st-Far.jpg)
@@ -65,10 +55,6 @@
 ## Gold Beetle
 ![](./WhiteJungle/GoldBeetle-Close.jpg)
 
-## Lost Chao
-![](./WhiteJungle/LostChao-Far.jpg)
-![](./WhiteJungle/LostChao-Close.jpg)  
-
 ## Chao Box 1
 ![](./WhiteJungle/Chaobox-1st-Far.jpg)
 ![](./WhiteJungle/Chaobox-1st-Close.jpg)  
@@ -109,16 +95,8 @@
 
 # Sky Rail
 
-## Upgrade
-![](./SkyRail/Upgrade-Far.jpg)  
-![](./SkyRail/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./SkyRail/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./SkyRail/LostChao-Far.jpg)
-![](./SkyRail/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./SkyRail/Chaobox-1st-Close.jpg)  
@@ -156,18 +134,10 @@
 
 # Final Chase
 
-## Upgrade
-![](./FinalChase/Upgrade-Far.jpg)  
-![](./FinalChase/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./FinalChase/GoldBeetle-Far.jpg)  
 ![](./FinalChase/GoldBeetle-Far2.jpg)  
 ![](./FinalChase/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./FinalChase/LostChao-Far.jpg)
-![](./FinalChase/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./FinalChase/Chaobox-1st-Far.jpg)

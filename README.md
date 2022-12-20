@@ -54,5 +54,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [ Security Hall ](./Rouge/Rouge.md#security-hall)
     1. [ Mad Space ](./Rouge/Rouge.md#mad-space)
 1. [Cannon's Core](./CannonsCore/CannonsCore.md#cannons-core)
+1. [Optional Upgrades](./OptionalUpgrades/OptionalUpgrades.md)
+1. [Lost Chao](./LostChao/LostChao.md)
 
 [Back to Top](#)

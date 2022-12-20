@@ -9,18 +9,8 @@
 
 # Wild Canyon
 
-## Upgrade
-![](./WildCanyon/Upgrade-Far.jpg)  
-![](./WildCanyon/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./WildCanyon/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./WildCanyon/LostChao-Far.jpg)
-![](./WildCanyon/LostChao-Far2.jpg)
-![](./WildCanyon/LostChao-Far3.jpg)
-![](./WildCanyon/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./WildCanyon/Chaobox-1st-Close.jpg)  
@@ -49,10 +39,6 @@
 
 # Pumpkin Hill
 
-## Lost Chao
-![](./PumpkinHill/LostChao-Far.jpg)
-![](./PumpkinHill/LostChao-Close.jpg)  
-
 ## Chao Box 1
 ![](./PumpkinHill/Chaobox-1st-Close.jpg)  
 
@@ -72,18 +58,9 @@
 
 # Aquatic Mine
 
-## Upgrade
-![](./AquaticMine/Upgrade-Far.jpg)  
-![](./AquaticMine/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./AquaticMine/GoldBeetle-Far.jpg)  
 ![](./AquaticMine/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./AquaticMine/LostChao-Far.jpg)
-![](./AquaticMine/LostChao-Far2.jpg)
-![](./AquaticMine/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./AquaticMine/Chaobox-1st-Far.jpg)
@@ -115,10 +92,6 @@
 ## Gold Beetle
 ![](./DeathChamber/GoldBeetle-Far.jpg)  
 ![](./DeathChamber/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./DeathChamber/LostChao-Far.jpg)
-![](./DeathChamber/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./DeathChamber/Chaobox-1st-Close.jpg)  
@@ -155,19 +128,10 @@
 
 # Meteor Herd
 
-## Upgrade
-![](./MeteorHerd/Upgrade-Far.jpg)  
-![](./MeteorHerd/Upgrade-Far2.jpg)  
-![](./MeteorHerd/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./MeteorHerd/GoldBeetle-Far.jpg)  
 ![](./MeteorHerd/GoldBeetle-Far2.jpg)  
 ![](./MeteorHerd/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./MeteorHerd/LostChao-Far.jpg)
-![](./MeteorHerd/LostChao-Close.jpg)  
 
 ## Chao Box 1
 ![](./MeteorHerd/Chaobox-1st-Far.jpg)

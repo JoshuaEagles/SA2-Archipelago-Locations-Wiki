@@ -12,15 +12,8 @@
 
 # City Escape
 
-## Upgrade
-![](./CityEscape/Upgrade-Far.jpg)  
-![](./CityEscape/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./CityEscape/GoldBeetle-Close.jpg)  
-
-## Lost Chao
-![](./CityEscape/LostChao-Far.jpg)
 
 ## Chao Box 1
 ![](./CityEscape/Chaobox-1st-Close.jpg)  
@@ -75,9 +68,6 @@
 ## Gold Beetle
 ![](./MetalHarbor/GoldBeetle-Close.jpg)
 
-## Lost Chao
-![](./MetalHarbor/LostChao-Far.jpg)
-
 ## Chao Box 1
 ![](./MetalHarbor/Chaobox-1st-Close.jpg)
 
@@ -94,15 +84,8 @@
 
 # Green Forest
 
-## Upgrade
-![](./GreenForest/Upgrade-Far.jpg)
-![](./GreenForest/Upgrade-Close.jpg)
-
 ## Gold Beetle
 ![](./GreenForest/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./GreenForest/LostChao-Far.jpg)
 
 ## Chao Box 1
 ![](./GreenForest/Chaobox-1st-Far.jpg)
@@ -141,9 +124,6 @@
 
 ## Gold Beetle
 ![](./PyramidCave/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./PyramidCave/LostChao-Far.jpg)
 
 ## Chao Box 1
 ![](./PyramidCave/Chaobox-1st-Close.jpg)
@@ -185,9 +165,6 @@
 ## Chao Box 3
 ![](./CrazyGadget/Chaobox-3rd-Far.jpg)
 
-## Lost Chao
-![](./CrazyGadget/LostChao-Close.jpg)  
-
 ## Pipe 1
 ![](./CrazyGadget/Pipe-1st-Far.jpg)
 ![](./CrazyGadget/Pipe-1st-Close.jpg)
@@ -211,16 +188,9 @@
 
 # Final Rush
 
-## Upgrade
-![](./FinalRush/Upgrade-Far.jpg)
-![](./FinalRush/Upgrade-Far2.jpg)
-
 ## Gold Beetle
 ![](./FinalRush/GoldBeetle-Far.jpg)
 ![](./FinalRush/GoldBeetle-Close.jpg)
-
-## Lost Chao
-![](./FinalRush/LostChao-Far.jpg)
 
 ## Chao Box 1
 ![](./FinalRush/Chaobox-1st-Far.jpg)

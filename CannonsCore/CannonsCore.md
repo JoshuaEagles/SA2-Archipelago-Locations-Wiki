@@ -3,16 +3,6 @@
 ## Gold Beetle
 ![](./CannonsCore/GoldBeetle-Close.jpg)
 
-## Lost Chao
-![](./CannonsCore/LostChao-Far.jpg)
-![](./CannonsCore/LostChao-Far2.jpg)
-![](./CannonsCore/LostChao-Far3.jpg)
-![](./CannonsCore/LostChao-Far4.jpg)
-![](./CannonsCore/LostChao-Far5.jpg)
-![](./CannonsCore/LostChao-Far6.jpg)
-![](./CannonsCore/LostChao-Far7.jpg)
-![](./CannonsCore/LostChao-Close.jpg)  
-
 ## Chao Box 1
 ![](./CannonsCore/Chaobox-1st-Far.jpg)
 ![](./CannonsCore/Chaobox-1st-Close.jpg)  
