@@ -17,99 +17,99 @@
 1. [Security Hall](#security-hall)
 
 # City Escape
-![](../Sonic/CityEscape/Upgrade-Far.jpg)  
-![](../Sonic/CityEscape/Upgrade-Close.jpg)
+![](../Sonic/CityEscape/Upgrade-Far.webp)  
+![](../Sonic/CityEscape/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Green Forest
-![](../Sonic/GreenForest/Upgrade-Far.jpg)
-![](../Sonic/GreenForest/Upgrade-Close.jpg)
+![](../Sonic/GreenForest/Upgrade-Far.webp)
+![](../Sonic/GreenForest/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Final Rush
-![](../Sonic/FinalRush/Upgrade-Far.jpg)
-![](../Sonic/FinalRush/Upgrade-Far2.jpg)
+![](../Sonic/FinalRush/Upgrade-Far.webp)
+![](../Sonic/FinalRush/Upgrade-Far2.webp)
 
 [Back to Top](#)
 
 # Prison Lane
-![](../Tails/PrisonLane/Upgrade-Far.jpg)  
-![](../Tails/PrisonLane/Upgrade-Far2.jpg)  
-![](../Tails/PrisonLane/Upgrade-Close.jpg)
+![](../Tails/PrisonLane/Upgrade-Far.webp)  
+![](../Tails/PrisonLane/Upgrade-Far2.webp)  
+![](../Tails/PrisonLane/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Hidden Base
-![](../Tails/HiddenBase/Upgrade-Far.jpg)  
-![](../Tails/HiddenBase/Upgrade-Far2.jpg)  
-![](../Tails/HiddenBase/Upgrade-Close.jpg)
+![](../Tails/HiddenBase/Upgrade-Far.webp)  
+![](../Tails/HiddenBase/Upgrade-Far2.webp)  
+![](../Tails/HiddenBase/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Wild Canyon
-![](../Knuckles/WildCanyon/Upgrade-Far.jpg)  
-![](../Knuckles/WildCanyon/Upgrade-Close.jpg)
+![](../Knuckles/WildCanyon/Upgrade-Far.webp)  
+![](../Knuckles/WildCanyon/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Aquatic Mine
-![](../Knuckles/AquaticMine/Upgrade-Far.jpg)  
-![](../Knuckles/AquaticMine/Upgrade-Close.jpg)
+![](../Knuckles/AquaticMine/Upgrade-Far.webp)  
+![](../Knuckles/AquaticMine/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Meteor Herd
-![](../Knuckles/MeteorHerd/Upgrade-Far.jpg)  
-![](../Knuckles/MeteorHerd/Upgrade-Far2.jpg)  
-![](../Knuckles/MeteorHerd/Upgrade-Close.jpg)
+![](../Knuckles/MeteorHerd/Upgrade-Far.webp)  
+![](../Knuckles/MeteorHerd/Upgrade-Far2.webp)  
+![](../Knuckles/MeteorHerd/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Radical Highway
-![](../Shadow/RadicalHighway/Upgrade-Far.jpg)  
-![](../Shadow/RadicalHighway/Upgrade-Close.jpg)
+![](../Shadow/RadicalHighway/Upgrade-Far.webp)  
+![](../Shadow/RadicalHighway/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Sky Rail
-![](../Shadow/SkyRail/Upgrade-Far.jpg)  
-![](../Shadow/SkyRail/Upgrade-Close.jpg)
+![](../Shadow/SkyRail/Upgrade-Far.webp)  
+![](../Shadow/SkyRail/Upgrade-Close.webp)
 
 # Final Chase
-![](../Shadow/FinalChase/Upgrade-Far.jpg)  
-![](../Shadow/FinalChase/Upgrade-Close.jpg)
+![](../Shadow/FinalChase/Upgrade-Far.webp)  
+![](../Shadow/FinalChase/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Iron Gate
-![](../Eggman/IronGate/Upgrade-Far.jpg)  
-![](../Eggman/IronGate/Upgrade-Close.jpg)
+![](../Eggman/IronGate/Upgrade-Far.webp)  
+![](../Eggman/IronGate/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Sand Ocean
-![](../Eggman/SandOcean/Upgrade-Far.jpg)  
-![](../Eggman/SandOcean/Upgrade-Far2.jpg)  
-![](../Eggman/SandOcean/Upgrade-Close.jpg)
+![](../Eggman/SandOcean/Upgrade-Far.webp)  
+![](../Eggman/SandOcean/Upgrade-Far2.webp)  
+![](../Eggman/SandOcean/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Cosmic Wall
-![](../Eggman/CosmicWall/Upgrade-Far.jpg)  
-![](../Eggman/CosmicWall/Upgrade-Close.jpg)
+![](../Eggman/CosmicWall/Upgrade-Far.webp)  
+![](../Eggman/CosmicWall/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Dry Lagoon
-![](../Rouge/DryLagoon/Upgrade-Far.jpg)  
-![](../Rouge/DryLagoon/Upgrade-Close.jpg)
+![](../Rouge/DryLagoon/Upgrade-Far.webp)  
+![](../Rouge/DryLagoon/Upgrade-Close.webp)
 
 [Back to Top](#)
 
 # Security Hall
-![](../Rouge/SecurityHall/Upgrade-Far.jpg)  
-![](../Rouge/SecurityHall/Upgrade-Close.jpg)
+![](../Rouge/SecurityHall/Upgrade-Far.webp)  
+![](../Rouge/SecurityHall/Upgrade-Close.webp)
 
 [Back to Top](#)

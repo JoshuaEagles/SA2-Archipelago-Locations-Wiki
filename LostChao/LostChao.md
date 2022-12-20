@@ -32,160 +32,160 @@
 1. [Cannon's Core](#cannons-core)
 
 # City Escape
-![](../Sonic/CityEscape/LostChao-Far.jpg)
+![](../Sonic/CityEscape/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Metal Harbor
-![](../Sonic/MetalHarbor/LostChao-Far.jpg)
+![](../Sonic/MetalHarbor/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Green Forest
-![](../Sonic/GreenForest/LostChao-Far.jpg)
+![](../Sonic/GreenForest/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Pyramid Cave
-![](../Sonic/PyramidCave/LostChao-Far.jpg)
+![](../Sonic/PyramidCave/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Crazy Gadget
-![](../Sonic/CrazyGadget/LostChao-Far.jpg)  
+![](../Sonic/CrazyGadget/LostChao-Far.webp)  
 
 [Back to Top](#)
 
 # Final Rush
-![](../Sonic/FinalRush/LostChao-Far.jpg)
+![](../Sonic/FinalRush/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Prison Lane
-![](../Tails/PrisonLane/LostChao-Far.jpg)
+![](../Tails/PrisonLane/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Mission Street
-![](../Tails/MissionStreet/LostChao-Far.jpg)
+![](../Tails/MissionStreet/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Hidden Base
-![](../Tails/HiddenBase/LostChao-Far.jpg)
+![](../Tails/HiddenBase/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Eternal Engine
-![](../Tails/EternalEngine/LostChao-Far.jpg)
-![](../Tails/EternalEngine/LostChao-Far2.jpg)
+![](../Tails/EternalEngine/LostChao-Far.webp)
+![](../Tails/EternalEngine/LostChao-Far2.webp)
 
 [Back to Top](#)
 
 # Wild Canyon
-![](../Knuckles/WildCanyon/LostChao-Far.jpg)
-![](../Knuckles/WildCanyon/LostChao-Far2.jpg)
+![](../Knuckles/WildCanyon/LostChao-Far.webp)
+![](../Knuckles/WildCanyon/LostChao-Far2.webp)
 
 [Back to Top](#)
 
 # Pumpkin Hill
-![](../Knuckles/PumpkinHill/LostChao-Far.jpg)
+![](../Knuckles/PumpkinHill/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Aquatic Mine
-![](../Knuckles/AquaticMine/LostChao-Far.jpg)
-![](../Knuckles/AquaticMine/LostChao-Far2.jpg)
+![](../Knuckles/AquaticMine/LostChao-Far.webp)
+![](../Knuckles/AquaticMine/LostChao-Far2.webp)
 
 [Back to Top](#)
 
 # Death Chamber
-![](../Knuckles/DeathChamber/LostChao-Far.jpg)
-![](../Knuckles/DeathChamber/LostChao-Close.jpg)  
+![](../Knuckles/DeathChamber/LostChao-Far.webp)
+![](../Knuckles/DeathChamber/LostChao-Close.webp)  
 
 [Back to Top](#)
 
 # Meteor Herd
-![](../Knuckles/MeteorHerd/LostChao-Far.jpg)
+![](../Knuckles/MeteorHerd/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Radical Highway
-![](../Shadow/RadicalHighway/LostChao-Far.jpg)
+![](../Shadow/RadicalHighway/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # White Jungle
-![](../Shadow/WhiteJungle/LostChao-Far.jpg)
+![](../Shadow/WhiteJungle/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Sky Rail
-![](../Shadow/SkyRail/LostChao-Far.jpg)
+![](../Shadow/SkyRail/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Final Chase
-![](../Shadow/FinalChase/LostChao-Far.jpg)
-![](../Shadow/FinalChase/LostChao-Far2.jpg)  
+![](../Shadow/FinalChase/LostChao-Far.webp)
+![](../Shadow/FinalChase/LostChao-Far2.webp)  
 
 [Back to Top](#)
 
 # Iron Gate
-![](../Eggman/IronGate/LostChao-Far.jpg)
+![](../Eggman/IronGate/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Sand Ocean
-![](../Eggman/SandOcean/LostChao-Far.jpg)
+![](../Eggman/SandOcean/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Lost Colony
-![](../Eggman/LostColony/LostChao-Far.jpg)
-![](../Eggman/LostColony/LostChao-Far2.jpg)
+![](../Eggman/LostColony/LostChao-Far.webp)
+![](../Eggman/LostColony/LostChao-Far2.webp)
 
 [Back to Top](#)
 
 # Weapons Bed
-![](../Eggman/WeaponsBed/LostChao-Far.jpg)
-![](../Eggman/WeaponsBed/LostChao-Far2.jpg)
+![](../Eggman/WeaponsBed/LostChao-Far.webp)
+![](../Eggman/WeaponsBed/LostChao-Far2.webp)
 
 [Back to Top](#)
 
 # Cosmic Wall
-![](../Eggman/CosmicWall/LostChao-Far.jpg)
-![](../Eggman/CosmicWall/LostChao-Far2.jpg)
+![](../Eggman/CosmicWall/LostChao-Far.webp)
+![](../Eggman/CosmicWall/LostChao-Far2.webp)
 
 [Back to Top](#)
 
 # Dry Lagoon 
-![](../Rouge/DryLagoon/LostChao-Far.jpg)
+![](../Rouge/DryLagoon/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Egg Quarters
-![](../Rouge/EggQuarters/LostChao-Far.jpg)
+![](../Rouge/EggQuarters/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Security Hall
-![](../Rouge/SecurityHall/LostChao-Far.jpg)
+![](../Rouge/SecurityHall/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Mad Space
-![](../Rouge/MadSpace/LostChao-Far.jpg)
+![](../Rouge/MadSpace/LostChao-Far.webp)
 
 [Back to Top](#)
 
 # Cannon's Core
-![](../CannonsCore/CannonsCore/LostChao-Far.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Far2.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Far3.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Far4.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Far5.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Far6.jpg)
-![](../CannonsCore/CannonsCore/LostChao-Far7.jpg)
+![](../CannonsCore/CannonsCore/LostChao-Far.webp)
+![](../CannonsCore/CannonsCore/LostChao-Far2.webp)
+![](../CannonsCore/CannonsCore/LostChao-Far3.webp)
+![](../CannonsCore/CannonsCore/LostChao-Far4.webp)
+![](../CannonsCore/CannonsCore/LostChao-Far5.webp)
+![](../CannonsCore/CannonsCore/LostChao-Far6.webp)
+![](../CannonsCore/CannonsCore/LostChao-Far7.webp)
 
 [Back to Top](#)
