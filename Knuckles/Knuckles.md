@@ -21,19 +21,15 @@
 
 ## Chao Box 3
 ![](./WildCanyon/Chaobox-3rd-Far.jpg)  
-![](./WildCanyon/Chaobox-3rd-Close.jpg)
 
 ## Pipe 1
 ![](./WildCanyon/Pipe-1st-Far.jpg)
-![](./WildCanyon/Pipe-1st-Close.jpg)
 
 ## Pipe 2
 ![](./WildCanyon/Pipe-2nd-Far.jpg)
-![](./WildCanyon/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./WildCanyon/Pipe-3rd-Far.jpg)
-![](./WildCanyon/Pipe-3rd-Close.jpg)
 
 [Back to Top](#)
 
@@ -50,7 +46,6 @@
 
 ## Pipe 1
 ![](./PumpkinHill/Pipe-1st-Far.jpg)
-![](./PumpkinHill/Pipe-1st-Close.jpg)
 
 ## Hidden 1
 ![](./PumpkinHill/Hidden-1st-Far.jpg)
@@ -75,7 +70,6 @@
 
 ## Pipe 1
 ![](./AquaticMine/Pipe-1st-Far.jpg)
-![](./AquaticMine/Pipe-1st-Close.jpg)
 
 ## Pipe 2
 ![](./AquaticMine/Pipe-2nd-Far.jpg)
@@ -83,7 +77,6 @@
 
 ## Pipe 3
 ![](./AquaticMine/Pipe-3rd-Far.jpg)
-![](./AquaticMine/Pipe-3rd-Close.jpg)
 
 [Back to Top](#)
 
@@ -155,6 +148,5 @@
 
 ## Pipe 3
 ![](./MeteorHerd/Pipe-3rd-Far.jpg)
-![](./MeteorHerd/Pipe-3rd-Close.jpg)
 
 [Back to Top](#)

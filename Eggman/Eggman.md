@@ -42,7 +42,6 @@
 
 ## Pipe 5
 ![](./IronGate/Pipe-5th-Far.jpg)
-![](./IronGate/Pipe-5th-Close.jpg)
 
 [Back to Top](#)
 
@@ -53,11 +52,9 @@
 
 ## Chao Box 1
 ![](./SandOcean/Chaobox-1st-Far.jpg)
-![](./SandOcean/Chaobox-1st-Close.jpg)  
 
 ## Chao Box 2
 ![](./SandOcean/Chaobox-2nd-Far.jpg)  
-![](./SandOcean/Chaobox-2nd-Close.jpg)  
 
 ## Chao Box 3
 ![](./SandOcean/Chaobox-3rd-Far.jpg)  
@@ -81,7 +78,6 @@
 
 ## Pipe 5
 ![](./SandOcean/Pipe-5th-Far.jpg)
-![](./SandOcean/Pipe-5th-Close.jpg)
 
 [Back to Top](#)
 
@@ -172,7 +168,6 @@
 
 ## Pipe 2
 ![](./CosmicWall/Pipe-2nd-Far.jpg)
-![](./CosmicWall/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./CosmicWall/Pipe-3rd-Far.jpg)
@@ -184,6 +179,5 @@
 
 ## Pipe 5
 ![](./CosmicWall/Pipe-5th-Far.jpg)
-![](./CosmicWall/Pipe-5th-Close.jpg)
 
 [Back to Top](#)

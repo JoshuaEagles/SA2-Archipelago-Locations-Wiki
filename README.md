@@ -9,10 +9,7 @@ If you notice any issues or have feedback or suggestions, either create an issue
 Also TODO:
 - Re-encode the images to a better format like webp, maybe reduce resolution as well.
 - More views for each stage, for example a minimal view that only has 1 screenshot per check or a chronological view.
-- Use the SET editor to check for any other locations
-- Maybe add logic information beside each image?
 - Trim images down, remove unnecessary ones that don't provide value
-- Retake all images with HUD off.
 
 PRs are welcome to this, but I'll get to everything myself eventually.
 

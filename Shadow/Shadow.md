@@ -14,11 +14,9 @@
 
 ## Chao Box 1
 ![](./RadicalHighway/Chaobox-1st-Far.jpg)
-![](./RadicalHighway/Chaobox-1st-Close.jpg)  
 
 ## Chao Box 2
 ![](./RadicalHighway/Chaobox-2nd-Far.jpg)  
-![](./RadicalHighway/Chaobox-2nd-Close.jpg)  
 
 ## Chao Box 3
 ![](./RadicalHighway/Chaobox-3rd-Far.jpg)  
@@ -26,11 +24,9 @@
 
 ## Pipe 1
 ![](./RadicalHighway/Pipe-1st-Far.jpg)
-![](./RadicalHighway/Pipe-1st-Close.jpg)
 
 ## Pipe 2
 ![](./RadicalHighway/Pipe-2nd-Far.jpg)
-![](./RadicalHighway/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./RadicalHighway/Pipe-3rd-Far.jpg)
@@ -71,7 +67,6 @@
 
 ## Pipe 2
 ![](./WhiteJungle/Pipe-2nd-Far.jpg)
-![](./WhiteJungle/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./WhiteJungle/Pipe-3rd-Far.jpg)
@@ -79,7 +74,6 @@
 
 ## Pipe 4
 ![](./WhiteJungle/Pipe-4th-Far.jpg)
-![](./WhiteJungle/Pipe-4th-Close.jpg)
 
 ## Hidden 1
 ![](./WhiteJungle/Hidden-1st-Far.jpg)
@@ -126,7 +120,7 @@
 ![](./SkyRail/Pipe-5th-Far.jpg)
 ![](./SkyRail/Pipe-5th-Close.jpg)
 
-## Pipe 5
+## Pipe 6
 ![](./SkyRail/Pipe-6th-Far.jpg)
 ![](./SkyRail/Pipe-6th-Close.jpg)
 
@@ -158,7 +152,6 @@
 
 ## Pipe 2
 ![](./FinalChase/Pipe-2nd-Far.jpg)
-![](./FinalChase/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./FinalChase/Pipe-3rd-Far.jpg)

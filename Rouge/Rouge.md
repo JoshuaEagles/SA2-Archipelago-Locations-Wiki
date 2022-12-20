@@ -94,7 +94,6 @@
 
 ## Chao Box 1
 ![](./MadSpace/Chaobox-1st-Far.jpg)
-![](./MadSpace/Chaobox-1st-Close.jpg)  
 
 ## Chao Box 2
 ![](./MadSpace/Chaobox-2nd-Close.jpg)  
@@ -114,6 +113,6 @@
 ![](./MadSpace/Pipe-3rd-Close.jpg)
 
 ## Pipe 4
-![](./MadSpace/Pipe-4th-Close.jpg)
+![](./MadSpace/Pipe-4th-Far.jpg)
 
 [Back to Top](#)

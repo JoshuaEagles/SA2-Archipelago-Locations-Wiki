@@ -9,7 +9,6 @@
 
 ## Chao Box 2
 ![](./CannonsCore/Chaobox-2nd-Far.jpg)  
-![](./CannonsCore/Chaobox-2nd-Close.jpg)  
 
 ## Chao Box 3
 ![](./CannonsCore/Chaobox-3rd-Far.jpg)  
@@ -20,7 +19,6 @@
 
 ## Pipe 2
 ![](./CannonsCore/Pipe-2nd-Far.jpg)
-![](./CannonsCore/Pipe-2nd-Close.jpg)
 
 ## Pipe 3
 ![](./CannonsCore/Pipe-3rd-Far.jpg)
