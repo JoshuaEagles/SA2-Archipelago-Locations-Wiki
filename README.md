@@ -6,16 +6,13 @@ This is considered content complete now, with all stages included in the guide. 
 
 If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
 
-Also TODO:
-- Re-encode the images to a better format like webp, maybe reduce resolution as well.
-- More views for each stage, for example a minimal view that only has 1 screenshot per check or a chronological view.
-- Trim images down, remove unnecessary ones that don't provide value
+Chronological versions of the pages have the locations in order of when you encounter them in the stages. This may be helpful for learning where they are intitially. For fast lookups I suggest using the regular pages.
 
 PRs are welcome to this, but I'll get to everything myself eventually.
 
 ## Table of Contents
 
-1. [Sonic Stages](./Sonic/Sonic.md)
+1. [Sonic Stages](./Sonic/Sonic.md) ([Alternate Chronological Page](./Sonic/SonicChronological.md))
     1. [City Escape](./Sonic/Sonic.md#city-escape)
     1. [Metal Harbor](./Sonic/Sonic.md#metal-harbor)
     1. [Green Forest](./Sonic/Sonic.md#green-forest)
@@ -23,7 +20,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [Crazy Gadget](./Sonic/Sonic.md#crazy-gadget)
     1. [Final Rush](./Sonic/Sonic.md#final-rush)
     1. [Green Hill](./Sonic/Sonic.md#green-hill)
-1. [Tails Stages](./Tails/Tails.md)
+1. [Tails Stages](./Tails/Tails.md) ([Alternate Chronological Page](./Tails/TailsChronological.md))
     1. [Prison Lane](./Tails/Tails.md#prison-lane)
     1. [Mission Street](./Tails/Tails.md#mission-street)
     1. [Hidden Base](./Tails/Tails.md#hidden-base)
@@ -34,12 +31,12 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [Aquatic Mine](./Knuckles/Knuckles.md#aquatic-mine)
     1. [Death Chamber](./Knuckles/Knuckles.md#death-chamber)
     1. [Meteor Herd](./Knuckles/Knuckles.md#meteor-herd)
-1. [Shadow Stages](./Shadow/Shadow.md)
+1. [Shadow Stages](./Shadow/Shadow.md) ([Alternate Chronological Page](./Shadow/ShadowChronological.md))
     1. [Radical Highway](./Shadow/Shadow.md#radical-highway)
     1. [White Jungle](./Shadow/Shadow.md#white-jungle)
     1. [Sky Rail](./Shadow/Shadow.md#sky-rail)
     1. [Final Chase](./Shadow/Shadow.md#final-Chase)
-1. [Eggman Stages](./Eggman/Eggman.md)
+1. [Eggman Stages](./Eggman/Eggman.md) ([Alternate Chronological Page](./Eggman/EggmanChronological.md))
     1. [ Iron Gate ](./Eggman/Eggman.md#iron-gate)
     1. [ Sand Ocean ](./Eggman/Eggman.md#sand-ocean)
     1. [ Lost Colony ](./Eggman/Eggman.md#lost-colony)
@@ -50,7 +47,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
     1. [ Egg Quarters ](./Rouge/Rouge.md#egg-quarters)
     1. [ Security Hall ](./Rouge/Rouge.md#security-hall)
     1. [ Mad Space ](./Rouge/Rouge.md#mad-space)
-1. [Cannon's Core](./CannonsCore/CannonsCore.md#cannons-core)
+1. [Cannon's Core](./CannonsCore/CannonsCore.md#cannons-core) ([Alternate Chronological Page](./CannonsCore/CannonsCoreChronological.md))
 1. [Optional Upgrades](./OptionalUpgrades/OptionalUpgrades.md)
 1. [Lost Chao](./LostChao/LostChao.md)
 
