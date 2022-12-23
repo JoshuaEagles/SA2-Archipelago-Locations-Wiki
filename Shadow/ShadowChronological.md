@@ -29,14 +29,14 @@
 
 [Back to Top](#)
 
-## Radical Highway Pipe 2
-![](./RadicalHighway/Pipe-2nd-Far.webp)
-
-[Back to Top](#)
-
 ## Radical Highway Gold Beetle
 ![](./RadicalHighway/GoldBeetle-Far.webp)  
 ![](./RadicalHighway/GoldBeetle-Close.webp)
+
+[Back to Top](#)
+
+## Radical Highway Pipe 2
+![](./RadicalHighway/Pipe-2nd-Far.webp)
 
 [Back to Top](#)
 
