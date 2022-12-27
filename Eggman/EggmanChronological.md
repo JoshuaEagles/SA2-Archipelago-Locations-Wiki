@@ -68,13 +68,13 @@
 
 [Back to Top](#)
 
-## Sand Ocean Gold Beetle
-![](./SandOcean/GoldBeetle-Close.webp)
+## Sand Ocean Chao Box 2
+![](./SandOcean/Chaobox-2nd-Far.webp)  
 
 [Back to Top](#)
 
-## Sand Ocean Chao Box 2
-![](./SandOcean/Chaobox-2nd-Far.webp)  
+## Sand Ocean Gold Beetle
+![](./SandOcean/GoldBeetle-Close.webp)
 
 [Back to Top](#)
 
