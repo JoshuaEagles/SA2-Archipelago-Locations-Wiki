@@ -116,6 +116,7 @@
 # Lost Colony
 
 ## Lost Colony Gold Beetle
+![](./LostColony/GoldBeetle-Far.webp)
 ![](./LostColony/GoldBeetle-Close.webp)
 
 [Back to Top](#)
