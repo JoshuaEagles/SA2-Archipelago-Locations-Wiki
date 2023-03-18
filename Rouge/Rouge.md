@@ -117,6 +117,7 @@
 [Back to Top](#)
 
 ## Security Hall Hidden 1
+![](./SecurityHall/Hidden-1st-Far.webp)
 ![](./SecurityHall/Hidden-1st-Close.webp)
 
 [Back to Top](#)
@@ -130,6 +131,7 @@
 
 ## Mad Space Chao Box 1
 ![](./MadSpace/Chaobox-1st-Far.webp)
+![](./MadSpace/Chaobox-1st-Close.webp)
 
 [Back to Top](#)
 

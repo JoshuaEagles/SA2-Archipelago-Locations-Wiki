@@ -58,6 +58,7 @@
 [Back to Top](#)
 
 ## Pumpkin Hill Chao Box 3
+![](./PumpkinHill/Chaobox-3rd-Far.webp)
 ![](./PumpkinHill/Chaobox-3rd-Close.webp)
 
 [Back to Top](#)

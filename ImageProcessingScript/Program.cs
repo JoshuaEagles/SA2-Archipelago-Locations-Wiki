@@ -2,17 +2,12 @@
 using System.Diagnostics;
 using System.IO;
 
-Console.WriteLine("Hello, World!");
-// cwebp -resize 640 512 -m 6 -q 70 ../Sonic/CityEscape/Chaobox-1st-Close.webp -o ../Sonic/CityEscape/Chaobox-1st-Close.webp
-
-// Console.WriteLine(RunCommandWithBash(" -c \"cwebp -resize 640 512 -m 6 -q 70 ../Sonic/CityEscape/Chaobox-1st-Close.webp -o ../Sonic/CityEscape/Chaobox-1st-Close.webp\""));
-
 Console.WriteLine("Enter path to root of project:");
 string path = Console.ReadLine();
 
-foreach (string filePath in Directory.EnumerateFiles(path, "*.webp", SearchOption.AllDirectories))
+foreach (string filePath in Directory.EnumerateFiles(path, "*.jpg", SearchOption.AllDirectories))
 {
-    string outputPath = filePath.Replace(".webp", ".webp");
+    string outputPath = filePath.Replace(".jpg", ".webp");
 
     Console.WriteLine(RunCommandWithBash($" -c \"cwebp -resize 640 512 -m 6 -q 70 '{filePath}' -o '{outputPath}'\""));
 }
