@@ -1,4 +1,4 @@
-# Sonic Stages
+# Sonic Stages (Omosanity)
 
 ## Table of Contents:
 

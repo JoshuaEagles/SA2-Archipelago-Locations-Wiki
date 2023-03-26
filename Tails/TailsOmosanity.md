@@ -1,4 +1,4 @@
-# Tails Stages
+# Tails Stages (Omosanity)
 
 ## Table of Contents:
 1. [ Prison Lane ](#prison-lane)
