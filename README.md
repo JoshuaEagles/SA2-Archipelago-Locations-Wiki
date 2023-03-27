@@ -2,12 +2,12 @@
 
 This project aims to include screenshots of every optional in-stage location check for SA2 Archipelago. If you've found this and don't know what Archipelago is, here's a link: https://archipelago.gg/. This could also just be used outside of an Archipelago context, for finding chao-boxes and whistle locations and such. 
 
-Slowly adding Omosanity, Hard Logic, and Out of Logic checks to this.
-Whistlesanity, Beetlesanity, and Keysanity are all complete, along with Lost Chao locations and Optional Upgrade locations.
+Slowly adding Hard Logic, and Out of Logic checks to this.
+Whistlesanity, Beetlesanity, Keysanity, and Omosanity are all complete, along with Lost Chao locations and Optional Upgrade locations.
 
 If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
 
-Chronological versions of the pages have the locations in order of when you encounter them in the stages. This may be helpful for learning where they are intitially. For fast lookups I suggest using the regular pages. Omosanity will not be included in this view until all stages are done for that character at the earliest.
+Chronological versions of the pages have the locations in order of when you encounter them in the stages. This may be helpful for learning where they are intitially. For fast lookups I suggest using the regular pages. 
 
 PRs are welcome to this, but I'll get to everything myself eventually.
 
