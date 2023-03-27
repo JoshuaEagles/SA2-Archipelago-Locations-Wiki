@@ -1,10 +1,11 @@
 # Knuckles Stages (Omosanity)
 
 ## Table of Contents:
-1. [ Prison Lane ](#prison-lane)
-1. [ Mission Street ](#mission-street)
-1. [ Hidden Base ](#hidden-base)
-1. [ Eternal Engine ](#eternal-engine)
+1. [ Wild Canyon ](#wild-canyon)
+1. [ Pumpkin Hill ](#pumpkin-hill)
+1. [ Aquatic Mine ](#aquatic-mine)
+1. [ Death Chamber ](#death-chamber)
+1. [ Meteor Herd ](#meteor-herd)
 
 # Wild Canyon
 
