@@ -45,12 +45,6 @@
 
 [Back to Top](#)
 
-## Iron Gate Omochao 7
-![](./IronGate/Omochao-7th-Far.webp)
-![](./IronGate/Omochao-7th-Close.webp)
-
-[Back to Top](#)
-
 # Sand Ocean
 
 ## Sand Ocean Omochao 1
