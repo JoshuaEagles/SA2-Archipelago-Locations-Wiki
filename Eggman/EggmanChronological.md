@@ -169,15 +169,15 @@
 
 [Back to Top](#)
 
-## Lost Colony Omochao 2
-![](./LostColony/Omochao-2nd-Far.webp)
-![](./LostColony/Omochao-2nd-Close.webp)
-
-[Back to Top](#)
-
 ## Lost Colony Pipe 1
 ![](./LostColony/Pipe-1st-Far.webp)
 ![](./LostColony/Pipe-1st-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Omochao 2
+![](./LostColony/Omochao-2nd-Far.webp)
+![](./LostColony/Omochao-2nd-Close.webp)
 
 [Back to Top](#)
 
