@@ -368,6 +368,18 @@
 
 [Back to Top](#)
 
+## Eternal Engine Omochao 6
+![](./EternalEngine/Omochao-6th-Far.webp)
+![](./EternalEngine/Omochao-6th-Close.webp)
+
+[Back to Top](#)
+
+## Eternal Engine Omochao 7
+![](./EternalEngine/Omochao-7th-Far.webp)
+![](./EternalEngine/Omochao-7th-Close.webp)
+
+[Back to Top](#)
+
 ## Eternal Engine Chao Box 2
 ![](./EternalEngine/Chaobox-2nd-Far.webp)  
 ![](./EternalEngine/Chaobox-2nd-Close.webp)  
@@ -385,18 +397,6 @@
 ## Eternal Engine Pipe 3
 ![](./EternalEngine/Pipe-3rd-Far.webp)
 ![](./EternalEngine/Pipe-3rd-Close.webp)
-
-[Back to Top](#)
-
-## Eternal Engine Omochao 6
-![](./EternalEngine/Omochao-6th-Far.webp)
-![](./EternalEngine/Omochao-6th-Close.webp)
-
-[Back to Top](#)
-
-## Eternal Engine Omochao 7
-![](./EternalEngine/Omochao-7th-Far.webp)
-![](./EternalEngine/Omochao-7th-Close.webp)
 
 [Back to Top](#)
 
