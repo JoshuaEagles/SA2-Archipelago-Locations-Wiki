@@ -145,7 +145,7 @@
 [Back to Top](#)
 
 ## City Escape Omochao 10
-![](./CityEscape/Omochao-10th-far.webp)
+![](./CityEscape/Omochao-10th-Far.webp)
 ![](./CityEscape/Omochao-10th-Close.webp)
 
 [Back to Top](#)

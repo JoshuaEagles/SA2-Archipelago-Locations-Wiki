@@ -64,7 +64,7 @@
 [Back to Top](#)
 
 ## Wild Canyon Omochao 10
-![](./WildCanyon/Omochao-10th-far.webp)
+![](./WildCanyon/Omochao-10th-Far.webp)
 ![](./WildCanyon/Omochao-10th-Close.webp)
 
 [Back to Top](#)
@@ -126,7 +126,7 @@
 [Back to Top](#)
 
 ## Pumpkin Hill Omochao 10
-![](./PumpkinHill/Omochao-10th-far.webp)
+![](./PumpkinHill/Omochao-10th-Far.webp)
 ![](./PumpkinHill/Omochao-10th-Close.webp)
 
 [Back to Top](#)

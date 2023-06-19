@@ -63,7 +63,7 @@
 [Back to Top](#)
 
 ## Dry Lagoon Omochao 10
-![](./DryLagoon/Omochao-10th-far.webp)
+![](./DryLagoon/Omochao-10th-Far.webp)
 ![](./DryLagoon/Omochao-10th-Close.webp)
 
 [Back to Top](#)
@@ -181,7 +181,7 @@
 [Back to Top](#)
 
 ## Security Hall Omochao 10
-![](./SecurityHall/Omochao-10th-far.webp)
+![](./SecurityHall/Omochao-10th-Far.webp)
 ![](./SecurityHall/Omochao-10th-Close.webp)
 
 [Back to Top](#)

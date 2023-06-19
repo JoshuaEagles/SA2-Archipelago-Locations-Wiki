@@ -124,7 +124,7 @@
 [Back to Top](#)
 
 ## Prison Lane Omochao 10
-![](./PrisonLane/Omochao-10th-far.webp)
+![](./PrisonLane/Omochao-10th-Far.webp)
 ![](./PrisonLane/Omochao-10th-Close.webp)
 
 [Back to Top](#)
@@ -419,7 +419,7 @@
 [Back to Top](#)
 
 ## Eternal Engine Omochao 10
-![](./EternalEngine/Omochao-10th-far.webp)
+![](./EternalEngine/Omochao-10th-Far.webp)
 ![](./EternalEngine/Omochao-10th-Close.webp)
 
 [Back to Top](#)

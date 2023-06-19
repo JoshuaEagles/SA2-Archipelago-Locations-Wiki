@@ -4,6 +4,7 @@ This project aims to include screenshots of every optional in-stage location che
 
 Slowly adding Hard Logic, and Out of Logic checks to this.
 Whistlesanity, Beetlesanity, Keysanity, and Omosanity are all complete, along with Lost Chao locations and Optional Upgrade locations.
+Animalsanity is in progress, currently as of writing this I only have Hero Story done. There are currently no chronological pages.
 
 If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
 
@@ -13,50 +14,62 @@ PRs are welcome to this, but I'll get to everything myself eventually.
 
 ## Table of Contents
 
-### Keysanity, Whistlesanity, Beetlesanity
-1. [Sonic](./Sonic/Sonic.md)
-1. [Tails](./Tails/Tails.md)
-1. [Knuckles](./Knuckles/Knuckles.md)
-1. [Shadow](./Shadow/Shadow.md)
-1. [Eggman](./Eggman/Eggman.md)
-1. [Rouge](./Rouge/Rouge.md)
-1. [Cannon's Core](./CannonsCore/CannonsCore.md)
+## Keysanity, Whistlesanity, Beetlesanity
+- [Sonic](./Sonic/Sonic.md)
+- [Tails](./Tails/Tails.md)
+- [Knuckles](./Knuckles/Knuckles.md)
+- [Shadow](./Shadow/Shadow.md)
+- [Eggman](./Eggman/Eggman.md)
+- [Rouge](./Rouge/Rouge.md)
+- [Cannon's Core](./CannonsCore/CannonsCore.md)
 
 ## Omosanity
-1. [Sonic](./Sonic/SonicOmosanity.md)
-1. [Tails](./Tails/TailsOmosanity.md)
-1. [Knuckles](./Knuckles/KnucklesOmosanity.md)
-1. [Shadow](./Shadow/ShadowOmosanity.md)
-1. [Eggman](./Eggman/EggmanOmosanity.md)
-1. [Rouge](./Rouge/RougeOmosanity.md)
-1. [Cannon's Core](./CannonsCore/CannonsCoreOmosanity.md)
+- [Sonic](./Sonic/SonicOmosanity.md)
+- [Tails](./Tails/TailsOmosanity.md)
+- [Knuckles](./Knuckles/KnucklesOmosanity.md)
+- [Shadow](./Shadow/ShadowOmosanity.md)
+- [Eggman](./Eggman/EggmanOmosanity.md)
+- [Rouge](./Rouge/RougeOmosanity.md)
+- [Cannon's Core](./CannonsCore/CannonsCoreOmosanity.md)
+
+## Animalsanity
+- [Sonic](./Sonic/SonicAnimalsanity.md)
+- [Tails](./Tails/TailsAnimalsanity.md)
+- [Knuckles](./Knuckles/KnucklesAnimalsanity.md)
+- **The rest of animalsanity is not done!**
+- [Shadow](./Shadow/ShadowAnimalsanity.md)
+- [Eggman](./Eggman/EggmanAnimalsanity.md)
+- [Rouge](./Rouge/RougeAnimalsanity.md)
+- [Cannon's Core](./CannonsCore/CannonsCoreAnimalsanity.md)
 
 ## Chronological Checks
-1. [Sonic](./Sonic/SonicChronological.md)
-1. [Tails](./Tails/TailsChronological.md)
-1. [Knuckles](./Knuckles/KnucklesChronological.md)
-1. [Shadow](./Shadow/ShadowChronological.md)
-1. [Eggman](./Eggman/EggmanChronological.md)
-1. [Rouge](./Rouge/RougeChronological.md)
-1. [Cannon's Core](./CannonsCore/CannonsCoreChronological.md)
+- [Sonic](./Sonic/SonicChronological.md)
+- [Tails](./Tails/TailsChronological.md)
+- [Knuckles](./Knuckles/KnucklesChronological.md)
+- [Shadow](./Shadow/ShadowChronological.md)
+- [Eggman](./Eggman/EggmanChronological.md)
+- [Rouge](./Rouge/RougeChronological.md)
+- [Cannon's Core](./CannonsCore/CannonsCoreChronological.md)
 
 ## Hard Logic Guide
-1. [Sonic](./Sonic/SonicHardLogic.md)
-1. [Tails](./Tails/TailsHardLogic.md)
-1. [Knuckles](./Knuckles/KnucklesHardLogic.md)
-1. [Shadow](./Shadow/ShadowHardLogic.md)
-1. [Eggman](./Eggman/EggmanHardLogic.md)
-1. [Rouge](./Rouge/RougeHardLogic.md)
-1. [Cannon's Core](./CannonsCore/CannonsCoreHardLogic.md)
+- [Sonic](./Sonic/SonicHardLogic.md)
+- **The rest of hard logic is not done!**
+- [Tails](./Tails/TailsHardLogic.md)
+- [Knuckles](./Knuckles/KnucklesHardLogic.md)
+- [Shadow](./Shadow/ShadowHardLogic.md)
+- [Eggman](./Eggman/EggmanHardLogic.md)
+- [Rouge](./Rouge/RougeHardLogic.md)
+- [Cannon's Core](./CannonsCore/CannonsCoreHardLogic.md)
 
 ## Out of Logic Guide
-1. [Sonic](./Sonic/SonicOutOfLogic.md)
-1. [Tails](./Tails/TailsOutOfLogic.md)
-1. [Knuckles](./Knuckles/KnucklesOutOfLogic.md)
-1. [Shadow](./Shadow/ShadowOutOfLogic.md)
-1. [Eggman](./Eggman/EggmanOutOfLogic.md)
-1. [Rouge](./Rouge/RougeOutOfLogic.md)
-1. [Cannon's Core](./CannonsCore/CannonsCoreOutOfLogic.md)
+- [Sonic](./Sonic/SonicOutOfLogic.md)
+- **The rest of out of logic is not done!**
+- [Tails](./Tails/TailsOutOfLogic.md)
+- [Knuckles](./Knuckles/KnucklesOutOfLogic.md)
+- [Shadow](./Shadow/ShadowOutOfLogic.md)
+- [Eggman](./Eggman/EggmanOutOfLogic.md)
+- [Rouge](./Rouge/RougeOutOfLogic.md)
+- [Cannon's Core](./CannonsCore/CannonsCoreOutOfLogic.md)
 
 ## Optional Upgrades
 [Optional Upgrades](./OptionalUpgrades/OptionalUpgrades.md)
