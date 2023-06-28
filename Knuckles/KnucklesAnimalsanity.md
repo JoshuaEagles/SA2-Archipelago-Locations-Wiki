@@ -256,6 +256,12 @@
 
 [Back to Top](#)
 
+## Death Chamber Animal 10
+![](./DeathChamber/Animal-10th-Far.webp)
+![](./DeathChamber/Animal-10th-Close.webp)
+
+[Back to Top](#)
+
 # Meteor Herd
 
 ## Meteor Herd Animal 1

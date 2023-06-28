@@ -322,6 +322,12 @@
 
 [Back to Top](#)
 
+## Green Forest Animal 18
+![](./GreenForest/Animal-18th-Far.webp)
+![](./GreenForest/Animal-18th-Close.webp)
+
+[Back to Top](#)
+
 # Pyramid Cave
 
 ## Pyramid Cave Animal 1
