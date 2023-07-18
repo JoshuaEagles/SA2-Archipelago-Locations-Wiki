@@ -1,4 +1,4 @@
-# Eggman Stages
+# Eggman Stages (Omosanity)
 
 ## Table of Contents:
 1. [ Iron Gate ](#iron-gate)
