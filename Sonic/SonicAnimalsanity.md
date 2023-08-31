@@ -552,12 +552,6 @@
 
 [Back to Top](#)
 
-## Crazy Gadget Animal 17
-![](./CrazyGadget/Animal-17th-Far.webp)
-![](./CrazyGadget/Animal-17th-Close.webp)
-
-[Back to Top](#)
-
 # Final Rush
 
 ## Final Rush Animal 1

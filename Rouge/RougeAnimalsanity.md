@@ -68,6 +68,12 @@
 
 [Back to Top](#)
 
+## Dry Lagoon Animal 11
+![](./DryLagoon/Animal-11th-Far.webp)
+![](./DryLagoon/Animal-11th-Close.webp)
+
+[Back to Top](#)
+
 # Egg Quarters
 
 ## Egg Quarters Animal 1

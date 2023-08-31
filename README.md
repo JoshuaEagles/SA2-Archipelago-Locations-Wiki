@@ -4,7 +4,7 @@ This project aims to include screenshots of every optional in-stage location che
 
 Slowly adding Hard Logic, and Out of Logic checks to this.
 Whistlesanity, Beetlesanity, Keysanity, and Omosanity are all fully complete, along with Lost Chao locations and Optional Upgrade locations.
-Animalsanity is in progress, currently as of writing this I only have every stage done, but only the regular pages. There are currently no chronological pages. I want to avoid mistakes with those like the previous times so it'll take longer to release them.
+Animalsanity in the chronological pages is WIP, I expect to have it done within a few weeks as I'm doing it while participating in an SA2 async. All stages that I've played some / all of have their animalsanity chronological checks in. Hunting chronological is also WIP, only the stages I've been able to play so far are done, and the rest are copies of the animalsanity page. Take care to check on if a stage is complete before relying on the chronological guide for any stage!
 
 If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
 
