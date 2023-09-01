@@ -220,15 +220,39 @@
 
 # Aquatic Mine
 
+## Aquatic Mine Omochao 1
+![](./AquaticMine/Omochao-1st-Far.webp)
+![](./AquaticMine/Omochao-1st-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Omochao 2
+![](./AquaticMine/Omochao-2nd-Far.webp)
+![](./AquaticMine/Omochao-2nd-Close.webp)
+
+[Back to Top](#)
+
 ## Aquatic Mine Animal 1
 ![](./AquaticMine/Animal-1st-Far.webp)
 ![](./AquaticMine/Animal-1st-Close.webp)
 
 [Back to Top](#)
 
-## Aquatic Mine Animal 2
+## Aquatic Mine Gold Beetle
+![](./AquaticMine/GoldBeetle-Far.webp)  
+![](./AquaticMine/GoldBeetle-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Pipe 1 & Animal 2
 ![](./AquaticMine/Animal-2nd-Far.webp)
 ![](./AquaticMine/Animal-2nd-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Omochao 3
+![](./AquaticMine/Omochao-3rd-Far.webp)
+![](./AquaticMine/Omochao-3rd-Close.webp)
 
 [Back to Top](#)
 
@@ -238,9 +262,33 @@
 
 [Back to Top](#)
 
+## Aquatic Mine Chao Box 1
+![](./AquaticMine/Chaobox-1st-Far.webp)
+![](./AquaticMine/Chaobox-1st-Close.webp)  
+
+[Back to Top](#)
+
 ## Aquatic Mine Animal 4
 ![](./AquaticMine/Animal-4th-Far.webp)
 ![](./AquaticMine/Animal-4th-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Chao Box 2
+![](./AquaticMine/Chaobox-2nd-Far.webp)  
+![](./AquaticMine/Chaobox-2nd-Close.webp)  
+
+[Back to Top](#)
+
+## Aquatic Mine Omochao 4
+![](./AquaticMine/Omochao-4th-Far.webp)
+![](./AquaticMine/Omochao-4th-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Omochao 6
+![](./AquaticMine/Omochao-6th-Far.webp)
+![](./AquaticMine/Omochao-6th-Close.webp)
 
 [Back to Top](#)
 
@@ -250,7 +298,13 @@
 
 [Back to Top](#)
 
-## Aquatic Mine Animal 6
+## Aquatic Mine Omochao 5
+![](./AquaticMine/Omochao-5th-Far.webp)
+![](./AquaticMine/Omochao-5th-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Pipe 2 & Animal 6
 ![](./AquaticMine/Animal-6th-Far.webp)
 ![](./AquaticMine/Animal-6th-Close.webp)
 
@@ -262,21 +316,34 @@
 
 [Back to Top](#)
 
-## Aquatic Mine Animal 8
+## Aquatic Mine Pipe 3 & Animal 8
+![](./AquaticMine/Animal-9th-Far.webp)
+![](./AquaticMine/Animal-9th-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Animal 9
 ![](./AquaticMine/Animal-8th-Far.webp)
 ![](./AquaticMine/Animal-8th-Close.webp)
 
 [Back to Top](#)
 
-## Aquatic Mine Animal 9
-![](./AquaticMine/Animal-9th-Far.webp)
-![](./AquaticMine/Animal-9th-Close.webp)
+## Aquatic Mine Chao Box 3
+![](./AquaticMine/Chaobox-3rd-Close.webp)
 
 [Back to Top](#)
 
 ## Aquatic Mine Animal 10
 ![](./AquaticMine/Animal-10th-Far.webp)
 ![](./AquaticMine/Animal-10th-Close.webp)
+
+[Back to Top](#)
+
+## Aquatic Mine Omochao 7
+![](./AquaticMine/Omochao-7th-Far1.webp)
+![](./AquaticMine/Omochao-7th-Far2.webp)
+![](./AquaticMine/Omochao-7th-Far3.webp)
+![](./AquaticMine/Omochao-7th-Close.webp)
 
 [Back to Top](#)
 
@@ -351,9 +418,27 @@
 
 [Back to Top](#)
 
-## Meteor Herd Animal 2
+## Meteor Herd Omochao 1
+![](./MeteorHerd/Omochao-1st-Far.webp)
+![](./MeteorHerd/Omochao-1st-Close.webp)
+
+[Back to Top](#)
+
+## Meteor Herd Pipe 1 & Animal 2
 ![](./MeteorHerd/Animal-2nd-Far.webp)
 ![](./MeteorHerd/Animal-2nd-Close.webp)
+
+[Back to Top](#)
+
+## Meteor Herd Omochao 2
+![](./MeteorHerd/Omochao-2nd-Far.webp)
+![](./MeteorHerd/Omochao-2nd-Close.webp)
+
+[Back to Top](#)
+
+## Meteor Herd Chao Box 1
+![](./MeteorHerd/Chaobox-1st-Far.webp)
+![](./MeteorHerd/Chaobox-1st-Close.webp)  
 
 [Back to Top](#)
 
@@ -369,9 +454,22 @@
 
 [Back to Top](#)
 
+## Meteor Herd Gold Beetle
+![](./MeteorHerd/GoldBeetle-Far.webp)  
+![](./MeteorHerd/GoldBeetle-Far2.webp)  
+![](./MeteorHerd/GoldBeetle-Close.webp)
+
+[Back to Top](#)
+
 ## Meteor Herd Animal 5
 ![](./MeteorHerd/Animal-5th-Far.webp)
 ![](./MeteorHerd/Animal-5th-Close.webp)
+
+[Back to Top](#)
+
+## Meteor Herd Chao Box 2
+![](./MeteorHerd/Chaobox-2nd-Far.webp)  
+![](./MeteorHerd/Chaobox-2nd-Close.webp)  
 
 [Back to Top](#)
 
@@ -381,15 +479,27 @@
 
 [Back to Top](#)
 
-## Meteor Herd Animal 7
+## Meteor Herd Pipe 3 & Animal 7
 ![](./MeteorHerd/Animal-7th-Far.webp)
 ![](./MeteorHerd/Animal-7th-Close.webp)
+
+[Back to Top](#)
+
+## Meteor Herd Omochao 3
+![](./MeteorHerd/Omochao-3rd-Far.webp)
+![](./MeteorHerd/Omochao-3rd-Close.webp)
 
 [Back to Top](#)
 
 ## Meteor Herd Animal 8
 ![](./MeteorHerd/Animal-8th-Far.webp)
 ![](./MeteorHerd/Animal-8th-Close.webp)
+
+[Back to Top](#)
+
+## Meteor Herd Chao Box 3
+![](./MeteorHerd/Chaobox-3rd-Far.webp)  
+![](./MeteorHerd/Chaobox-3rd-Close.webp)
 
 [Back to Top](#)
 

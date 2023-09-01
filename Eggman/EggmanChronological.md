@@ -159,9 +159,21 @@
 
 # Sand Ocean
 
+## Sand Ocean Animal 1
+![](./SandOcean/Animal-1st-Far.webp)
+![](./SandOcean/Animal-1st-Close.webp)
+
+[Back to Top](#)
+
 ## Sand Ocean Omochao 1
 ![](./SandOcean/Omochao-1st-Far.webp)
 ![](./SandOcean/Omochao-1st-Close.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 2
+![](./SandOcean/Animal-2nd-Far.webp)
+![](./SandOcean/Animal-2nd-Close.webp)
 
 [Back to Top](#)
 
@@ -171,8 +183,26 @@
 
 [Back to Top](#)
 
+## Sand Ocean Animal 3
+![](./SandOcean/Animal-3rd-Far.webp)
+![](./SandOcean/Animal-3rd-Close.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 4
+![](./SandOcean/Animal-4th-Far.webp)
+![](./SandOcean/Animal-4th-Close.webp)
+
+[Back to Top](#)
+
 ## Sand Ocean Chao Box 1
 ![](./SandOcean/Chaobox-1st-Far.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 5
+![](./SandOcean/Animal-5th-Far.webp)
+![](./SandOcean/Animal-5th-Close.webp)
 
 [Back to Top](#)
 
@@ -186,15 +216,34 @@
 
 [Back to Top](#)
 
-## Sand Ocean Pipe 1
+## Sand Ocean Pipe 1 & Animal 6
 ![](./SandOcean/Pipe-1st-Far.webp)
 ![](./SandOcean/Pipe-1st-Close.webp)
 
 [Back to Top](#)
 
-## Sand Ocean Pipe 2
+## Sand Ocean Pipe 2 & Animal 7
 ![](./SandOcean/Pipe-2nd-Far.webp)
 ![](./SandOcean/Pipe-2nd-Close.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 8
+![](./SandOcean/Animal-8th-Far1.webp)
+![](./SandOcean/Animal-8th-Far2.webp)
+![](./SandOcean/Animal-8th-Close.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 9
+![](./SandOcean/Animal-9th-Far.webp)
+![](./SandOcean/Animal-9th-Close.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 10
+![](./SandOcean/Animal-10th-Far.webp)
+![](./SandOcean/Animal-10th-Close.webp)
 
 [Back to Top](#)
 
@@ -204,20 +253,32 @@
 
 [Back to Top](#)
 
-## Sand Ocean Pipe 3
+## Sand Ocean Pipe 3 & Animal 11
 ![](./SandOcean/Pipe-3rd-Far.webp)
 ![](./SandOcean/Pipe-3rd-Close.webp)
 
 [Back to Top](#)
 
-## Sand Ocean Pipe 4
+## Sand Ocean Animal 12
+![](./SandOcean/Animal-12th-Far.webp)
+![](./SandOcean/Animal-12th-Close.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Pipe 4 & Animal 13
 ![](./SandOcean/Pipe-4th-Far.webp)
 ![](./SandOcean/Pipe-4th-Close.webp)
 
 [Back to Top](#)
 
-## Sand Ocean Pipe 5
+## Sand Ocean Pipe 5 & Animal 14
 ![](./SandOcean/Pipe-5th-Far.webp)
+
+[Back to Top](#)
+
+## Sand Ocean Animal 15
+![](./SandOcean/Animal-15th-Far.webp)
+![](./SandOcean/Animal-15th-Close.webp)
 
 [Back to Top](#)
 
@@ -229,7 +290,13 @@
 
 [Back to Top](#)
 
-## Lost Colony Pipe 1
+## Lost Colony Animal 1
+![](./LostColony/Animal-1st-Far.webp)
+![](./LostColony/Animal-1st-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Pipe 1 & Animal 2
 ![](./LostColony/Pipe-1st-Far.webp)
 ![](./LostColony/Pipe-1st-Close.webp)
 
@@ -241,7 +308,19 @@
 
 [Back to Top](#)
 
-## Lost Colony Hidden 1
+## Lost Colony Animal 3
+![](./LostColony/Animal-3rd-Far.webp)
+![](./LostColony/Animal-3rd-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 4
+![](./LostColony/Animal-4th-Far.webp)
+![](./LostColony/Animal-4th-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Hidden 1 & Animal 5
 ![](./LostColony/Hidden-1st-Far.webp)
 ![](./LostColony/Hidden-1st-Close.webp)
 
@@ -250,6 +329,24 @@
 ## Lost Colony Omochao 3
 ![](./LostColony/Omochao-3rd-Far.webp)
 ![](./LostColony/Omochao-3rd-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 6
+![](./LostColony/Animal-6th-Far.webp)
+![](./LostColony/Animal-6th-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 7
+![](./LostColony/Animal-7th-Far.webp)
+![](./LostColony/Animal-7th-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 8
+![](./LostColony/Animal-8th-Far.webp)
+![](./LostColony/Animal-8th-Close.webp)
 
 [Back to Top](#)
 
@@ -276,13 +373,25 @@
 
 [Back to Top](#)
 
+## Lost Colony Animal 9
+![](./LostColony/Animal-9th-Far.webp)
+![](./LostColony/Animal-9th-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 10
+![](./LostColony/Animal-10th-Far.webp)
+![](./LostColony/Animal-10th-Close.webp)
+
+[Back to Top](#)
+
 ## Lost Colony Omochao 6
 ![](./LostColony/Omochao-6th-Far.webp)
 ![](./LostColony/Omochao-6th-Close.webp)
 
 [Back to Top](#)
 
-## Lost Colony Pipe 2
+## Lost Colony Pipe 2 & Animal 11
 ![](./LostColony/Pipe-2nd-Far.webp)
 ![](./LostColony/Pipe-2nd-Close.webp)
 
@@ -291,6 +400,12 @@
 ## Lost Colony Gold Beetle
 ![](./LostColony/GoldBeetle-Far.webp)
 ![](./LostColony/GoldBeetle-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 12
+![](./LostColony/Animal-12th-Far.webp)
+![](./LostColony/Animal-12th-Close.webp)
 
 [Back to Top](#)
 
@@ -303,6 +418,18 @@
 ## Lost Colony Omochao 7
 ![](./LostColony/Omochao-7th-Far.webp)
 ![](./LostColony/Omochao-7th-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 13
+![](./LostColony/Animal-13th-Far.webp)
+![](./LostColony/Animal-13th-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Animal 14
+![](./LostColony/Animal-14th-Far.webp)
+![](./LostColony/Animal-14th-Close.webp)
 
 [Back to Top](#)
 
