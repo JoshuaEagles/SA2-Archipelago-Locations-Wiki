@@ -222,7 +222,8 @@
 [Back to Top](#)
 
 ## Death Chamber Omochao 7
-![](./DeathChamber/Omochao-7th-Far.webp)
+![](./DeathChamber/Omochao-7th-Far1.webp)
+![](./DeathChamber/Omochao-7th-Far2.webp)
 ![](./DeathChamber/Omochao-7th-Close.webp)
 
 [Back to Top](#)

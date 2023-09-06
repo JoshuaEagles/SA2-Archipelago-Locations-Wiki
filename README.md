@@ -3,8 +3,7 @@
 This project aims to include screenshots of every optional in-stage location check for SA2 Archipelago. If you've found this and don't know what Archipelago is, here's a link: https://archipelago.gg/. This could also just be used outside of an Archipelago context, for finding chao-boxes and whistle locations and such. 
 
 Slowly adding Hard Logic, and Out of Logic checks to this.
-Whistlesanity, Beetlesanity, Keysanity, and Omosanity are all fully complete, along with Lost Chao locations and Optional Upgrade locations.
-Animalsanity in the chronological pages is WIP, I expect to have it done within a few weeks as I'm doing it while participating in an SA2 async. All stages that I've played some / all of have their animalsanity chronological checks in. Hunting chronological is also WIP, only the stages I've been able to play so far are done, and the rest are copies of the animalsanity page. Take care to check on if a stage is complete before relying on the chronological guide for any stage!
+Whistlesanity, Beetlesanity, Keysanity, Omosanity, and Animalsanity are all fully complete, along with Lost Chao locations and Optional Upgrade locations.
 
 If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
 
@@ -42,7 +41,6 @@ PRs are welcome to this, but I'll get to everything myself eventually.
 - [Cannon's Core](./CannonsCore/CannonsCoreAnimalsanity.md)
 
 ## Chronological Checks
-- **Animalsanity is not in the chronological pages yet!**
 - [Sonic](./Sonic/SonicChronological.md)
 - [Tails](./Tails/TailsChronological.md)
 - [Knuckles](./Knuckles/KnucklesChronological.md)
