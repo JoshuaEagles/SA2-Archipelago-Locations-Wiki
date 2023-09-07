@@ -635,7 +635,7 @@ Animal Count: 10
 
 [Back to Top](#)
 
-## Meteor Herd Animal 5
+## Meteor Herd Pipe 2 & Animal 5
 ![](./MeteorHerd/Animal-5th-Far.webp)
 ![](./MeteorHerd/Animal-5th-Close.webp)
 
