@@ -41,12 +41,40 @@ PRs are welcome to this, but I'll get to everything myself eventually.
 - [Cannon's Core](./CannonsCore/CannonsCoreAnimalsanity.md)
 
 ## Chronological Checks
-- [Sonic](./Sonic/SonicChronological.md)
-- [Tails](./Tails/TailsChronological.md)
-- [Knuckles](./Knuckles/KnucklesChronological.md)
-- [Shadow](./Shadow/ShadowChronological.md)
-- [Eggman](./Eggman/EggmanChronological.md)
-- [Rouge](./Rouge/RougeChronological.md)
+- Sonic
+  - [City Escape](./Sonic/Chronological/CityEscape.md) 
+  - [Metal Harbor](./Sonic/Chronological/MetalHarbor.md) 
+  - [Green Forest](./Sonic/Chronological/GreenForest.md) 
+  - [Pyramid Cave](./Sonic/Chronological/PyramidCave.md) 
+  - [Crazy Gadget](./Sonic/Chronological/CrazyGadget.md) 
+  - [Final Rush](./Sonic/Chronological/FinalRush.md) 
+- Tails
+  - [Prison Lane](./Tails/Chronological/PrisonLane.md)
+  - [Mission Street](./Tails/Chronological/MissionStreet.md)
+  - [Mission Street](./Tails/Chronological/HiddenBase.md)
+  - [Eternal Engine](./Tails/Chronological/EternalEngine.md)
+- Knuckles
+  - [Wild Canyon](./Knuckles/Chronological/WildCanyon.md)
+  - [Pumpkin Hill](./Knuckles/Chronological/PumpkinHill.md)
+  - [Aquatic Mine](./Knuckles/Chronological/AquaticMine.md)
+  - [Death Chamber](./Knuckles/Chronological/DeathChamber.md)
+  - [Meteor Herd](./Knuckles/Chronological/MeteorHerd.md)
+- Shadow
+  - [Radical Highway](./Shadow/Chronological/RadicalHighway.md)
+  - [White Jungle](./Shadow/Chronological/WhiteJungle.md)
+  - [Sky Rail](./Shadow/Chronological/SkyRail.md)
+  - [Final Chase](./Shadow/Chronological/FinalChase.md)
+- Eggman
+  - [Iron Gate](./Eggman/Chronological/IronGate.md)
+  - [Sand Ocean](./Eggman/Chronological/SandOcean.md)
+  - [Lost Colony](./Eggman/Chronological/LostColony.md)
+  - [Weapons Bed](./Eggman/Chronological/WeaponsBed.md)
+  - [Cosmic Wall](./Eggman/Chronological/CosmicWall.md)
+- Rouge
+  - [Dry Lagoon](./Rouge/Chronological/DryLagoon.md)
+  - [Egg Quarters](./Rouge/Chronological/EggQuarters.md)
+  - [Security Hall](./Rouge/Chronological/SecurityHall.md)
+  - [Mad Space](./Rouge/Chronological/MadSpace.md)
 - [Cannon's Core](./CannonsCore/CannonsCoreChronological.md)
 
 ## Hard Logic Guide
