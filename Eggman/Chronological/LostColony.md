@@ -18,15 +18,15 @@
 
 [Back to Top](#)
 
-## Lost Colony Omochao 2
-![](../LostColony/Omochao-2nd-Far.webp)
-![](../LostColony/Omochao-2nd-Close.webp)
-
-[Back to Top](#)
-
 ## Lost Colony Animal 3
 ![](../LostColony/Animal-3rd-Far.webp)
 ![](../LostColony/Animal-3rd-Close.webp)
+
+[Back to Top](#)
+
+## Lost Colony Omochao 2
+![](../LostColony/Omochao-2nd-Far.webp)
+![](../LostColony/Omochao-2nd-Close.webp)
 
 [Back to Top](#)
 
