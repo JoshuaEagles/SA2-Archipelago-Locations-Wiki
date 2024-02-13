@@ -51,7 +51,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
 - Tails
   - [Prison Lane](./Tails/Chronological/PrisonLane.md)
   - [Mission Street](./Tails/Chronological/MissionStreet.md)
-  - [Mission Street](./Tails/Chronological/HiddenBase.md)
+  - [Hidden Base](./Tails/Chronological/HiddenBase.md)
   - [Eternal Engine](./Tails/Chronological/EternalEngine.md)
 - Knuckles
   - [Wild Canyon](./Knuckles/Chronological/WildCanyon.md)
