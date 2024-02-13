@@ -70,12 +70,6 @@
 
 [Back to Top](#)
 
-## Iron Gate Chao Box 2
-![](../IronGate/Chaobox-2nd-Far.webp)  
-![](../IronGate/Chaobox-2nd-Close.webp)  
-
-[Back to Top](#)
-
 ## Iron Gate Animal 7
 ![](../IronGate/Animal-7th-Far.webp)
 ![](../IronGate/Animal-7th-Close.webp)
@@ -93,6 +87,12 @@
 ![](../IronGate/Animal-9th-Close.webp)
 
 [Back to Top](#)  
+
+## Iron Gate Chao Box 2
+![](../IronGate/Chaobox-2nd-Far.webp)  
+![](../IronGate/Chaobox-2nd-Close.webp)  
+
+[Back to Top](#)
 
 ## Iron Gate Pipe 3 & Animal 10
 ![](../IronGate/Pipe-3rd-Far.webp)
