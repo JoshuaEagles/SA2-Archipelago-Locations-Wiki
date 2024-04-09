@@ -552,6 +552,15 @@
 
 [Back to Top](#)
 
+## Crazy Gadget Animal Bonus
+- This animal isn't a check, but it is in the level.  
+![](./CrazyGadget/Animal-Bonus-Far1.webp)
+![](./CrazyGadget/Animal-Bonus-Far2.webp)
+![](./CrazyGadget/Animal-Bonus-Close1.webp)
+![](./CrazyGadget/Animal-Bonus-Close2.webp)
+
+[Back to Top](#)
+
 # Final Rush
 
 ## Final Rush Animal 1
