@@ -1,11 +1,13 @@
 # SA2 Archipelago Location Wiki
 
+**Note: If you're having issues with rate limits, try signing into a GitHub account. On some larger pages, images may fail to load due to GitHub having a lower rate limit unless you log in.**
+
 This project aims to include screenshots of every optional in-stage location check for SA2 Archipelago. If you've found this and don't know what Archipelago is, here's a link: https://archipelago.gg/. This could also just be used outside of an Archipelago context, for finding chao-boxes and whistle locations and such. 
 
 Slowly adding Hard Logic, and Out of Logic checks to this.
 Whistlesanity, Beetlesanity, Keysanity, Omosanity, and Animalsanity are all fully complete, along with Lost Chao locations and Optional Upgrade locations.
 
-If you notice any issues or have feedback or suggestions, either create an issue here on github or send me a message on discord Entiss#4057.
+If you notice any issues or have feedback or suggestions, either create an issue here on GitHub or send me a message on Discord, username is entiss.
 
 Chronological versions of the pages have the locations in order of when you encounter them in the stages. This may be helpful for learning where they are intitially. For fast lookups I suggest using the regular pages. 
 
@@ -79,7 +81,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
 
 ## Hard Logic Guide
 - [Sonic](./Sonic/SonicHardLogic.md)
-- **The rest of hard logic is not done!**
+- **The rest of hard logic is not started!**
 - [Tails](./Tails/TailsHardLogic.md)
 - [Knuckles](./Knuckles/KnucklesHardLogic.md)
 - [Shadow](./Shadow/ShadowHardLogic.md)
@@ -89,7 +91,7 @@ PRs are welcome to this, but I'll get to everything myself eventually.
 
 ## Out of Logic Guide
 - [Sonic](./Sonic/SonicOutOfLogic.md)
-- **The rest of out of logic is not done!**
+- **The rest of out of logic is not started!**
 - [Tails](./Tails/TailsOutOfLogic.md)
 - [Knuckles](./Knuckles/KnucklesOutOfLogic.md)
 - [Shadow](./Shadow/ShadowOutOfLogic.md)
