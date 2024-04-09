@@ -143,7 +143,7 @@
 
 [Back to Top](#)
 
-## Mission Street Hidden 3 & Animal 15
+## Mission Street Hidden 3 & Animal 14
 ![](../MissionStreet/Hidden-3rd-Far.webp)
 ![](../MissionStreet/Hidden-3rd-Close.webp)
 
@@ -155,7 +155,8 @@
 
 [Back to Top](#)
 
-## Mission Street Hidden 4 & Animal 16
+
+## Mission Street Hidden 4 & Animal 15
 ![](../MissionStreet/Hidden-4th-Far.webp)
 ![](../MissionStreet/Hidden-4th-Close.webp)
 
