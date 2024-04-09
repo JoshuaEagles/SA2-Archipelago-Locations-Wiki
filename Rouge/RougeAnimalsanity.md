@@ -40,7 +40,8 @@
 
 ## Dry Lagoon Animal 6
 ![](./DryLagoon/Animal-6th-Far.webp)
-![](./DryLagoon/Animal-6th-Close.webp)
+![](./DryLagoon/Animal-6th-Close1.webp)
+![](./DryLagoon/Animal-6th-Close2.webp)
 
 [Back to Top](#)
 
@@ -71,6 +72,12 @@
 ## Dry Lagoon Animal 11
 ![](./DryLagoon/Animal-11th-Far.webp)
 ![](./DryLagoon/Animal-11th-Close.webp)
+
+[Back to Top](#)
+
+## Dry Lagoon Animal 12
+![](./DryLagoon/Animal-12th-Far.webp)
+![](./DryLagoon/Animal-12th-Close.webp)
 
 [Back to Top](#)
 

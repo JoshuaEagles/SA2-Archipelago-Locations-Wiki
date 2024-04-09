@@ -88,6 +88,13 @@
 
 [Back to Top](#)
 
+## Dry Lagoon Animal 6
+![](../DryLagoon/Animal-6th-Far.webp)
+![](../DryLagoon/Animal-6th-Close1.webp)
+![](../DryLagoon/Animal-6th-Close2.webp)
+
+[Back to Top](#)
+
 ## Dry Lagoon Omochao 8
 ![](../DryLagoon/Omochao-8th-Far.webp)
 ![](../DryLagoon/Omochao-8th-Close.webp)
@@ -106,21 +113,9 @@
 
 [Back to Top](#)
 
-## Dry Lagoon Animal 6
-![](../DryLagoon/Animal-6th-Far.webp)
-![](../DryLagoon/Animal-6th-Close.webp)
-
-[Back to Top](#)
-
 ## Dry Lagoon Animal 7
 ![](../DryLagoon/Animal-7th-Far.webp)
 ![](../DryLagoon/Animal-7th-Close.webp)
-
-[Back to Top](#)
-
-## Dry Lagoon Omochao 11
-![](../DryLagoon/Omochao-11th-Far.webp)
-![](../DryLagoon/Omochao-11th-Close.webp)
 
 [Back to Top](#)
 
@@ -130,8 +125,9 @@
 
 [Back to Top](#)
 
-## Dry Lagoon Chao Box 3
-![](../DryLagoon/Chaobox-3rd-Close.webp)
+## Dry Lagoon Omochao 11
+![](../DryLagoon/Omochao-11th-Far.webp)
+![](../DryLagoon/Omochao-11th-Close.webp)
 
 [Back to Top](#)
 
@@ -141,9 +137,20 @@
 
 [Back to Top](#)
 
+## Dry Lagoon Chao Box 3
+![](../DryLagoon/Chaobox-3rd-Close.webp)
+
+[Back to Top](#)
+
 ## Dry Lagoon Animal 10
 ![](../DryLagoon/Animal-10th-Far.webp)
 ![](../DryLagoon/Animal-10th-Close.webp)
+
+[Back to Top](#)
+
+## Dry Lagoon Animal 11
+![](../DryLagoon/Animal-11th-Far.webp)
+![](../DryLagoon/Animal-11th-Close.webp)
 
 [Back to Top](#)
 
@@ -153,8 +160,8 @@
 
 [Back to Top](#)
 
-## Dry Lagoon Animal 11
-![](../DryLagoon/Animal-11th-Far.webp)
-![](../DryLagoon/Animal-11th-Close.webp)
+## Dry Lagoon Animal 12
+![](../DryLagoon/Animal-12th-Far.webp)
+![](../DryLagoon/Animal-12th-Close.webp)
 
 [Back to Top](#)
