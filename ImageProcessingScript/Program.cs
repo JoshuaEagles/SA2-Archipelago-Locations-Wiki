@@ -1,9 +1,13 @@
-﻿using System;
+﻿// Note: this script requires cwebp to be available, and will likely only work on Linux.
+
 using System.Diagnostics;
-using System.IO;
 
 Console.WriteLine("Enter path to root of project:");
-string path = Console.ReadLine();
+var path = Console.ReadLine();
+
+if (path is null || path == string.Empty) {
+    throw new Exception("Invalid path");
+}
 
 foreach (string filePath in Directory.EnumerateFiles(path, "*.jpg", SearchOption.AllDirectories))
 {
@@ -21,7 +25,7 @@ static string RunCommandWithBash(string command)
     psi.UseShellExecute = false;
     psi.CreateNoWindow = true;
 
-    using var process = Process.Start(psi);
+    using var process = Process.Start(psi) ?? throw new Exception("Failed to execute shell command");
 
     process.WaitForExit();
 
