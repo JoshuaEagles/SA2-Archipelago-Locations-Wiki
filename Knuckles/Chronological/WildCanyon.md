@@ -65,7 +65,7 @@
 
 [Back to Top](#)
 
-## Wild Canyon Animal 5
+## Wild Canyon Pipe 2 & Animal 5
 ![](../WildCanyon/Animal-5th-Far.webp)
 ![](../WildCanyon/Animal-5th-Close.webp)
 
@@ -111,7 +111,7 @@
 
 [Back to Top](#)
 
-## Wild Canyon Animal 8
+## Wild Canyon Pipe 3 & Animal 8
 ![](../WildCanyon/Animal-8th-Far.webp)
 ![](../WildCanyon/Animal-8th-Close.webp)
 
