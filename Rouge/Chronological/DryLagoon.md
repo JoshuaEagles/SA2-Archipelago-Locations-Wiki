@@ -58,7 +58,7 @@
 
 [Back to Top](#)
 
-## Dry Lagoon Animal 3
+## Dry Lagoon Pipe 1 & Animal 3
 ![](../DryLagoon/Animal-3rd-Far.webp)
 ![](../DryLagoon/Animal-3rd-Close.webp)
 
@@ -82,7 +82,7 @@
 
 [Back to Top](#)
 
-## Dry Lagoon Animal 5
+## Dry Lagoon Hidden 1 & Animal 5
 ![](../DryLagoon/Animal-5th-Far.webp)
 ![](../DryLagoon/Animal-5th-Close.webp)
 
