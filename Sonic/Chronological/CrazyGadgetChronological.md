@@ -1,4 +1,4 @@
-# Crazy Gadget
+# Crazy Gadget (Chronological)
 
 ## Crazy Gadget Omochao 1
 ![](../CrazyGadget/Omochao-1st-Far.webp)

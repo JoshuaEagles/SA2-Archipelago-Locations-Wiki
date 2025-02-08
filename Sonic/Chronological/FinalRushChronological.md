@@ -1,4 +1,4 @@
-# Final Rush
+# Final Rush (Chronological)
 
 ## Final Rush Omochao 1
 ![](../FinalRush/Omochao-1st-Far.webp)

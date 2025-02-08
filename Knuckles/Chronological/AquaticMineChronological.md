@@ -1,4 +1,4 @@
-# Aquatic Mine Chronological
+# Aquatic Mine (Chronological)
 
 ## Aquatic Mine Omochao 1
 ![](../AquaticMine/Omochao-1st-Far.webp)
