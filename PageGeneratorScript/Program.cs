@@ -87,8 +87,9 @@ void WriteLocationsOfSingleType(string readableLocationTypeName, string location
     foreach (var locationGroup in locationsByItemNumber)
     {
         streamWriter.WriteLine($"## {stageName} {readableLocationTypeName} {locationGroup.Key}");
-
-        foreach (var location in locationGroup)
+        
+        var sortedLocationGroup = locationGroup.OrderBy(l => l.ScreenshotNumber);
+        foreach (var location in sortedLocationGroup)
         {
             streamWriter.WriteLine($"![](./{stageName}/{location.FileName})");
         }

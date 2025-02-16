@@ -38,8 +38,8 @@
 ## CrazyGadget Item 8
 ![](./CrazyGadget/item-8-1.png)
 ![](./CrazyGadget/item-8-2.png)
-![](./CrazyGadget/item-8-4.png)
 ![](./CrazyGadget/item-8-3.png)
+![](./CrazyGadget/item-8-4.png)
 
 [Back to Top](#)
 

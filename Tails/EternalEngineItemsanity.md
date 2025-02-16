@@ -26,9 +26,9 @@
 [Back to Top](#)
 
 ## EternalEngine Item 6
-![](./EternalEngine/item-6-3.png)
 ![](./EternalEngine/item-6-1.png)
 ![](./EternalEngine/item-6-2.png)
+![](./EternalEngine/item-6-3.png)
 
 [Back to Top](#)
 
@@ -38,16 +38,16 @@
 [Back to Top](#)
 
 ## EternalEngine Item 8
-![](./EternalEngine/item-8-3.png)
 ![](./EternalEngine/item-8-1.png)
 ![](./EternalEngine/item-8-2.png)
+![](./EternalEngine/item-8-3.png)
 
 [Back to Top](#)
 
 ## EternalEngine Item 9
-![](./EternalEngine/item-9-3.png)
 ![](./EternalEngine/item-9-1.png)
 ![](./EternalEngine/item-9-2.png)
+![](./EternalEngine/item-9-3.png)
 
 [Back to Top](#)
 
@@ -79,8 +79,8 @@
 
 ## EternalEngine Life 1
 ![](./EternalEngine/life-1-1.png)
-![](./EternalEngine/life-1-3.png)
 ![](./EternalEngine/life-1-2.png)
+![](./EternalEngine/life-1-3.png)
 
 [Back to Top](#)
 

@@ -31,8 +31,8 @@
 [Back to Top](#)
 
 ## DeathChamber Item 6
-![](./DeathChamber/item-6-2.png)
 ![](./DeathChamber/item-6-1.png)
+![](./DeathChamber/item-6-2.png)
 
 [Back to Top](#)
 

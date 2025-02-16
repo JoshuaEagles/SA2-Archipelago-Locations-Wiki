@@ -263,8 +263,8 @@
 [Back to Top](#)
 
 ## FinalRush Life 12
-![](./FinalRush/life-12-2.png)
 ![](./FinalRush/life-12-1.png)
+![](./FinalRush/life-12-2.png)
 
 [Back to Top](#)
 
