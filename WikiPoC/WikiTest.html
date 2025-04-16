@@ -1,0 +1,89 @@
+<!doctype html>
+
+<div>
+	<label for="pipe-toggle">Pipe: </label>
+	<input id="pipe-toggle" type="checkbox" checked />
+</div>
+
+<div>
+	<label for="hidden-toggle">Hidden: </label>
+	<input id="hidden-toggle" type="checkbox" checked />
+</div>
+
+<button type="button" id="chronological-toggle">Toggle Chronological</button>
+
+<div
+	id="chronological-first-location"
+	data-chronological-first-location="hidden-1"
+/>
+
+<div id="location-wrapper">
+	<div
+		id="pipe-1"
+		class="location"
+		data-type="pipe"
+		data-chronological-next-location="hidden-2"
+	>
+		<h2>City Escape Pipe 1</h2>
+		<div class="image-wrapper">
+			<img src="pipe-1-1.webp" />
+			<img src="pipe-1-2.webp" />
+		</div>
+		<p>Test comment</p>
+		<a href="#">Back to top</a>
+	</div>
+
+	<div id="pipe-2" class="location" data-type="pipe">
+		<h2>City Escape Pipe 2</h2>
+		<div class="image-wrapper">
+			<img src="pipe-2-1.webp" />
+			<img src="pipe-2-2.webp" />
+		</div>
+		<p>Test comment</p>
+		<a href="#">Back to top</a>
+	</div>
+
+	<div
+		id="hidden-1"
+		class="location"
+		data-chronological-next-location="pipe-1"
+		data-type="hidden"
+	>
+		<h2>City Escape Hidden 1</h2>
+		<div class="image-wrapper">
+			<img src="hidden-1-1.webp" />
+			<img src="hidden-1-2.webp" />
+		</div>
+		<p>Test comment</p>
+		<a href="#">Back to top</a>
+	</div>
+
+	<div
+		id="hidden-2"
+		class="location"
+		data-chronological-next-location="pipe-2"
+		data-type="hidden"
+	>
+		<h2>City Escape Hidden 2</h2>
+		<div class="image-wrapper">
+			<img src="hidden-2-1.webp" />
+			<img src="hidden-2-2.webp" />
+		</div>
+		<p>Test comment</p>
+		<a href="#">Back to top</a>
+	</div>
+</div>
+
+<style>
+	.disabled {
+		display: none;
+	}
+
+	.image-wrapper {
+		display: flex;
+		gap: 8px;
+		flex-wrap: wrap;
+	}
+</style>
+
+<script type="text/javascript" src="./WikiTest.js"></script>
