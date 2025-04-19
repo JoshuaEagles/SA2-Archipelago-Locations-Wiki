@@ -10,20 +10,15 @@
 	<input id="hidden-toggle" type="checkbox" checked />
 </div>
 
-<button type="button" id="chronological-toggle">Toggle Chronological</button>
+<div style="margin-top: 8px">
+	<label for="chronological-toggle">Display as Chronological: </label>
+	<input id="chronological-toggle" type="checkbox" />
+</div>
 
-<div
-	id="chronological-first-location"
-	data-chronological-first-location="hidden-1"
-/>
+<div id="chronological-first-location" data-chronological-first-location="hidden-1"></div>
 
 <div id="location-wrapper">
-	<div
-		id="pipe-1"
-		class="location"
-		data-type="pipe"
-		data-chronological-next-location="hidden-2"
-	>
+	<div id="pipe-1" class="location" data-type="pipe" data-chronological-next-location="hidden-2">
 		<h2>City Escape Pipe 1</h2>
 		<div class="image-wrapper">
 			<img src="pipe-1-1.webp" />
@@ -43,12 +38,7 @@
 		<a href="#">Back to top</a>
 	</div>
 
-	<div
-		id="hidden-1"
-		class="location"
-		data-chronological-next-location="pipe-1"
-		data-type="hidden"
-	>
+	<div id="hidden-1" class="location" data-chronological-next-location="pipe-1" data-type="hidden">
 		<h2>City Escape Hidden 1</h2>
 		<div class="image-wrapper">
 			<img src="hidden-1-1.webp" />
@@ -58,12 +48,7 @@
 		<a href="#">Back to top</a>
 	</div>
 
-	<div
-		id="hidden-2"
-		class="location"
-		data-chronological-next-location="pipe-2"
-		data-type="hidden"
-	>
+	<div id="hidden-2" class="location" data-chronological-next-location="pipe-2" data-type="hidden">
 		<h2>City Escape Hidden 2</h2>
 		<div class="image-wrapper">
 			<img src="hidden-2-1.webp" />

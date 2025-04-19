@@ -1,114 +1,104 @@
-const locationTypeNames = ["pipe", "hidden"];
-
-const locationWrapper = document.querySelector("#location-wrapper");
-
 setupLocationTypeToggling();
 setupChronologicalToggling();
 
 function setupLocationTypeToggling() {
+	const locationTypeNames = ["pipe", "hidden"];
+
 	locationTypeNames.forEach(function (locationTypeName) {
 		setupLocationTypeFilterButtonListener(locationTypeName);
 	});
 
 	function setupLocationTypeFilterButtonListener(locationTypeName) {
-		let locationTypeCheckbox = document.querySelector(
-			`#${locationTypeName}-toggle`,
-		);
+		const locationTypeCheckbox = document.querySelector(`#${locationTypeName}-toggle`);
 
-		let locationElementsOfType = document.querySelectorAll(
-			`.location[data-type=${locationTypeName}]`,
-		);
+		const locationElementsOfType = document.querySelectorAll(`.location[data-type=${locationTypeName}]`);
 
 		locationTypeCheckbox.addEventListener("change", function () {
-			let checked = this.checked;
+			const isChecked = this.checked;
+
 			locationElementsOfType.forEach(function (location) {
-				location.classList.toggle("disabled", !checked);
+				location.classList.toggle("disabled", !isChecked);
 			});
 		});
 	}
 }
 
 function setupChronologicalToggling() {
-	let toggleChronologicalButton = document.querySelector(
-		"#chronological-toggle",
-	);
-	let chronologicalState = false;
-	toggleChronologicalButton.addEventListener("click", function () {
-		chronologicalState = !chronologicalState;
+	const locationWrapper = document.querySelector("#location-wrapper");
 
-		if (chronologicalState === true) {
-			sortLocationsChronologically();
+	const initialLocationWrapperInnerHtml = locationWrapper.innerHTML;
+	const chronologicalOrderingDocumentFragment = generateChronologicalDocumentFragment();
+
+	const toggleChronologicalCheckbox = document.querySelector("#chronological-toggle");
+	toggleChronologicalCheckbox.addEventListener("change", function () {
+		if (this.checked === true) {
+			changeToDisplayByChronological();
 		} else {
-			sortLocationsByType();
+			changeToDisplayByType();
 		}
 	});
 
-	function sortLocationsChronologically() {
+	function generateChronologicalDocumentFragment() {
 		const allLocations = document.querySelectorAll(".location");
 
-		let locationMap = new Map();
+		const locationIdToLocationElementMap = setupMappingOfLocationIdToLocationElement();
 
-		allLocations.forEach(function (location) {
-			locationMap.set(location.id, location);
-		});
-		console.log(locationMap);
+		// We have a special element that sets the starting point, then each element will point to the next
+		// This is effectively a linked list defined through html elements
+		const firstChronologicalLocationId = document.querySelector("#chronological-first-location").dataset
+			.chronologicalFirstLocation;
 
-		let firstChronologicalLocation = document.querySelector(
-			"#chronological-first-location",
-		).dataset.chronologicalFirstLocation;
-		let nextLocationId = firstChronologicalLocation;
+		const sortedLocationElementsDocumentFragment = document.createDocumentFragment();
+		let nextLocationId = firstChronologicalLocationId;
 
-		let sortedLocations = document.createDocumentFragment();
+		// We'll add every location we handle to here, if we try processing a location we already handled then that would mean the list loops back on itself
+		// This will let us prevent recursion from being an issue
+		const handledLocationIds = new Set();
+
+		// When we get to an element that doesn't have a chronologicalNextLocation, this will be undefined, and therefore the loop will end
 		while (nextLocationId) {
-			let nextLocation = locationMap.get(nextLocationId);
-			sortedLocations.appendChild(nextLocation);
-			nextLocationId = nextLocation.dataset.chronologicalNextLocation;
+			if (handledLocationIds.has(nextLocationId)) {
+				console.error(
+					"Error encountered while generating the chronological page. a location Id that was already processed was processed again. This would lead to a loop.",
+				);
+
+				// This will make the chronological button do nothing since this is what the page would display without clicking that button
+				return initialLocationWrapperInnerHtml;
+			}
+
+			const nextLocationElement = locationIdToLocationElementMap.get(nextLocationId);
+			if (!nextLocationElement) {
+				console.error(
+					`Error encountered while generating the chronological page. The nextChronologicalLocation "${nextLocationId}" referred to a location that does not exist on this page.`,
+				);
+
+				// This will make the chronological button do nothing since this is what the page would display without clicking that button
+				return initialLocationWrapperInnerHtml;
+			}
+
+			sortedLocationElementsDocumentFragment.appendChild(nextLocationElement.cloneNode(true));
+
+			nextLocationId = nextLocationElement.dataset.chronologicalNextLocation;
 		}
 
-		locationWrapper.innerHtml = null;
-		locationWrapper.appendChild(sortedLocations);
+		return sortedLocationElementsDocumentFragment;
+
+		function setupMappingOfLocationIdToLocationElement() {
+			const locationMap = new Map();
+			allLocations.forEach(function (location) {
+				locationMap.set(location.id, location);
+			});
+
+			return locationMap;
+		}
 	}
 
-	function sortLocationsByType() {
-		const sortByTypeOrdering = ["pipe", "hidden"];
+	function changeToDisplayByChronological() {
+		locationWrapper.innerHTML = null;
+		locationWrapper.appendChild(chronologicalOrderingDocumentFragment.cloneNode(true));
+	}
 
-		let sortedLocations = document.createDocumentFragment();
-
-		sortByTypeOrdering.forEach(function (typeName) {
-			let locationsOfTypeNodeList = document.querySelectorAll(
-				`.location[data-type=${typeName}]`,
-			);
-			let locationsOfTypeArray = Array.prototype.slice.call(
-				locationsOfTypeNodeList,
-				0,
-			);
-			locationsOfTypeArray.sort(function (a, b) {
-				if (a.id < b.id) {
-					return -1;
-				}
-				if (a.id > b.id) {
-					return 1;
-				}
-
-				return 0;
-			});
-			locationsOfTypeArray.forEach(function (location) {
-				sortedLocations.appendChild(location);
-			});
-		});
-
-		locationWrapper.innerHtml = null;
-		locationWrapper.appendChild(sortedLocations);
+	function changeToDisplayByType() {
+		locationWrapper.innerHTML = initialLocationWrapperInnerHtml;
 	}
 }
-
-// type: location.dataset.type,
-// nextLocation: location.dataset.chronologicalNextLocation,
-
-// TODO: We'll need a mapping of location types to title text
-// TODO: The location type ordering array will need to be expanded
-// TODO: The code needs to be made generic, only data should need to be edited to support more location types
-//
-
-// Idea: can we store the state on page load and consider that the sort by type, and then after we do the chronological sort once cache the edited sort?
-// That would simplify the code and make it faster
