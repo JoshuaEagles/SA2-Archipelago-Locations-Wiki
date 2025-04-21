@@ -1,5 +1,15 @@
-setupLocationTypeToggling();
-setupChronologicalToggling();
+"use strict";
+
+setupLocationGuideScript();
+
+function setupLocationGuideScript() {
+	if (!window.location.href.includes("Locations")) {
+		return;
+	}
+
+	setupLocationTypeToggling();
+	setupChronologicalToggling();
+}
 
 function setupLocationTypeToggling() {
 	const locationTypeNames = ["pipe", "hidden"];
@@ -29,9 +39,13 @@ function setupChronologicalToggling() {
 	const initialLocationWrapperInnerHtml = locationWrapper.innerHTML;
 	const chronologicalOrderingDocumentFragment = generateChronologicalDocumentFragment();
 
+	let isChronologicalEnabled = false;
+
 	const toggleChronologicalCheckbox = document.querySelector("#chronological-toggle");
-	toggleChronologicalCheckbox.addEventListener("change", function () {
-		if (this.checked === true) {
+	toggleChronologicalCheckbox.addEventListener("click", function () {
+		isChronologicalEnabled = !isChronologicalEnabled;
+
+		if (isChronologicalEnabled === true) {
 			changeToDisplayByChronological();
 		} else {
 			changeToDisplayByType();

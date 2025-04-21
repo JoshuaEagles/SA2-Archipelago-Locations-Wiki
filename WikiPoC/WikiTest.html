@@ -2,17 +2,20 @@
 
 <div>
 	<label for="pipe-toggle">Pipe: </label>
-	<input id="pipe-toggle" type="checkbox" checked />
+	<div id="pipe-toggle">button</div>
+	<!-- <input id="pipe-toggle" type="checkbox" checked /> -->
 </div>
 
 <div>
 	<label for="hidden-toggle">Hidden: </label>
-	<input id="hidden-toggle" type="checkbox" checked />
+	<div id="hidden-toggle">button</div>
+	<!-- <input id="hidden-toggle" type="checkbox" checked /> -->
 </div>
 
 <div style="margin-top: 8px">
 	<label for="chronological-toggle">Display as Chronological: </label>
-	<input id="chronological-toggle" type="checkbox" />
+	<div id="chronological-toggle">button</div>
+	<!-- <input id="chronological-toggle" type="checkbox" /> -->
 </div>
 
 <div id="chronological-first-location" data-chronological-first-location="hidden-1"></div>
@@ -60,11 +63,11 @@
 </div>
 
 <style>
-	.disabled {
+	#location-wrapper.disabled {
 		display: none;
 	}
 
-	.image-wrapper {
+	#location-wrapper.image-wrapper {
 		display: flex;
 		gap: 8px;
 		flex-wrap: wrap;
