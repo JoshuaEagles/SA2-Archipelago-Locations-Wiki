@@ -1,6 +1,5 @@
-**This branch is WIP, most pages currently do not work.**
+**This branch is WIP, most pages currently do not work. Itemsanity and Bigsanity are only available here for now.**
 
-Itemsanity Pages:
 ## Itemsanity Checks
 - Sonic
   - [City Escape](./Sonic/CityEscapeItemsanity.md)
@@ -9,6 +8,7 @@ Itemsanity Pages:
   - [Pyramid Cave](./Sonic/PyramidCaveItemsanity.md)
   - [Crazy Gadget](./Sonic/CrazyGadgetItemsanity.md)
   - [Final Rush](./Sonic/FinalRushItemsanity.md)
+  - [Green Hill](./Sonic/GreenHillItemsanity.md)
 - Tails
   - [Prison Lane](./Tails/PrisonLaneItemsanity.md)
   - [Mission Street](./Tails/MissionStreetItemsanity.md)
@@ -39,6 +39,41 @@ Itemsanity Pages:
   - [Route 280](./Rouge/Route280Itemsanity.md)
   - [Mad Space](./Rouge/MadSpaceItemsanity.md)
 - [Cannon's Core](./CannonsCore/CannonsCoreItemsanity.md)
+
+## Bigsanity Checks
+- Sonic
+  - [City Escape](./Sonic/CityEscapeBigsanity.md)
+  - [Metal Harbor](./Sonic/MetalHarborBigsanity.md)
+  - [Green Forest](./Sonic/GreenForestBigsanity.md)
+  - [Pyramid Cave](./Sonic/PyramidCaveBigsanity.md)
+  - [Crazy Gadget](./Sonic/CrazyGadgetBigsanity.md)
+  - [Final Rush](./Sonic/FinalRushBigsanity.md)
+- Tails
+  - [Prison Lane](./Tails/PrisonLaneBigsanity.md)
+  - [Mission Street](./Tails/MissionStreetBigsanity.md)
+  - [Hidden Base](./Tails/HiddenBaseBigsanity.md)
+  - [Eternal Engine](./Tails/EternalEngineBigsanity.md)
+- Knuckles
+  - [Pumpkin Hill](./Knuckles/PumpkinHillBigsanity.md)
+  - [Aquatic Mine](./Knuckles/AquaticMineBigsanity.md)
+  - [Death Chamber](./Knuckles/DeathChamberBigsanity.md)
+  - [Meteor Herd](./Knuckles/MeteorHerdBigsanity.md)
+- Shadow
+  - [Radical Highway](./Shadow/RadicalHighwayBigsanity.md)
+  - [White Jungle](./Shadow/WhiteJungleBigsanity.md)
+  - [Sky Rail](./Shadow/SkyRailBigsanity.md)
+  - [Final Chase](./Shadow/FinalChaseBigsanity.md)
+- Eggman
+  - [Iron Gate](./Eggman/IronGateBigsanity.md)
+  - [Sand Ocean](./Eggman/SandOceanBigsanity.md)
+  - [Lost Colony](./Eggman/LostColonyBigsanity.md)
+  - [Weapons Bed](./Eggman/WeaponsBedBigsanity.md)
+- Rouge
+  - [Dry Lagoon](./Rouge/DryLagoonBigsanity.md)
+  - [Egg Quarters](./Rouge/EggQuartersBigsanity.md)
+  - [Security Hall](./Rouge/SecurityHallBigsanity.md)
+  - [Mad Space](./Rouge/MadSpaceBigsanity.md)
+- [Cannon's Core](./CannonsCore/CannonsCoreBigsanity.md)
 
 # SA2 Archipelago Location Wiki
 
