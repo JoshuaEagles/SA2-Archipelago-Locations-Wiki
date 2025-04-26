@@ -1,0 +1,30 @@
+__NOTOC__{{DISPLAYTITLE:Dry Lagoon Locations}}
+Display as Chronological:
+<div id="chronological-toggle">button</div>
+
+<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+
+<div id="location-wrapper">
+    
+<div 
+    id="pipe-1" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="hidden-1
+>
+=== Pipe 1 ===
+[[Image:pipe-1-1.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="hidden-1" 
+    class="location" 
+    data-type="hidden" 
+>
+=== Hidden 1 ===
+[[Image:hidden-1-1.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+</div>

@@ -1,0 +1,63 @@
+__NOTOC__{{DISPLAYTITLE:Hidden Base Locations}}
+Display as Chronological:
+<div id="chronological-toggle">button</div>
+
+<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+
+<div id="location-wrapper">
+    
+<div 
+    id="pipe-1" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="pipe-2
+>
+=== Pipe 1 ===
+[[Image:pipe-1-1.webp|512px|link=]] [[Image:pipe-1-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-2" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="pipe-3
+>
+=== Pipe 2 ===
+[[Image:pipe-2-1.webp|512px|link=]] [[Image:pipe-2-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-3" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="pipe-4
+>
+=== Pipe 3 ===
+[[Image:pipe-3-1.webp|512px|link=]] [[Image:pipe-3-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-4" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="pipe-5
+>
+=== Pipe 4 ===
+[[Image:pipe-4-1.webp|512px|link=]] [[Image:pipe-4-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-5" 
+    class="location" 
+    data-type="pipe" 
+>
+=== Pipe 5 ===
+[[Image:pipe-5-1.webp|512px|link=]] [[Image:pipe-5-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+</div>

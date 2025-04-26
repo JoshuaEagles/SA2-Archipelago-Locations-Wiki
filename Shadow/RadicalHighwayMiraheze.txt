@@ -1,0 +1,74 @@
+__NOTOC__{{DISPLAYTITLE:Radical Highway Locations}}
+Display as Chronological:
+<div id="chronological-toggle">button</div>
+
+<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+
+<div id="location-wrapper">
+    
+<div 
+    id="pipe-1" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="pipe-2
+>
+=== Pipe 1 ===
+[[Image:pipe-1-1.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-2" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="hidden-2
+>
+=== Pipe 2 ===
+[[Image:pipe-2-1.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-3" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="hidden-3
+>
+=== Pipe 3 ===
+[[Image:pipe-3-1.webp|512px|link=]] [[Image:pipe-3-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="hidden-1" 
+    class="location" 
+    data-type="hidden" 
+    data-chronological-next-location="pipe-1
+>
+=== Hidden 1 ===
+[[Image:hidden-1-1.webp|512px|link=]] [[Image:hidden-1-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="hidden-2" 
+    class="location" 
+    data-type="hidden" 
+    data-chronological-next-location="pipe-3
+>
+=== Hidden 2 ===
+[[Image:hidden-2-1.webp|512px|link=]] [[Image:hidden-2-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="hidden-3" 
+    class="location" 
+    data-type="hidden" 
+>
+=== Hidden 3 ===
+[[Image:hidden-3-1.webp|512px|link=]] [[Image:hidden-3-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+</div>

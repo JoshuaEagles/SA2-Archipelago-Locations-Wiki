@@ -1,0 +1,30 @@
+__NOTOC__{{DISPLAYTITLE:Final Rush Locations}}
+Display as Chronological:
+<div id="chronological-toggle">button</div>
+
+<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+
+<div id="location-wrapper">
+    
+<div 
+    id="pipe-1" 
+    class="location" 
+    data-type="pipe" 
+    data-chronological-next-location="pipe-2
+>
+=== Pipe 1 ===
+[[Image:pipe-1-1.webp|512px|link=]] [[Image:pipe-1-2.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+<div 
+    id="pipe-2" 
+    class="location" 
+    data-type="pipe" 
+>
+=== Pipe 2 ===
+[[Image:pipe-2-1.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+</div>

@@ -1,0 +1,19 @@
+__NOTOC__{{DISPLAYTITLE:Metal Harbor Locations}}
+Display as Chronological:
+<div id="chronological-toggle">button</div>
+
+<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+
+<div id="location-wrapper">
+    
+<div 
+    id="pipe-1" 
+    class="location" 
+    data-type="pipe" 
+>
+=== Pipe 1 ===
+[[Image:pipe-1-1.webp|512px|link=]] <br />
+[[#top|Back to top]]
+</div>
+
+</div>
