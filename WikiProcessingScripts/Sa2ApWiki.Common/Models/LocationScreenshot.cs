@@ -2,10 +2,25 @@ namespace Sa2ApWiki.Common.Models;
 
 public record LocationScreenshot
 {
-	public required string LocationName { get; init; }
-	public required string FileName { get; init; }
-	public required string LocationType { get; init; }
-	public required int LocationNumber { get; init; }
-	public required int ScreenshotNumber { get; init; }
-	public required bool IsBonus { get; init; }
+	public LocationScreenshot(string screenshotPath)
+	{
+		FileName = Path.GetFileName(screenshotPath);
+
+		var screenshotNameWithoutExtension = Path.GetFileNameWithoutExtension(screenshotPath);
+		var screenshotSplit = screenshotNameWithoutExtension.Split('-');
+
+		LocationType = screenshotSplit[0];
+		ScreenshotNumber = int.Parse(screenshotSplit[2]);
+	
+		var itemNumberString = screenshotSplit[1];
+		LocationNumber = int.Parse(itemNumberString.Replace("bonus", ""));
+		IsBonus = itemNumberString.Contains("bonus");
+	}
+	
+	public string LocationName => $"{LocationType}-{LocationNumber}";
+	public string FileName { get; }
+	public string LocationType { get;  }
+	public int LocationNumber { get; }
+	public int ScreenshotNumber { get; }
+	public bool IsBonus { get; }
 }

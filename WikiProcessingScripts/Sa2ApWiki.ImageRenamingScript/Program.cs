@@ -1,3 +1,7 @@
+/*
+ * The point of this script was to rename files like goldbeetle-1.webp to goldbeetle-1-1.webp, to keep things consistent and make parsing easier.
+ */
+
 using Sa2ApWiki.Common.Models;
 
 // Console.WriteLine("Enter path to root of project:");
@@ -16,7 +20,7 @@ void PerformFileRename(IEnumerable<string> filePaths)
 {
 	foreach (var filePath in filePaths)
 	{
-		var locationScreenshot = CreateLocationScreenshotModel(filePath);
+		var locationScreenshot = new LocationScreenshot(filePath);
 
 		if (locationScreenshot.LocationType == "goldbeetle" || locationScreenshot.LocationType == "lostchao" ||
 		    locationScreenshot.LocationType == "upgrade")
@@ -31,41 +35,4 @@ void PerformFileRename(IEnumerable<string> filePaths)
 			File.Move($"{fileDirectory}/{locationScreenshot.FileName}", $"{fileDirectory}/{newFileName}");
 		}
 	}
-}
-
-LocationScreenshot CreateLocationScreenshotModel(string screenshotPath)
-{
-	var screenshotNameWithoutExtension = Path.GetFileNameWithoutExtension(screenshotPath);
-	var screenshotNameWithExtension = Path.GetFileName(screenshotPath);
-
-	var screenshotSplit = screenshotNameWithoutExtension.Split('-');
-
-	var itemType = screenshotSplit[0];
-	var itemNumber = 1;
-	
-	int screenshotNumber;
-	bool isBonus;
-	if (itemType == "goldbeetle" || itemType == "lostchao" || itemType == "upgrade")
-	{
-		isBonus = false;
-		screenshotNumber = int.Parse(screenshotSplit[1]);
-	}
-	else 
-	{
-		var itemNumberString = screenshotSplit[1];
-		itemNumber = int.Parse(itemNumberString.Replace("bonus", ""));
-		isBonus = itemNumberString.Contains("bonus");
-		
-		screenshotNumber = int.Parse(screenshotSplit[2]);
-	}
-
-	return new LocationScreenshot
-	{
-		LocationName = $"{itemType}-{itemNumber}",
-		FileName = screenshotNameWithExtension,
-		LocationType = itemType,
-		LocationNumber = itemNumber,
-		ScreenshotNumber = screenshotNumber,
-		IsBonus = isBonus
-	};
 }
