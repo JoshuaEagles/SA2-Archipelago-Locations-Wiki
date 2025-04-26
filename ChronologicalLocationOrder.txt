@@ -27,3 +27,6 @@ EternalEngine animal-1, pipe-1 + animal-2, pipe-2 + animal-3, omochao-1, animal-
 HiddenBase omochao-1, animal-1, animal-2, omochao-2, omochao-3, animal-3, animal-4, animal-5, pipe-1 + animal-6, chao box-1, goldbeetle, animal-7, animal-8, pipe-2 + animal-9, pipe-3 + animal-10, chao box-2, pipe-4 + animal-11, pipe-5 + animal-12, animal-13, animal-14, omochao-4, animal-15
 MissionStreet hidden-1 + animal-1, animal-2, hidden-2 + animal-3, animal-4, omochao-1, omochao-2, chao box-1, pipe-1 + animal-5, omochao-3, animal-6, chao box-2, goldbeetle, omochao-4, animal-7, pipe-2 + animal-8, chao box-3, omochao-5, animal-9, animal-10, omochao-6, animal-11, animal-12, pipe-3 + animal-13, omochao-7, hidden-3 + animal-14, omochao-8, hidden-4 + animal-15, animal-16
 PrisonLane omochao-1, omochao-2, pipe-1 + animal-1, chao box-1, omochao-3, animal-2, omochao-4, chao box-2, animal-3, omochao-5, omochao-6, animal-4, omochao-7, chao box-3, pipe-2 + animal-5, animal-6, animal-7, omochao-8, animal-8, hidden-1 + animal-9, omochao-9, animal-10, pipe-3 + animal-11, hidden-2 + animal-12, goldbeetle, animal-13, animal-14, hidden-3 + animal-15, omochao-10
+GreenHill item-1, item-2, chao box-1, item-3, item-4, item-5, item-6, item-7, item-8, item-9, item-10, item-11
+Route101 item-1, item-2, item-3, item-4, item-5
+Route280 item-1, item-2, item-3
