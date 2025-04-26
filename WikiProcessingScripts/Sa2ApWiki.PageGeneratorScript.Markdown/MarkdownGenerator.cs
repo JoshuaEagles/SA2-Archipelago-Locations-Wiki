@@ -50,28 +50,10 @@ public static class MarkdownGenerator
 
     private static void WriteMarkdownLocationsOfSingleType(string readableLocationTypeName, string locationShortName, string directoryPath, StreamWriter streamWriter, string stageName)
     {
-        var locations = new List<LocationScreenshot>();
-        foreach (var screenshotPath in Directory.EnumerateFiles(directoryPath, $"{locationShortName}*", SearchOption.TopDirectoryOnly))
-        {
-            var screenshotNameWithoutExtension = Path.GetFileNameWithoutExtension(screenshotPath);
-            var screenshotNameWithExtension = Path.GetFileName(screenshotPath);
+        var locations = Directory.EnumerateFiles(directoryPath, $"{locationShortName}*", SearchOption.TopDirectoryOnly)
+            .Select(screenshotPath => new LocationScreenshot(screenshotPath))
+            .ToList();
 
-            var screenshotSplit = screenshotNameWithoutExtension.Split('-');
-
-            var itemType = screenshotSplit[0];
-            var itemNumber = int.Parse(screenshotSplit[1]);
-            var screenshotNumber = int.Parse(screenshotSplit[2]);
-                
-            locations.Add(new LocationScreenshot
-            {
-                LocationName = $"{itemType}-{itemNumber}",
-                FileName = screenshotNameWithExtension, 
-                LocationType = itemType, 
-                LocationNumber = itemNumber, 
-                ScreenshotNumber = screenshotNumber
-            });
-        }
-            
         var locationsByItemNumber = locations
             .GroupBy(l => l.LocationNumber)
             .OrderBy(l => l.Key);

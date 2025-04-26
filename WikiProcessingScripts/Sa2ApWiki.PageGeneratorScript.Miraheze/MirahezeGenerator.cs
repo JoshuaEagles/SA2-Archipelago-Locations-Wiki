@@ -129,47 +129,13 @@ public class MirahezeGenerator
 
     private static ILookup<string, LocationScreenshot> GetLocationsLookupByLocationType(string directoryPath)
     {
-        var allLocationsForStage = new List<LocationScreenshot>();
-        foreach (var screenshotPath in Directory.EnumerateFiles(directoryPath, $"*", SearchOption.TopDirectoryOnly))
-        {
-            var screenshotNameWithoutExtension = Path.GetFileNameWithoutExtension(screenshotPath);
-            var screenshotNameWithExtension = Path.GetFileName(screenshotPath);
+        var allLocationsForStage = Directory.EnumerateFiles(directoryPath, $"*", SearchOption.TopDirectoryOnly)
+            .Select(screenshotPath => new LocationScreenshot(screenshotPath))
+            .ToList();
 
-            var screenshotSplit = screenshotNameWithoutExtension.Split('-');
-            
-            // TODO: handle bonus properly
-            if (screenshotSplit[1].Contains("bonus"))
-            {
-                continue;
-            }
-
-            // TODO: make gold beetles follow the naming convention of type-locationnumber-screenshotnumber
-            var itemType = screenshotSplit[0];
-            var itemNumber = 1;
-            int screenshotNumber;
-            if (itemType == "goldbeetle" || itemType == "lostchao" || itemType == "upgrade")
-            {
-                screenshotNumber = int.Parse(screenshotSplit[1]);
-            }
-            else 
-            {
-                itemNumber = int.Parse(screenshotSplit[1]);
-                screenshotNumber = int.Parse(screenshotSplit[2]);
-            }
-                
-            allLocationsForStage.Add(new LocationScreenshot
-            {
-                LocationName = $"{itemType}-{itemNumber}",
-                FileName = screenshotNameWithExtension, 
-                LocationType = itemType, 
-                LocationNumber = itemNumber, 
-                ScreenshotNumber = screenshotNumber,
-                IsBonus = false
-            });
-        }
-        
         var locationsLookupByLocationType = allLocationsForStage
             .ToLookup(x => x.LocationType);
+        
         return locationsLookupByLocationType;
     }
 
