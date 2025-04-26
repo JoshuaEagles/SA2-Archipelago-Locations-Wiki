@@ -1,3 +1,4 @@
 .directory 
-*/bin
-*/obj
+**/bin
+**/obj
+**/.idea
