@@ -9,16 +9,18 @@ public record LocationScreenshot
 		var screenshotNameWithoutExtension = Path.GetFileNameWithoutExtension(screenshotPath);
 		var screenshotSplit = screenshotNameWithoutExtension.Split('-');
 
-		LocationType = screenshotSplit[0];
-		ScreenshotNumber = int.Parse(screenshotSplit[2]);
+		StageName = screenshotSplit[0];
+		LocationType = screenshotSplit[1];
+		ScreenshotNumber = int.Parse(screenshotSplit[3]);
 	
-		var itemNumberString = screenshotSplit[1];
+		var itemNumberString = screenshotSplit[2];
 		LocationNumber = int.Parse(itemNumberString.Replace("bonus", ""));
 		IsBonus = itemNumberString.Contains("bonus");
 	}
 	
 	public string LocationName => $"{LocationType}-{LocationNumber}";
 	public string FileName { get; }
+	public string StageName { get; }
 	public string LocationType { get;  }
 	public int LocationNumber { get; }
 	public int ScreenshotNumber { get; }
