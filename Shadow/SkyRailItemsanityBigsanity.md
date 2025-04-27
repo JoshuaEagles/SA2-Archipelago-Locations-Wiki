@@ -5,6 +5,30 @@
 ## item 1
 ![](./SkyRail/SkyRail-item-1-1.png)
 
+## item 2
+![](./SkyRail/SkyRail-item-2-1.png)
+
+## item 3
+![](./SkyRail/SkyRail-item-3-1.png)
+
+## item 4
+![](./SkyRail/SkyRail-item-4-1.png)
+
+## item 5
+![](./SkyRail/SkyRail-item-5-1.png)
+
+## item 6
+![](./SkyRail/SkyRail-item-6-1.png)
+
+## item 7
+![](./SkyRail/SkyRail-item-7-1.png)
+
+## item 8
+![](./SkyRail/SkyRail-item-8-1.png)
+
+## item 9
+![](./SkyRail/SkyRail-item-9-1.png)
+
 ## item 10
 ![](./SkyRail/SkyRail-item-10-1.png)
 
@@ -35,9 +59,6 @@
 ## item 19
 ![](./SkyRail/SkyRail-item-19-1.png)
 
-## item 2
-![](./SkyRail/SkyRail-item-2-1.png)
-
 ## item 20
 ![](./SkyRail/SkyRail-item-20-1.png)
 
@@ -49,27 +70,6 @@
 
 ## item 23
 ![](./SkyRail/SkyRail-item-23-1.png)
-
-## item 3
-![](./SkyRail/SkyRail-item-3-1.png)
-
-## item 4
-![](./SkyRail/SkyRail-item-4-1.png)
-
-## item 5
-![](./SkyRail/SkyRail-item-5-1.png)
-
-## item 6
-![](./SkyRail/SkyRail-item-6-1.png)
-
-## item 7
-![](./SkyRail/SkyRail-item-7-1.png)
-
-## item 8
-![](./SkyRail/SkyRail-item-8-1.png)
-
-## item 9
-![](./SkyRail/SkyRail-item-9-1.png)
 
 ## life 1
 ![](./SkyRail/SkyRail-life-1-1.png)

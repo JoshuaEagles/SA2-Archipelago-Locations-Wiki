@@ -6,15 +6,6 @@
 ![](./EggQuarters/EggQuarters-item-1-1.png)
 ![](./EggQuarters/EggQuarters-item-1-2.png)
 
-## item 10
-![](./EggQuarters/EggQuarters-item-10-1.png)
-![](./EggQuarters/EggQuarters-item-10-2.png)
-
-## item 11
-![](./EggQuarters/EggQuarters-item-11-1.png)
-![](./EggQuarters/EggQuarters-item-11-2.png)
-![](./EggQuarters/EggQuarters-item-11-3.png)
-
 ## item 2
 ![](./EggQuarters/EggQuarters-item-2-1.png)
 
@@ -42,6 +33,15 @@
 ## item 9
 ![](./EggQuarters/EggQuarters-item-9-1.png)
 ![](./EggQuarters/EggQuarters-item-9-2.png)
+
+## item 10
+![](./EggQuarters/EggQuarters-item-10-1.png)
+![](./EggQuarters/EggQuarters-item-10-2.png)
+
+## item 11
+![](./EggQuarters/EggQuarters-item-11-1.png)
+![](./EggQuarters/EggQuarters-item-11-2.png)
+![](./EggQuarters/EggQuarters-item-11-3.png)
 
 ## life 1
 ![](./EggQuarters/EggQuarters-life-1-1.png)

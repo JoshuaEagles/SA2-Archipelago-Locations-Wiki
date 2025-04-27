@@ -6,11 +6,7 @@
 ![](./CrazyGadget/CrazyGadget-pipe-1-1.webp)
 
 ## animal 1
-![](./CrazyGadget/CrazyGadget-animal-bonus1-1.webp)
 ![](./CrazyGadget/CrazyGadget-animal-1-1.webp)
-![](./CrazyGadget/CrazyGadget-animal-bonus1-2.webp)
-![](./CrazyGadget/CrazyGadget-animal-bonus1-3.webp)
-![](./CrazyGadget/CrazyGadget-animal-bonus1-4.webp)
 
 ## omochao 2
 ![](./CrazyGadget/CrazyGadget-omochao-2-1.webp)

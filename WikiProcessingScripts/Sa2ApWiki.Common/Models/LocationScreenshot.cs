@@ -18,7 +18,7 @@ public record LocationScreenshot
 		IsBonus = itemNumberString.Contains("bonus");
 	}
 	
-	public string LocationName => $"{LocationType}-{LocationNumber}";
+	public string LocationName => $"{LocationType}-{(IsBonus ? "bonus" : "")}{LocationNumber}";
 	public string FileName { get; }
 	public string StageName { get; }
 	public string LocationType { get;  }

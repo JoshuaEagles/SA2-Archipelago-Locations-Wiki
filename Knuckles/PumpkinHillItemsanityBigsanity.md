@@ -5,9 +5,6 @@
 ## item 1
 ![](./PumpkinHill/PumpkinHill-item-1-1.png)
 
-## item 10
-![](./PumpkinHill/PumpkinHill-item-10-1.png)
-
 ## item 2
 ![](./PumpkinHill/PumpkinHill-item-2-1.png)
 
@@ -31,6 +28,9 @@
 
 ## item 9
 ![](./PumpkinHill/PumpkinHill-item-9-1.png)
+
+## item 10
+![](./PumpkinHill/PumpkinHill-item-10-1.png)
 
 ## life 1
 ![](./PumpkinHill/PumpkinHill-life-1-1.png)

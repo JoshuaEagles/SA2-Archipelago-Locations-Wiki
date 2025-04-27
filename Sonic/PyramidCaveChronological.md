@@ -5,8 +5,6 @@
 
 ## animal 1
 ![](./PyramidCave/PyramidCave-animal-1-1.webp)
-![](./PyramidCave/PyramidCave-animal-bonus1-1.webp)
-![](./PyramidCave/PyramidCave-animal-bonus1-2.webp)
 
 ## chaobox 1
 ![](./PyramidCave/PyramidCave-chaobox-1-1.webp)

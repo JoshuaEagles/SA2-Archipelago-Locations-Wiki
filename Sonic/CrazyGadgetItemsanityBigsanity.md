@@ -5,24 +5,6 @@
 ## item 1
 ![](./CrazyGadget/CrazyGadget-item-1-1.png)
 
-## item 10
-![](./CrazyGadget/CrazyGadget-item-10-1.png)
-![](./CrazyGadget/CrazyGadget-item-10-2.png)
-
-## item 11
-![](./CrazyGadget/CrazyGadget-item-11-1.png)
-![](./CrazyGadget/CrazyGadget-item-11-2.png)
-
-## item 12
-![](./CrazyGadget/CrazyGadget-item-12-1.png)
-![](./CrazyGadget/CrazyGadget-item-12-2.png)
-
-## item 13
-![](./CrazyGadget/CrazyGadget-item-13-1.png)
-
-## item 14
-![](./CrazyGadget/CrazyGadget-item-14-1.png)
-
 ## item 2
 ![](./CrazyGadget/CrazyGadget-item-2-1.png)
 
@@ -50,6 +32,24 @@
 ## item 9
 ![](./CrazyGadget/CrazyGadget-item-9-1.png)
 ![](./CrazyGadget/CrazyGadget-item-9-2.png)
+
+## item 10
+![](./CrazyGadget/CrazyGadget-item-10-1.png)
+![](./CrazyGadget/CrazyGadget-item-10-2.png)
+
+## item 11
+![](./CrazyGadget/CrazyGadget-item-11-1.png)
+![](./CrazyGadget/CrazyGadget-item-11-2.png)
+
+## item 12
+![](./CrazyGadget/CrazyGadget-item-12-1.png)
+![](./CrazyGadget/CrazyGadget-item-12-2.png)
+
+## item 13
+![](./CrazyGadget/CrazyGadget-item-13-1.png)
+
+## item 14
+![](./CrazyGadget/CrazyGadget-item-14-1.png)
 
 ## life 1
 ![](./CrazyGadget/CrazyGadget-life-1-1.png)

@@ -5,29 +5,6 @@
 ## item 1
 ![](./PyramidCave/PyramidCave-item-1-1.png)
 
-## item 10
-![](./PyramidCave/PyramidCave-item-10-1.png)
-![](./PyramidCave/PyramidCave-item-10-2.png)
-
-## item 11
-![](./PyramidCave/PyramidCave-item-11-1.png)
-
-## item 12
-![](./PyramidCave/PyramidCave-item-12-1.png)
-
-## item 13
-![](./PyramidCave/PyramidCave-item-13-1.png)
-
-## item 14
-![](./PyramidCave/PyramidCave-item-14-1.png)
-![](./PyramidCave/PyramidCave-item-14-2.png)
-![](./PyramidCave/PyramidCave-item-14-3.png)
-
-## item 15
-![](./PyramidCave/PyramidCave-item-15-1.png)
-![](./PyramidCave/PyramidCave-item-15-2.png)
-![](./PyramidCave/PyramidCave-item-15-3.png)
-
 ## item 2
 ![](./PyramidCave/PyramidCave-item-2-1.png)
 
@@ -54,6 +31,29 @@
 
 ## item 9
 ![](./PyramidCave/PyramidCave-item-9-1.png)
+
+## item 10
+![](./PyramidCave/PyramidCave-item-10-1.png)
+![](./PyramidCave/PyramidCave-item-10-2.png)
+
+## item 11
+![](./PyramidCave/PyramidCave-item-11-1.png)
+
+## item 12
+![](./PyramidCave/PyramidCave-item-12-1.png)
+
+## item 13
+![](./PyramidCave/PyramidCave-item-13-1.png)
+
+## item 14
+![](./PyramidCave/PyramidCave-item-14-1.png)
+![](./PyramidCave/PyramidCave-item-14-2.png)
+![](./PyramidCave/PyramidCave-item-14-3.png)
+
+## item 15
+![](./PyramidCave/PyramidCave-item-15-1.png)
+![](./PyramidCave/PyramidCave-item-15-2.png)
+![](./PyramidCave/PyramidCave-item-15-3.png)
 
 ## life 1
 ![](./PyramidCave/PyramidCave-life-1-1.png)

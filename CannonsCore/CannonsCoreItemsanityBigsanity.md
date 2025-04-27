@@ -18,15 +18,6 @@
 ## item 1
 ![](./CannonsCore/CannonsCore-item-1-1.png)
 
-## item 10
-![](./CannonsCore/CannonsCore-item-10-1.png)
-
-## item 11
-![](./CannonsCore/CannonsCore-item-11-1.png)
-
-## item 12
-![](./CannonsCore/CannonsCore-item-12-1.png)
-
 ## item 2
 ![](./CannonsCore/CannonsCore-item-2-1.png)
 ![](./CannonsCore/CannonsCore-item-2-2.png)
@@ -53,6 +44,15 @@
 
 ## item 9
 ![](./CannonsCore/CannonsCore-item-9-1.png)
+
+## item 10
+![](./CannonsCore/CannonsCore-item-10-1.png)
+
+## item 11
+![](./CannonsCore/CannonsCore-item-11-1.png)
+
+## item 12
+![](./CannonsCore/CannonsCore-item-12-1.png)
 
 ## life 1
 ![](./CannonsCore/CannonsCore-life-1-1.png)

@@ -5,15 +5,6 @@
 ## item 1
 ![](./DeathChamber/DeathChamber-item-1-1.png)
 
-## item 10
-![](./DeathChamber/DeathChamber-item-10-1.png)
-![](./DeathChamber/DeathChamber-item-10-2.png)
-![](./DeathChamber/DeathChamber-item-10-3.png)
-
-## item 11
-![](./DeathChamber/DeathChamber-item-11-1.png)
-![](./DeathChamber/DeathChamber-item-11-2.png)
-
 ## item 2
 ![](./DeathChamber/DeathChamber-item-2-1.png)
 ![](./DeathChamber/DeathChamber-item-2-2.png)
@@ -49,6 +40,15 @@
 ![](./DeathChamber/DeathChamber-item-9-1.png)
 ![](./DeathChamber/DeathChamber-item-9-2.png)
 ![](./DeathChamber/DeathChamber-item-9-3.png)
+
+## item 10
+![](./DeathChamber/DeathChamber-item-10-1.png)
+![](./DeathChamber/DeathChamber-item-10-2.png)
+![](./DeathChamber/DeathChamber-item-10-3.png)
+
+## item 11
+![](./DeathChamber/DeathChamber-item-11-1.png)
+![](./DeathChamber/DeathChamber-item-11-2.png)
 
 ## life 1
 ![](./DeathChamber/DeathChamber-life-1-1.png)

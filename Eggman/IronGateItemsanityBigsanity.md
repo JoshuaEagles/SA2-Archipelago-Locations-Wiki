@@ -5,27 +5,6 @@
 ## item 1
 ![](./IronGate/IronGate-item-1-1.png)
 
-## item 10
-![](./IronGate/IronGate-item-10-1.png)
-
-## item 11
-![](./IronGate/IronGate-item-11-1.png)
-
-## item 12
-![](./IronGate/IronGate-item-12-1.png)
-
-## item 13
-![](./IronGate/IronGate-item-13-1.png)
-
-## item 14
-![](./IronGate/IronGate-item-14-1.png)
-
-## item 15
-![](./IronGate/IronGate-item-15-1.png)
-
-## item 16
-![](./IronGate/IronGate-item-16-1.png)
-
 ## item 2
 ![](./IronGate/IronGate-item-2-1.png)
 
@@ -50,6 +29,27 @@
 
 ## item 9
 ![](./IronGate/IronGate-item-9-1.png)
+
+## item 10
+![](./IronGate/IronGate-item-10-1.png)
+
+## item 11
+![](./IronGate/IronGate-item-11-1.png)
+
+## item 12
+![](./IronGate/IronGate-item-12-1.png)
+
+## item 13
+![](./IronGate/IronGate-item-13-1.png)
+
+## item 14
+![](./IronGate/IronGate-item-14-1.png)
+
+## item 15
+![](./IronGate/IronGate-item-15-1.png)
+
+## item 16
+![](./IronGate/IronGate-item-16-1.png)
 
 ## life 1
 ![](./IronGate/IronGate-life-1-1.png)

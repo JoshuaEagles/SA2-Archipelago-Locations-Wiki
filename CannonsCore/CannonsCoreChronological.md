@@ -4,8 +4,6 @@
 
 ## animal 1
 ![](./CannonsCore/CannonsCore-animal-1-1.webp)
-![](./CannonsCore/CannonsCore-animal-bonus1-1.webp)
-![](./CannonsCore/CannonsCore-animal-bonus1-2.webp)
 
 ## omochao 2
 ![](./CannonsCore/CannonsCore-omochao-2-1.webp)

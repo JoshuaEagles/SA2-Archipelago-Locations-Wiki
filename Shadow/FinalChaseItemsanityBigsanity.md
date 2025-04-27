@@ -6,6 +6,30 @@
 ## item 1
 ![](./FinalChase/FinalChase-item-1-1.png)
 
+## item 2
+![](./FinalChase/FinalChase-item-2-1.png)
+
+## item 3
+![](./FinalChase/FinalChase-item-3-1.png)
+
+## item 4
+![](./FinalChase/FinalChase-item-4-1.png)
+
+## item 5
+![](./FinalChase/FinalChase-item-5-1.png)
+
+## item 6
+![](./FinalChase/FinalChase-item-6-1.png)
+
+## item 7
+![](./FinalChase/FinalChase-item-7-1.png)
+
+## item 8
+![](./FinalChase/FinalChase-item-8-1.png)
+
+## item 9
+![](./FinalChase/FinalChase-item-9-1.png)
+
 ## item 10
 ![](./FinalChase/FinalChase-item-10-1.png)
 
@@ -35,9 +59,6 @@
 
 ## item 19
 ![](./FinalChase/FinalChase-item-19-1.png)
-
-## item 2
-![](./FinalChase/FinalChase-item-2-1.png)
 
 ## item 20
 ![](./FinalChase/FinalChase-item-20-1.png)
@@ -69,9 +90,6 @@
 ## item 29
 ![](./FinalChase/FinalChase-item-29-1.png)
 
-## item 3
-![](./FinalChase/FinalChase-item-3-1.png)
-
 ## item 30
 ![](./FinalChase/FinalChase-item-30-1.png)
 
@@ -92,24 +110,6 @@
 ## item 35
 ![](./FinalChase/FinalChase-item-35-1.png)
 ![](./FinalChase/FinalChase-item-35-2.png)
-
-## item 4
-![](./FinalChase/FinalChase-item-4-1.png)
-
-## item 5
-![](./FinalChase/FinalChase-item-5-1.png)
-
-## item 6
-![](./FinalChase/FinalChase-item-6-1.png)
-
-## item 7
-![](./FinalChase/FinalChase-item-7-1.png)
-
-## item 8
-![](./FinalChase/FinalChase-item-8-1.png)
-
-## item 9
-![](./FinalChase/FinalChase-item-9-1.png)
 
 ## life 1
 ![](./FinalChase/FinalChase-life-1-1.png)

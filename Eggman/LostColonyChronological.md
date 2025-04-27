@@ -4,8 +4,6 @@
 
 ## animal 1
 ![](./LostColony/LostColony-animal-1-1.webp)
-![](./LostColony/LostColony-animal-bonus1-1.webp)
-![](./LostColony/LostColony-animal-bonus1-2.webp)
 
 ## pipe 1
 ![](./LostColony/LostColony-pipe-1-1.webp)

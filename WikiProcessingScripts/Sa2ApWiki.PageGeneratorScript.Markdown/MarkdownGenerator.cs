@@ -105,7 +105,8 @@ public class MarkdownGenerator
             .Where(x => x.Contains("item") || x.Contains("life") || x.Contains("big"))
             .Select(screenshotPath => new LocationScreenshot(screenshotPath))
             .GroupBy(x => x.LocationName)
-            .OrderBy(x => x.Key);
+            .OrderBy(x => x.First().LocationType)
+            .ThenBy(x => x.First().LocationNumber);
 
         foreach (var locationScreenshotsGroup in locationsScreenshots)
         {

@@ -10,6 +10,32 @@
 ## item 1
 ![](./FinalRush/FinalRush-item-1-1.png)
 
+## item 2
+![](./FinalRush/FinalRush-item-2-1.png)
+
+## item 3
+![](./FinalRush/FinalRush-item-3-1.png)
+![](./FinalRush/FinalRush-item-3-2.png)
+
+## item 4
+![](./FinalRush/FinalRush-item-4-1.png)
+![](./FinalRush/FinalRush-item-4-2.png)
+
+## item 5
+![](./FinalRush/FinalRush-item-5-1.png)
+
+## item 6
+![](./FinalRush/FinalRush-item-6-1.png)
+
+## item 7
+![](./FinalRush/FinalRush-item-7-1.png)
+
+## item 8
+![](./FinalRush/FinalRush-item-8-1.png)
+
+## item 9
+![](./FinalRush/FinalRush-item-9-1.png)
+
 ## item 10
 ![](./FinalRush/FinalRush-item-10-1.png)
 
@@ -40,9 +66,6 @@
 ## item 19
 ![](./FinalRush/FinalRush-item-19-1.png)
 
-## item 2
-![](./FinalRush/FinalRush-item-2-1.png)
-
 ## item 20
 ![](./FinalRush/FinalRush-item-20-1.png)
 
@@ -72,10 +95,6 @@
 
 ## item 29
 ![](./FinalRush/FinalRush-item-29-1.png)
-
-## item 3
-![](./FinalRush/FinalRush-item-3-1.png)
-![](./FinalRush/FinalRush-item-3-2.png)
 
 ## item 30
 ![](./FinalRush/FinalRush-item-30-1.png)
@@ -108,45 +127,12 @@
 ## item 39
 ![](./FinalRush/FinalRush-item-39-1.png)
 
-## item 4
-![](./FinalRush/FinalRush-item-4-1.png)
-![](./FinalRush/FinalRush-item-4-2.png)
-
 ## item 40
 ![](./FinalRush/FinalRush-item-40-1.png)
-
-## item 5
-![](./FinalRush/FinalRush-item-5-1.png)
-
-## item 6
-![](./FinalRush/FinalRush-item-6-1.png)
-
-## item 7
-![](./FinalRush/FinalRush-item-7-1.png)
-
-## item 8
-![](./FinalRush/FinalRush-item-8-1.png)
-
-## item 9
-![](./FinalRush/FinalRush-item-9-1.png)
 
 ## life 1
 ![](./FinalRush/FinalRush-life-1-1.png)
 ![](./FinalRush/FinalRush-life-1-2.png)
-
-## life 10
-![](./FinalRush/FinalRush-life-10-1.png)
-
-## life 11
-![](./FinalRush/FinalRush-life-11-1.png)
-![](./FinalRush/FinalRush-life-11-2.png)
-
-## life 12
-![](./FinalRush/FinalRush-life-12-1.png)
-![](./FinalRush/FinalRush-life-12-2.png)
-
-## life 13
-![](./FinalRush/FinalRush-life-13-1.png)
 
 ## life 2
 ![](./FinalRush/FinalRush-life-2-1.png)
@@ -173,4 +159,18 @@
 
 ## life 9
 ![](./FinalRush/FinalRush-life-9-1.png)
+
+## life 10
+![](./FinalRush/FinalRush-life-10-1.png)
+
+## life 11
+![](./FinalRush/FinalRush-life-11-1.png)
+![](./FinalRush/FinalRush-life-11-2.png)
+
+## life 12
+![](./FinalRush/FinalRush-life-12-1.png)
+![](./FinalRush/FinalRush-life-12-2.png)
+
+## life 13
+![](./FinalRush/FinalRush-life-13-1.png)
 

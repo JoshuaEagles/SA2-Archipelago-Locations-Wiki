@@ -5,15 +5,6 @@
 ## item 1
 ![](./MeteorHerd/MeteorHerd-item-1-1.png)
 
-## item 10
-![](./MeteorHerd/MeteorHerd-item-10-1.png)
-
-## item 11
-![](./MeteorHerd/MeteorHerd-item-11-1.png)
-
-## item 12
-![](./MeteorHerd/MeteorHerd-item-12-1.png)
-
 ## item 2
 ![](./MeteorHerd/MeteorHerd-item-2-1.png)
 
@@ -39,6 +30,15 @@
 
 ## item 9
 ![](./MeteorHerd/MeteorHerd-item-9-1.png)
+
+## item 10
+![](./MeteorHerd/MeteorHerd-item-10-1.png)
+
+## item 11
+![](./MeteorHerd/MeteorHerd-item-11-1.png)
+
+## item 12
+![](./MeteorHerd/MeteorHerd-item-12-1.png)
 
 ## life 1
 ![](./MeteorHerd/MeteorHerd-life-1-1.png)
