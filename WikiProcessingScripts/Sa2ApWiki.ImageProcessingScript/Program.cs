@@ -5,21 +5,34 @@ using Sa2ApWiki.Common;
 
 const string path = ProjectPath.Path;
 
-foreach (string filePath in Directory.EnumerateFiles(path, "*.jpg", SearchOption.AllDirectories))
-{
-    string outputPath = filePath.Replace(".jpg", ".webp");
+// Aspect Ratio Fix
+// foreach (var filePath in Directory.EnumerateFiles(path, "*.webp", SearchOption.AllDirectories))
+// {
+//     var renamedFile = filePath.Replace(".webp", "old.webp");
+//     File.Move(filePath, renamedFile);
+//     Console.WriteLine($"Renaming {filePath} to {renamedFile}");
+//
+//     Console.WriteLine(RunCommandWithBash($" -c \"cwebp -resize 640 480 -noalpha -m 6 -mt '{renamedFile}' -o '{filePath}'\""));
+// }
 
-    Console.WriteLine(RunCommandWithBash($" -c \"cwebp -resize 640 512 -m 6 -q 70 '{filePath}' -o '{outputPath}'\""));
+// Compress pngs
+foreach (var filePath in Directory.EnumerateFiles(path, "*.png", SearchOption.AllDirectories))
+{
+    var outputPath = filePath.Replace(".png", ".webp");
+
+    Console.WriteLine(RunCommandWithBash($" -c \"cwebp -resize 640 480 -noalpha -m 6 -mt -q 70 '{filePath}' -o '{outputPath}'\""));
 }
 
 static string RunCommandWithBash(string command)
 {
-    var psi = new ProcessStartInfo();
-    psi.FileName = "/bin/bash";
-    psi.Arguments = command;
-    psi.RedirectStandardOutput = true;
-    psi.UseShellExecute = false;
-    psi.CreateNoWindow = true;
+    var psi = new ProcessStartInfo
+    {
+        FileName = "/bin/bash",
+        Arguments = command,
+        RedirectStandardOutput = true,
+        UseShellExecute = false,
+        CreateNoWindow = true
+    };
 
     using var process = Process.Start(psi) ?? throw new Exception("Failed to execute shell command");
 
