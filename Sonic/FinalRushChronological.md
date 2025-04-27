@@ -22,6 +22,10 @@
 ![](./FinalRush/FinalRush-life-2-1.png)
 ![](./FinalRush/FinalRush-life-2-2.png)
 
+## item 3
+![](./FinalRush/FinalRush-item-3-1.png)
+![](./FinalRush/FinalRush-item-3-2.png)
+
 ## animal 2
 ![](./FinalRush/FinalRush-animal-2-1.webp)
 
