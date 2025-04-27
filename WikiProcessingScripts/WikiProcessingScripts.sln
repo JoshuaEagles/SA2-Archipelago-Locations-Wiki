@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.ChronologicalData
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.ImageProcessingScript", "Sa2ApWiki.ImageProcessingScript\Sa2ApWiki.ImageProcessingScript.csproj", "{83E14CD6-BDBC-4EAB-903D-B1AC0B9ECF4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.ImageRenamingScript", "Sa2ApWiki.ImageRenamingScript\Sa2ApWiki.ImageRenamingScript.csproj", "{40F741F1-8C83-47C0-B3DA-23D47479480A}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.PageGeneratorScript.Miraheze", "Sa2ApWiki.PageGeneratorScript.Miraheze\Sa2ApWiki.PageGeneratorScript.Miraheze.csproj", "{0AEE0946-BD23-4639-9949-852AE128C390}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.Common", "Sa2ApWiki.Common\Sa2ApWiki.Common.csproj", "{9C733AA2-9A96-4C73-A331-84C26290A436}"
@@ -26,6 +28,10 @@ Global
 		{83E14CD6-BDBC-4EAB-903D-B1AC0B9ECF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E14CD6-BDBC-4EAB-903D-B1AC0B9ECF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E14CD6-BDBC-4EAB-903D-B1AC0B9ECF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F741F1-8C83-47C0-B3DA-23D47479480A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F741F1-8C83-47C0-B3DA-23D47479480A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F741F1-8C83-47C0-B3DA-23D47479480A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F741F1-8C83-47C0-B3DA-23D47479480A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0AEE0946-BD23-4639-9949-852AE128C390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0AEE0946-BD23-4639-9949-852AE128C390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEE0946-BD23-4639-9949-852AE128C390}.Release|Any CPU.ActiveCfg = Release|Any CPU
