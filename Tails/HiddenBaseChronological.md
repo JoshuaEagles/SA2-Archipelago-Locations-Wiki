@@ -4,7 +4,8 @@
 
 ## animal 1
 ![](./HiddenBase/HiddenBase-animal-1-1.webp)
-
+## item 1
+![](./HiddenBase/HiddenBase-item-1-1.png)
 ## animal 2
 ![](./HiddenBase/HiddenBase-animal-2-1.webp)
 ![](./HiddenBase/HiddenBase-animal-2-2.webp)
@@ -18,7 +19,8 @@
 ## animal 3
 ![](./HiddenBase/HiddenBase-animal-3-1.webp)
 ![](./HiddenBase/HiddenBase-animal-3-2.webp)
-
+## big 1
+![](./HiddenBase/HiddenBase-big-1-1.png)
 ## animal 4
 ![](./HiddenBase/HiddenBase-animal-4-1.webp)
 ![](./HiddenBase/HiddenBase-animal-4-2.webp)
@@ -69,7 +71,11 @@
 
 ## animal 11
 ![](./HiddenBase/HiddenBase-animal-11-1.webp)
+## item 2
+![](./HiddenBase/HiddenBase-item-2-1.png)
 
+## item 3
+![](./HiddenBase/HiddenBase-item-3-1.png)
 ## pipe 5
 ![](./HiddenBase/HiddenBase-pipe-5-1.webp)
 
@@ -81,6 +87,17 @@
 
 ## animal 14
 ![](./HiddenBase/HiddenBase-animal-14-1.webp)
+## life 1
+![](./HiddenBase/HiddenBase-life-1-1.png)
+![](./HiddenBase/HiddenBase-life-1-2.png)
+## item 4
+![](./HiddenBase/HiddenBase-item-4-1.png)
+![](./HiddenBase/HiddenBase-item-4-2.png)
+
+## item 5
+![](./HiddenBase/HiddenBase-item-5-1.png)
+![](./HiddenBase/HiddenBase-item-5-2.png)
+
 
 ## omochao 4
 ![](./HiddenBase/HiddenBase-omochao-4-1.webp)
