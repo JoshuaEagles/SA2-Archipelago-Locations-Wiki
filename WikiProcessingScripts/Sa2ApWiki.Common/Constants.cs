@@ -15,8 +15,15 @@ public static class Constants
 	];
 
 	public static readonly LocationTypeNameModel[] LocationTypes = [
+		new() { CodeName = "chaobox", ReadableName = "Chaobox" },
 		new() { CodeName = "pipe", ReadableName = "Pipe" },
 		new() { CodeName = "hidden", ReadableName = "Hidden" },
+		new() { CodeName = "goldbeetle", ReadableName = "Gold Beetle" },
+		new() { CodeName = "omochao", ReadableName = "Omochao" },
+		new() { CodeName = "animal", ReadableName = "Animal" },
+		new() { CodeName = "item", ReadableName = "Item" },
+		new() { CodeName = "life", ReadableName = "Life" },
+		new() { CodeName = "big", ReadableName = "Big" }
 	];
 
 	public static readonly Dictionary<string, string> StageCodeNameToReadableName = new()

@@ -17,23 +17,6 @@ public class MirahezeGenerator
     {
         foreach (var characterName in Constants.CharacterNames)
         {
-            // Go through each directory in the character folders
-            // For each one not named Chronological:
-            // Generate a file based on the Folder name, <Name>Itemsanity.md
-        
-            // In the file: 
-            // First line is <Name> (Itemsanity)
-            // Then an empty line, followed by:
-        
-            // ## <Name> Item n
-            // ![](<path-to-screenshot>)
-            // repeat for each one
-            // Empty line
-            // [Back to Top](#)
-            // Empty line
-        
-            // Same idea for Lives
-        
             foreach (var directoryPath in Directory.EnumerateDirectories(Path.Join(path, characterName), string.Empty, SearchOption.TopDirectoryOnly))
             {
                 if (directoryPath.Contains("Chronological"))
@@ -46,13 +29,9 @@ public class MirahezeGenerator
 
                 var stageName = Path.GetFileName(directoryPath);
                 
-                // TODO: add green hill and co to chronological page
-                if (stageName == "GreenHill" || stageName == "Route101" || stageName == "Route280")
-                {
-                    continue;
-                }
+                var chronologicalFirstLocation = _chronologicalLocationsByStage[stageName].First().LocationName;
             
-                WriteStagePageHeader(stageName, streamWriter);
+                WriteStagePageHeader(stageName, streamWriter, chronologicalFirstLocation);
                 WriteAllLocationToStagePage(directoryPath, streamWriter, stageName);
                 WriteStagePageFooter(streamWriter);
             }
@@ -60,16 +39,15 @@ public class MirahezeGenerator
 
     }
 
-    private static void WriteStagePageHeader(string stageName, StreamWriter streamWriter)
+    private static void WriteStagePageHeader(string stageName, StreamWriter streamWriter, string chronologicalFirstLocation)
     {
-        // TODO: header needs the chronological first location
         var readableStageName = Constants.StageCodeNameToReadableName[stageName];
         var headerText = $$$"""
                          __NOTOC__{{DISPLAYTITLE:{{{readableStageName}}} Locations}}
                          Display as Chronological:
                          <div id="chronological-toggle">button</div>
                          
-                         <div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+                         <div id="chronological-first-location" data-chronological-first-location="{{{chronologicalFirstLocation}}}"></div>
 
                          <div id="location-wrapper">
                              
