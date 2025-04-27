@@ -4,7 +4,7 @@ namespace Sa2ApWiki.Common;
 
 public static class Constants
 {
-	public static string[] CharacterNames = [
+	public static readonly string[] CharacterNames = [
 		"Sonic",
 		"Tails",
 		"Knuckles",
@@ -14,12 +14,12 @@ public static class Constants
 		"CannonsCore"
 	];
 
-	public static LocationTypeNameModel[] LocationTypes = [
+	public static readonly LocationTypeNameModel[] LocationTypes = [
 		new() { CodeName = "pipe", ReadableName = "Pipe" },
 		new() { CodeName = "hidden", ReadableName = "Hidden" },
 	];
 
-	public static Dictionary<string, string> StageCodeNameToReadableName = new()
+	public static readonly Dictionary<string, string> StageCodeNameToReadableName = new()
 	{
 		// Hero Story
 		{"CityEscape", "City Escape"},
@@ -60,4 +60,46 @@ public static class Constants
 		
 		{"GreenHill", "Green Hill"}
 	};
+
+	public static readonly IReadOnlyCollection<string> StageNamesInOrder =
+	[
+		// Hero Story
+		"CityEscape",
+		"WildCanyon",
+		"PrisonLane",
+		"MetalHarbor",
+		"GreenForest",
+		"PumpkinHill",
+		"MissionStreet",
+		"AquaticMine",
+		"Route101",
+		"HiddenBase",
+		"PyramidCave",
+		"DeathChamber",
+		"EternalEngine",
+		"MeteorHerd",
+		"CrazyGadget",
+		"FinalRush",
+
+		// Dark Story
+		"IronGate",
+		"DryLagoon",
+		"SandOcean",
+		"RadicalHighway",
+		"EggQuarters",
+		"LostColony",
+		"WeaponsBed",
+		"SecurityHall",
+		"WhiteJungle",
+		"Route280",
+		"SkyRail",
+		"MadSpace",
+		"CosmicWall",
+		"FinalChase",
+
+		// Last Story
+		"CannonsCore",
+
+		"GreenHill"
+	];
 }

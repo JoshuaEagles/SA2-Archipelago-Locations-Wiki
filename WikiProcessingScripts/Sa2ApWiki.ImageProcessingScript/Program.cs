@@ -1,13 +1,9 @@
 ﻿// Note: this script requires cwebp to be available, and will likely only work on Linux.
 
 using System.Diagnostics;
+using Sa2ApWiki.Common;
 
-Console.WriteLine("Enter path to root of project:");
-var path = Console.ReadLine();
-
-if (path is null || path == string.Empty) {
-    throw new Exception("Invalid path");
-}
+const string path = ProjectPath.Path;
 
 foreach (string filePath in Directory.EnumerateFiles(path, "*.jpg", SearchOption.AllDirectories))
 {
