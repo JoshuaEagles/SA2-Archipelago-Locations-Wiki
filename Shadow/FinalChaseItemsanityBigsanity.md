@@ -1,4 +1,8 @@
 <style>img{width:256px;display:inline;}</style>
+## big 1
+![](./FinalChase/big-1-1.png)
+![](./FinalChase/big-1-2.png)
+
 ## item 1
 ![](./FinalChase/item-1-1.png)
 

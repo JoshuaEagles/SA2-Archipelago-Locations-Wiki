@@ -1,4 +1,13 @@
 <style>img{width:256px;display:inline;}</style>
+## bighard 1
+![](./MetalHarbor/bighard-1-1.png)
+![](./MetalHarbor/bighard-1-2.png)
+![](./MetalHarbor/bighard-1-3.png)
+![](./MetalHarbor/bighard-1-4.png)
+
+## bignormal 1
+![](./MetalHarbor/bignormal-1-1.png)
+
 ## item 1
 ![](./MetalHarbor/item-1-1.png)
 

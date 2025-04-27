@@ -1,4 +1,7 @@
 <style>img{width:256px;display:inline;}</style>
+## big 1
+![](./CrazyGadget/big-1-1.png)
+
 ## item 1
 ![](./CrazyGadget/item-1-1.png)
 

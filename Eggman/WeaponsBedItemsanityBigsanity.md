@@ -1,4 +1,12 @@
 <style>img{width:256px;display:inline;}</style>
+## bighard 1
+![](./WeaponsBed/bighard-1-1.png)
+![](./WeaponsBed/bighard-1-2.png)
+![](./WeaponsBed/bighard-1-3.png)
+
+## bignormal 1
+![](./WeaponsBed/bignormal-1-1.png)
+
 ## item 1
 ![](./WeaponsBed/item-1-1.png)
 
