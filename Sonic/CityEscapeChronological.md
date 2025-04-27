@@ -1,5 +1,4 @@
 <style>img{width:256px;display:inline;}</style>
-
 ## life 1
 ![](./CityEscape/CityEscape-life-1-1.png)
 
@@ -80,9 +79,11 @@
 
 ## animal 8
 ![](./CityEscape/CityEscape-animal-8-1.webp)
+
 ## life 2
 ![](./CityEscape/CityEscape-life-2-1.png)
 ![](./CityEscape/CityEscape-life-2-2.png)
+
 ## item 6
 ![](./CityEscape/CityEscape-item-6-1.png)
 ![](./CityEscape/CityEscape-item-6-2.png)
