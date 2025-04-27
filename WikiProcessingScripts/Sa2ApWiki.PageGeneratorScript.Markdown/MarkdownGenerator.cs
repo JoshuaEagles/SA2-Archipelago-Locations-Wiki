@@ -1,27 +1,34 @@
+using System.Collections.Immutable;
 using Sa2ApWiki.Common;
 using Sa2ApWiki.Common.Models;
 
+// Need to generate basic chronological pages so that I can add itemsanity and bigsanity to them
+// Then I need to update the chronological parser to generate in the new nicer format, maybe put it into a JSON file too
+
 namespace Sa2ApWiki.MarkdownPageGeneratorScript;
 
-public static class MarkdownGenerator
+public class MarkdownGenerator
 {
-    public static void GenerateMarkdownFiles(string path)
+    private readonly Dictionary<string, IReadOnlyCollection<ChronologicalLocationModel>> _chronologicalLocationsByStage;
+    
+    public MarkdownGenerator(Dictionary<string, IReadOnlyCollection<ChronologicalLocationModel>> chronologicalLocationsByStage)
+    {
+        _chronologicalLocationsByStage = chronologicalLocationsByStage;
+    }
+    
+    public void GenerateMarkdownFiles(string path)
     {
         foreach (var characterName in Constants.CharacterNames)
         {
             // Go through each directory in the character folders
             // For each one not named Chronological:
-            // Generate a file based on the Folder name, <Name>Itemsanity.md
+            // Generate a file based on the Folder name, <Name>Chronological.md
         
             // In the file: 
-            // First line is <Name> (Itemsanity)
-            // Then an empty line, followed by:
-        
+            
             // ## <Name> Item n
             // ![](<path-to-screenshot>)
             // repeat for each one
-            // Empty line
-            // [Back to Top](#)
             // Empty line
         
             // Same idea for Lives
@@ -33,43 +40,86 @@ public static class MarkdownGenerator
                     continue;
                 }
 
-                var newFilePath = $"{directoryPath}Itemsanity.md";
-                using var streamWriter = new StreamWriter(new FileStream(newFilePath, FileMode.Create, FileAccess.Write));
+                var chronologicalFilePath = $"{directoryPath}Chronological.md";
+                using (var streamWriter =
+                       new StreamWriter(new FileStream(chronologicalFilePath, FileMode.Create, FileAccess.Write)))
+                {
+                    streamWriter.WriteLine("<style>img{width:256px;display:inline;}</style>");
 
-                var stageName = Path.GetFileName(directoryPath);
+                    var stageName = Path.GetFileName(directoryPath);
             
-                streamWriter.WriteLine($"# {stageName} (Itemsanity)");
-                streamWriter.WriteLine();
+                    WriteChronologicalMarkdownLocations(stageName, directoryPath, streamWriter);
+                }
+                
+                var itemsanityBigsanityFilePath = $"{directoryPath}ItemsanityBigsanity.md";
+                using (var streamWriter =
+                       new StreamWriter(new FileStream(itemsanityBigsanityFilePath, FileMode.Create, FileAccess.Write)))
+                {
+                    streamWriter.WriteLine("<style>img{width:256px;display:inline;}</style>");
 
-                WriteMarkdownLocationsOfSingleType("Item", "item", directoryPath, streamWriter, stageName);
-                WriteMarkdownLocationsOfSingleType("Life", "life", directoryPath, streamWriter, stageName);
+                    var stageName = Path.GetFileName(directoryPath);
+            
+                    WriteSimplifiedItemsanityAndBigsanityPages(stageName, directoryPath, streamWriter);
+                }
             }
         }
 
     }
 
-    private static void WriteMarkdownLocationsOfSingleType(string readableLocationTypeName, string locationShortName, string directoryPath, StreamWriter streamWriter, string stageName)
+    private void WriteChronologicalMarkdownLocations(string stageName, string directoryPath, StreamWriter streamWriter)
     {
-        var locations = Directory.EnumerateFiles(directoryPath, $"{locationShortName}*", SearchOption.TopDirectoryOnly)
+        var pngScreenshots = Directory.EnumerateFiles(directoryPath, $"*.png", SearchOption.TopDirectoryOnly);
+        var webpScreenshots = Directory.EnumerateFiles(directoryPath, $"*.webp", SearchOption.TopDirectoryOnly);
+        
+        var locationsScreenshotsLookup = pngScreenshots.Concat(webpScreenshots)
             .Select(screenshotPath => new LocationScreenshot(screenshotPath))
-            .ToList();
+            .ToLookup(x => x.LocationName);
 
-        var locationsByItemNumber = locations
-            .GroupBy(l => l.LocationNumber)
-            .OrderBy(l => l.Key);
+        var locationsChronologicallyOrdered = _chronologicalLocationsByStage[stageName];
 
-        foreach (var locationGroup in locationsByItemNumber)
+        foreach (var chronologicalLocation in locationsChronologicallyOrdered)
         {
-            streamWriter.WriteLine($"## {stageName} {readableLocationTypeName} {locationGroup.Key}");
+            var locationScreenshotsGroup = locationsScreenshotsLookup[chronologicalLocation.LocationName].ToImmutableArray();
             
-            var sortedLocationGroup = locationGroup.OrderBy(l => l.ScreenshotNumber);
+            var locationType = locationScreenshotsGroup.First().LocationType;
+            var locationNumber = locationScreenshotsGroup.First().LocationNumber;
+            
+            streamWriter.WriteLine($"## {locationType} {locationNumber}");
+            
+            var sortedLocationGroup = locationScreenshotsGroup.OrderBy(x => x.ScreenshotNumber);
             foreach (var location in sortedLocationGroup)
             {
                 streamWriter.WriteLine($"![](./{stageName}/{location.FileName})");
             }
                 
             streamWriter.WriteLine();
-            streamWriter.WriteLine("[Back to Top](#)");
+        }
+    }
+
+    private void WriteSimplifiedItemsanityAndBigsanityPages(string stageName, string directoryPath, StreamWriter streamWriter)
+    {
+        var pngScreenshots = Directory.EnumerateFiles(directoryPath, $"*.png", SearchOption.TopDirectoryOnly);
+        var webpScreenshots = Directory.EnumerateFiles(directoryPath, $"*.webp", SearchOption.TopDirectoryOnly);
+
+        var locationsScreenshots = pngScreenshots.Concat(webpScreenshots)
+            .Where(x => x.Contains("item") || x.Contains("life") || x.Contains("big"))
+            .Select(screenshotPath => new LocationScreenshot(screenshotPath))
+            .GroupBy(x => x.LocationName)
+            .OrderBy(x => x.Key);
+
+        foreach (var locationScreenshotsGroup in locationsScreenshots)
+        {
+            var locationType = locationScreenshotsGroup.First().LocationType;
+            var locationNumber = locationScreenshotsGroup.First().LocationNumber;
+            
+            streamWriter.WriteLine($"## {locationType} {locationNumber}");
+            
+            var sortedLocationGroup = locationScreenshotsGroup.OrderBy(x => x.ScreenshotNumber);
+            foreach (var location in sortedLocationGroup)
+            {
+                streamWriter.WriteLine($"![](./{stageName}/{location.FileName})");
+            }
+                
             streamWriter.WriteLine();
         }
     }

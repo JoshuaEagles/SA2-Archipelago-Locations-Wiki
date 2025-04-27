@@ -96,7 +96,7 @@ public class MirahezeGenerator
             {
                 var currentLocationName = $"{locationType.CodeName}-{locationGroup.Key}";
                 var nextChronologicalLocationName =
-                    chronologicalLocationsByLocationName[currentLocationName].NextLocation?.FirstLocationName;
+                    chronologicalLocationsByLocationName[currentLocationName].NextLocation?.LocationName;
                 
                 streamWriter.WriteLine($"""
                                         <div 
@@ -141,21 +141,8 @@ public class MirahezeGenerator
 
     private IDictionary<string, ChronologicalLocationModel> GetChronologicalLocationsByLocationName(string stageName)
     {
-        // TODO: remove the filtering here
-        var chronologicalLocations = _chronologicalLocationsByStage[stageName]
-            .ToImmutableArray();
-        
-        var chronologicalLocationsByFirstLocationName = chronologicalLocations
-            .ToDictionary(x => x.FirstLocationName);
-        var chronologicalLocationsBySecondLocationName = chronologicalLocations
-            .Where(x => x.SecondLocationName is not null)
-            .ToDictionary(x => x.SecondLocationName!);
-        
-        var chronologicalLocationsByLocationName = chronologicalLocationsByFirstLocationName
-            .Concat(chronologicalLocationsBySecondLocationName)
-            .ToDictionary();
-        
-        return chronologicalLocationsByLocationName;
+        return _chronologicalLocationsByStage[stageName]
+            .ToDictionary(x => x.LocationName);
     }
 
     private static void WriteStagePageFooter(StreamWriter streamWriter)

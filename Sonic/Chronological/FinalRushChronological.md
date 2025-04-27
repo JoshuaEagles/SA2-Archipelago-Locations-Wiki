@@ -134,11 +134,3 @@
 ![](../FinalRush/Animal-16th-Close.webp)
 
 [Back to Top](#)
-
-# Green Hill
-
-## Green Hill Chao Box 1
-![](../GreenHill/Chaobox-1st-Far.webp)
-![](../GreenHill/Chaobox-1st-Close.webp)
-
-[Back to Top](#)
