@@ -1,189 +1,127 @@
-# Cannon's Core (Chronological)
+<style>img{width:256px;display:inline;}</style>
+## omochao 1
+![](./CannonsCore/omochao-1-1.webp)
 
-## Cannon's Core Omochao 1
-![](./CannonsCore/Omochao-1st-Far.webp)
-![](./CannonsCore/Omochao-1st-Close.webp)
+## animal 1
+![](./CannonsCore/animal-1-1.webp)
+![](./CannonsCore/animal-bonus1-1.webp)
+![](./CannonsCore/animal-bonus1-2.webp)
 
-[Back to Top](#)
+## omochao 2
+![](./CannonsCore/omochao-2-1.webp)
 
-## Cannon's Core Animal 1
-![](./CannonsCore/Animal-1st-Far.webp)
-![](./CannonsCore/Animal-1st-Close.webp)
+## omochao 3
+![](./CannonsCore/omochao-3-1.webp)
 
-[Back to Top](#)
+## pipe 1
+![](./CannonsCore/pipe-1-1.webp)
 
-## Cannon's Core Omochao 2
-![](./CannonsCore/Omochao-2nd-Far.webp)
-![](./CannonsCore/Omochao-2nd-Close.webp)
+## animal 2
+![](./CannonsCore/animal-2-1.webp)
 
-[Back to Top](#)
+## animal 3
+![](./CannonsCore/animal-3-1.webp)
 
-## Cannon's Core Omochao 3
-![](./CannonsCore/Omochao-3rd-Far.webp)
-![](./CannonsCore/Omochao-3rd-Close.webp)
+## pipe 2
+![](./CannonsCore/pipe-2-1.webp)
 
-[Back to Top](#)
+## animal 4
+![](./CannonsCore/animal-4-1.webp)
 
-## Cannon's Core Pipe 1 & Animal 2
-![](./CannonsCore/Pipe-1st-Close.webp)
+## animal 5
+![](./CannonsCore/animal-5-1.webp)
+![](./CannonsCore/animal-5-2.webp)
 
-[Back to Top](#)
+## omochao 4
+![](./CannonsCore/omochao-4-1.webp)
 
-## Cannon's Core Animal 3
-![](./CannonsCore/Animal-3rd-Far.webp)
-![](./CannonsCore/Animal-3rd-Close.webp)
+## animal 6
+![](./CannonsCore/animal-6-1.webp)
 
-[Back to Top](#)
+## pipe 3
+![](./CannonsCore/pipe-3-1.webp)
+![](./CannonsCore/pipe-3-2.webp)
 
-## Cannon's Core Pipe 2 & Animal 4
-![](./CannonsCore/Pipe-2nd-Far.webp)
+## animal 7
+![](./CannonsCore/animal-7-1.webp)
 
-[Back to Top](#)
+## chaobox 1
+![](./CannonsCore/chaobox-1-1.webp)
+![](./CannonsCore/chaobox-1-2.webp)
 
-## Cannon's Core Animal 5
-![](./CannonsCore/Animal-5th-Far.webp)
-![](./CannonsCore/Animal-5th-Close.webp)
+## animal 8
+![](./CannonsCore/animal-8-1.webp)
 
-[Back to Top](#)
+## omochao 5
+![](./CannonsCore/omochao-5-1.webp)
 
-## Cannon's Core Omochao 4
-![](./CannonsCore/Omochao-4th-Far.webp)
-![](./CannonsCore/Omochao-4th-Close.webp)
+## pipe 4
+![](./CannonsCore/pipe-4-1.webp)
+![](./CannonsCore/pipe-4-2.webp)
 
-[Back to Top](#)
+## animal 9
+![](./CannonsCore/animal-9-1.webp)
 
-## Cannon's Core Animal 6
-![](./CannonsCore/Animal-6th-Far.webp)
-![](./CannonsCore/Animal-6th-Close.webp)
+## chaobox 2
+![](./CannonsCore/chaobox-2-1.webp)
 
-[Back to Top](#)
+## hidden 1
+![](./CannonsCore/hidden-1-1.webp)
+![](./CannonsCore/hidden-1-2.webp)
 
-## Cannon's Core Pipe 3 & Animal 7
-![](./CannonsCore/Pipe-3rd-Far.webp)
-![](./CannonsCore/Pipe-3rd-Close.webp)
+## animal 10
+![](./CannonsCore/animal-10-1.webp)
 
-[Back to Top](#)
+## animal 11
+![](./CannonsCore/animal-11-1.webp)
 
-## Cannon's Core Chao Box 1
-![](./CannonsCore/Chaobox-1st-Far.webp)
-![](./CannonsCore/Chaobox-1st-Close.webp)  
+## omochao 6
+![](./CannonsCore/omochao-6-1.webp)
 
-[Back to Top](#)
+## animal 12
+![](./CannonsCore/animal-12-1.webp)
 
-## Cannon's Core Animal 8
-![](./CannonsCore/Animal-8th-Far.webp)
-![](./CannonsCore/Animal-8th-Close.webp)
+## animal 13
+![](./CannonsCore/animal-13-1.webp)
+![](./CannonsCore/animal-13-2.webp)
 
-[Back to Top](#)
+## animal 14
+![](./CannonsCore/animal-14-1.webp)
+![](./CannonsCore/animal-14-2.webp)
 
-## Cannon's Core Omochao 5
-![](./CannonsCore/Omochao-5th-Far.webp)
-![](./CannonsCore/Omochao-5th-Close.webp)
+## omochao 7
+![](./CannonsCore/omochao-7-1.webp)
 
-[Back to Top](#)
+## animal 15
+![](./CannonsCore/animal-15-1.webp)
 
-## Cannon's Core Pipe 4 & Animal 9
-![](./CannonsCore/Pipe-4th-Far.webp)
-![](./CannonsCore/Pipe-4th-Close.webp)
+## chaobox 3
+![](./CannonsCore/chaobox-3-1.webp)
+![](./CannonsCore/chaobox-3-2.webp)
 
-[Back to Top](#)
+## animal 16
+![](./CannonsCore/animal-16-1.webp)
+![](./CannonsCore/animal-16-2.webp)
 
-## Cannon's Core Chao Box 2
-![](./CannonsCore/Chaobox-2nd-Far.webp)  
+## omochao 8
+![](./CannonsCore/omochao-8-1.webp)
 
-[Back to Top](#)
+## animal 17
+![](./CannonsCore/animal-17-1.webp)
 
-## Cannon's Core Hidden 1 & Animal 10
-![](./CannonsCore/Hidden-1st-Far.webp)
-![](./CannonsCore/Hidden-1st-Close.webp)
+## pipe 5
+![](./CannonsCore/pipe-5-1.webp)
+![](./CannonsCore/pipe-5-2.webp)
 
-[Back to Top](#)
+## animal 18
+![](./CannonsCore/animal-18-1.webp)
 
-## Cannon's Core Animal 11
-![](./CannonsCore/Animal-11th-Far.webp)
-![](./CannonsCore/Animal-11th-Close.webp)
+## goldbeetle 1
+![](./CannonsCore/goldbeetle-1-1.webp)
 
-[Back to Top](#)
+## omochao 9
+![](./CannonsCore/omochao-9-1.webp)
 
-## Cannon's Core Omochao 6
-![](./CannonsCore/Omochao-6th-Far.webp)
-![](./CannonsCore/Omochao-6th-Close.webp)
+## animal 19
+![](./CannonsCore/animal-19-1.webp)
 
-[Back to Top](#)
-
-## Cannon's Core Animal 12
-![](./CannonsCore/Animal-12th-Far.webp)
-![](./CannonsCore/Animal-12th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Animal 13
-![](./CannonsCore/Animal-13th-Far.webp)
-![](./CannonsCore/Animal-13th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Animal 14
-![](./CannonsCore/Animal-14th-Far.webp)
-![](./CannonsCore/Animal-14th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Omochao 7
-![](./CannonsCore/Omochao-7th-Far.webp)
-![](./CannonsCore/Omochao-7th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Animal 15
-![](./CannonsCore/Animal-15th-Far.webp)
-![](./CannonsCore/Animal-15th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Chao Box 3
-![](./CannonsCore/Chaobox-3rd-Far.webp)  
-![](./CannonsCore/Chaobox-3rd-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Animal 16
-![](./CannonsCore/Animal-16th-Far.webp)
-![](./CannonsCore/Animal-16th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Omochao 8
-![](./CannonsCore/Omochao-8th-Far.webp)
-![](./CannonsCore/Omochao-8th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Animal 17
-![](./CannonsCore/Animal-17th-Far.webp)
-![](./CannonsCore/Animal-17th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Pipe 5 & Animal 18
-![](./CannonsCore/Pipe-5th-Far.webp)
-![](./CannonsCore/Pipe-5th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Gold Beetle
-![](./CannonsCore/GoldBeetle-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Omochao 9
-![](./CannonsCore/Omochao-9th-Far.webp)
-![](./CannonsCore/Omochao-9th-Close.webp)
-
-[Back to Top](#)
-
-## Cannon's Core Animal 19
-![](./CannonsCore/Animal-19th-Far.webp)
-![](./CannonsCore/Animal-19th-Close.webp)
-
-[Back to Top](#)
