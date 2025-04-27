@@ -1,4 +1,14 @@
 <style>img{width:256px;display:inline;}</style>
+
+## life 1
+![](./CityEscape/CityEscape-life-1-1.png)
+
+## item 1
+![](./CityEscape/CityEscape-item-1-1.png)
+
+## item 2
+![](./CityEscape/CityEscape-item-2-1.png)
+
 ## animal 1
 ![](./CityEscape/CityEscape-animal-1-1.webp)
 ![](./CityEscape/CityEscape-animal-1-2.webp)
@@ -13,6 +23,9 @@
 ## animal 2
 ![](./CityEscape/CityEscape-animal-2-1.webp)
 ![](./CityEscape/CityEscape-animal-2-2.webp)
+
+## item 3
+![](./CityEscape/CityEscape-item-3-1.png)
 
 ## omochao 2
 ![](./CityEscape/CityEscape-omochao-2-1.webp)
@@ -33,6 +46,9 @@
 ## animal 3
 ![](./CityEscape/CityEscape-animal-3-1.webp)
 
+## item 4
+![](./CityEscape/CityEscape-item-4-1.png)
+
 ## animal 4
 ![](./CityEscape/CityEscape-animal-4-1.webp)
 
@@ -42,6 +58,9 @@
 ## animal 5
 ![](./CityEscape/CityEscape-animal-5-1.webp)
 ![](./CityEscape/CityEscape-animal-5-2.webp)
+
+## item 5
+![](./CityEscape/CityEscape-item-5-1.png)
 
 ## omochao 7
 ![](./CityEscape/CityEscape-omochao-7-1.webp)
@@ -61,6 +80,12 @@
 
 ## animal 8
 ![](./CityEscape/CityEscape-animal-8-1.webp)
+## life 2
+![](./CityEscape/CityEscape-life-2-1.png)
+![](./CityEscape/CityEscape-life-2-2.png)
+## item 6
+![](./CityEscape/CityEscape-item-6-1.png)
+![](./CityEscape/CityEscape-item-6-2.png)
 
 ## animal 9
 ![](./CityEscape/CityEscape-animal-9-1.webp)
@@ -98,11 +123,18 @@
 ## animal 12
 ![](./CityEscape/CityEscape-animal-12-1.webp)
 
+## item 7
+![](./CityEscape/CityEscape-item-7-1.png)
+![](./CityEscape/CityEscape-item-7-2.png)
+
 ## animal 13
 ![](./CityEscape/CityEscape-animal-13-1.webp)
 
 ## animal 14
 ![](./CityEscape/CityEscape-animal-14-1.webp)
+
+## item 8
+![](./CityEscape/CityEscape-item-8-1.png)
 
 ## hidden 3
 ![](./CityEscape/CityEscape-hidden-3-1.webp)
@@ -122,6 +154,9 @@
 ## omochao 11
 ![](./CityEscape/CityEscape-omochao-11-1.webp)
 
+## item 9
+![](./CityEscape/CityEscape-item-9-1.png)
+
 ## chaobox 3
 ![](./CityEscape/CityEscape-chaobox-3-1.webp)
 ![](./CityEscape/CityEscape-chaobox-3-2.webp)
@@ -140,6 +175,9 @@
 
 ## omochao 13
 ![](./CityEscape/CityEscape-omochao-13-1.webp)
+
+## big 1
+![](./CityEscape/CityEscape-big-1-1.png)
 
 ## hidden 5
 ![](./CityEscape/CityEscape-hidden-5-1.webp)
