@@ -17,6 +17,8 @@ public class MirahezeGenerator
     {
         foreach (var characterName in Constants.CharacterNames)
         {
+            if (characterName != "Sonic") continue;
+            
             foreach (var directoryPath in Directory.EnumerateDirectories(Path.Join(path, characterName), string.Empty, SearchOption.TopDirectoryOnly))
             {
                 if (directoryPath.Contains("Chronological"))
@@ -89,7 +91,7 @@ public class MirahezeGenerator
                 }
                 streamWriter.WriteLine(">");
                 
-                streamWriter.WriteLine($"=== {locationType.ReadableName} {locationGroup.Key} ===");
+                streamWriter.WriteLine($"=== {locationType.ReadableName} {locationGroup.Key} {locationType.LocationNameSuffix} ===");
                 
                 var sortedLocationGroup = locationGroup.OrderBy(l => l.ScreenshotNumber);
                 foreach (var location in sortedLocationGroup)

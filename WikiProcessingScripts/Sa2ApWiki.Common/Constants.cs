@@ -23,7 +23,9 @@ public static class Constants
 		new() { CodeName = "animal", ReadableName = "Animal" },
 		new() { CodeName = "item", ReadableName = "Item" },
 		new() { CodeName = "life", ReadableName = "Life" },
-		new() { CodeName = "big", ReadableName = "Big" }
+		new() { CodeName = "big", ReadableName = "Big" },
+		new() { CodeName = "bignormal", ReadableName = "Big", LocationNameSuffix = "(Normal Logic Only)" },
+		new() { CodeName = "bighard", ReadableName = "Big", LocationNameSuffix = "(Hard and Expert Logic Only)" },
 	];
 
 	public static readonly Dictionary<string, string> StageCodeNameToReadableName = new()
