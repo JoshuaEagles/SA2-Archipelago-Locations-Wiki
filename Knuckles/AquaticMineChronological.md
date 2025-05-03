@@ -20,7 +20,8 @@
 
 ## omochao 3
 ![](./AquaticMine/AquaticMine-omochao-3-1.webp)
-
+## item 1
+![](./AquaticMine/AquaticMine-item-1-1.webp)
 ## animal 3
 ![](./AquaticMine/AquaticMine-animal-3-1.webp)
 
@@ -32,6 +33,11 @@
 ![](./AquaticMine/AquaticMine-animal-4-1.webp)
 ![](./AquaticMine/AquaticMine-animal-4-2.webp)
 
+## life 1
+![](./AquaticMine/AquaticMine-life-1-1.webp)
+![](./AquaticMine/AquaticMine-life-1-2.webp)
+## item 2
+![](./AquaticMine/AquaticMine-item-2-1.webp)
 ## chaobox 2
 ![](./AquaticMine/AquaticMine-chaobox-2-1.webp)
 ![](./AquaticMine/AquaticMine-chaobox-2-2.webp)
@@ -68,7 +74,19 @@
 
 ## chaobox 3
 ![](./AquaticMine/AquaticMine-chaobox-3-1.webp)
+## big 1
+![](./AquaticMine/AquaticMine-big-1-1.webp)
+## item 3
+![](./AquaticMine/AquaticMine-item-3-1.webp)
 
+## item 4
+![](./AquaticMine/AquaticMine-item-4-1.webp)
+
+## item 5
+![](./AquaticMine/AquaticMine-item-5-1.webp)
+
+## item 6
+![](./AquaticMine/AquaticMine-item-6-1.webp)
 ## animal 10
 ![](./AquaticMine/AquaticMine-animal-10-1.webp)
 
@@ -77,4 +95,5 @@
 ![](./AquaticMine/AquaticMine-omochao-7-2.webp)
 ![](./AquaticMine/AquaticMine-omochao-7-3.webp)
 ![](./AquaticMine/AquaticMine-omochao-7-4.webp)
+
 

@@ -29,10 +29,16 @@
 
 ## chaobox 1
 ![](./WildCanyon/WildCanyon-chaobox-1-1.webp)
-
+## item 1
+![](./WildCanyon/WildCanyon-item-1-1.webp)
+## life 1
+![](./WildCanyon/WildCanyon-life-1-1.webp)
+## item 2
+![](./WildCanyon/WildCanyon-item-2-1.webp)
 ## omochao 5
 ![](./WildCanyon/WildCanyon-omochao-5-1.webp)
-
+## item 3
+![](./WildCanyon/WildCanyon-item-3-1.webp)
 ## omochao 6
 ![](./WildCanyon/WildCanyon-omochao-6-1.webp)
 
@@ -41,7 +47,14 @@
 
 ## animal 5
 ![](./WildCanyon/WildCanyon-animal-5-1.webp)
+## item 4
+![](./WildCanyon/WildCanyon-item-4-1.webp)
 
+## item 5
+![](./WildCanyon/WildCanyon-item-5-1.webp)
+
+## item 6
+![](./WildCanyon/WildCanyon-item-6-1.webp)
 ## omochao 7
 ![](./WildCanyon/WildCanyon-omochao-7-1.webp)
 
@@ -60,6 +73,9 @@
 ## omochao 9
 ![](./WildCanyon/WildCanyon-omochao-9-1.webp)
 
+## life 2
+![](./WildCanyon/WildCanyon-life-2-1.webp)
+![](./WildCanyon/WildCanyon-life-2-2.webp)
 ## animal 7
 ![](./WildCanyon/WildCanyon-animal-7-1.webp)
 
@@ -82,4 +98,12 @@
 ## animal 10
 ![](./WildCanyon/WildCanyon-animal-10-1.webp)
 ![](./WildCanyon/WildCanyon-animal-10-2.webp)
+
+## item 7
+![](./WildCanyon/WildCanyon-item-7-1.webp)
+![](./WildCanyon/WildCanyon-item-7-2.webp)
+
+## item 8
+![](./WildCanyon/WildCanyon-item-8-1.webp)
+![](./WildCanyon/WildCanyon-item-8-2.webp)
 

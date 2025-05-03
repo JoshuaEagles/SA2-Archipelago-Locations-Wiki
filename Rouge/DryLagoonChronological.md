@@ -7,13 +7,15 @@
 
 ## omochao 2
 ![](./DryLagoon/DryLagoon-omochao-2-1.webp)
-
+## item 2
+![](./DryLagoon/DryLagoon-item-2-1.webp)
 ## animal 2
 ![](./DryLagoon/DryLagoon-animal-2-1.webp)
 
 ## omochao 3
 ![](./DryLagoon/DryLagoon-omochao-3-1.webp)
-
+## item 3
+![](./DryLagoon/DryLagoon-item-3-1.webp)
 ## chaobox 1
 ![](./DryLagoon/DryLagoon-chaobox-1-1.webp)
 
@@ -22,7 +24,15 @@
 
 ## omochao 5
 ![](./DryLagoon/DryLagoon-omochao-5-1.webp)
+## item 1
+![](./DryLagoon/DryLagoon-item-1-1.webp)
 
+
+
+
+
+## item 4
+![](./DryLagoon/DryLagoon-item-4-1.webp)
 ## omochao 6
 ![](./DryLagoon/DryLagoon-omochao-6-1.webp)
 
@@ -38,10 +48,15 @@
 ## goldbeetle 1
 ![](./DryLagoon/DryLagoon-goldbeetle-1-1.webp)
 ![](./DryLagoon/DryLagoon-goldbeetle-1-2.webp)
-
+## life 1
+![](./DryLagoon/DryLagoon-life-1-1.webp)
+![](./DryLagoon/DryLagoon-life-1-2.webp)
+## item 5
+![](./DryLagoon/DryLagoon-item-5-1.webp)
 ## animal 4
 ![](./DryLagoon/DryLagoon-animal-4-1.webp)
-
+## item 6
+![](./DryLagoon/DryLagoon-item-6-1.webp)
 ## omochao 7
 ![](./DryLagoon/DryLagoon-omochao-7-1.webp)
 
@@ -55,7 +70,10 @@
 ![](./DryLagoon/DryLagoon-animal-6-1.webp)
 ![](./DryLagoon/DryLagoon-animal-6-2.webp)
 ![](./DryLagoon/DryLagoon-animal-6-3.webp)
-
+## life 2
+![](./DryLagoon/DryLagoon-life-2-1.webp)
+## life 3
+![](./DryLagoon/DryLagoon-life-3-1.webp)
 ## omochao 8
 ![](./DryLagoon/DryLagoon-omochao-8-1.webp)
 
@@ -69,10 +87,14 @@
 ## animal 7
 ![](./DryLagoon/DryLagoon-animal-7-1.webp)
 ![](./DryLagoon/DryLagoon-animal-7-2.webp)
+## big 1
+![](./DryLagoon/DryLagoon-big-1-1.webp)
+![](./DryLagoon/DryLagoon-big-1-2.webp)
 
 ## animal 8
 ![](./DryLagoon/DryLagoon-animal-8-1.webp)
-
+## life 4
+![](./DryLagoon/DryLagoon-life-4-1.webp)
 ## omochao 11
 ![](./DryLagoon/DryLagoon-omochao-11-1.webp)
 
