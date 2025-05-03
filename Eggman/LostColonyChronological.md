@@ -4,7 +4,8 @@
 
 ## animal 1
 ![](./LostColony/LostColony-animal-1-1.webp)
-
+## item 1
+![](./LostColony/LostColony-item-1-1.webp)
 ## pipe 1
 ![](./LostColony/LostColony-pipe-1-1.webp)
 
@@ -21,7 +22,21 @@
 ## animal 4
 ![](./LostColony/LostColony-animal-4-1.webp)
 ![](./LostColony/LostColony-animal-4-2.webp)
-
+## item 2
+![](./LostColony/LostColony-item-2-1.webp)
+![](./LostColony/LostColony-item-2-2.webp)
+![](./LostColony/LostColony-item-2-3.webp)
+![](./LostColony/LostColony-item-2-4.webp)
+## life 1
+![](./LostColony/LostColony-life-1-1.webp)
+![](./LostColony/LostColony-life-1-2.webp)
+![](./LostColony/LostColony-life-1-3.webp)
+![](./LostColony/LostColony-life-1-4.webp)
+## item 3
+![](./LostColony/LostColony-item-3-1.webp)
+![](./LostColony/LostColony-item-3-2.webp)
+![](./LostColony/LostColony-item-3-3.webp)
+![](./LostColony/LostColony-item-3-4.webp)
 ## hidden 1
 ![](./LostColony/LostColony-hidden-1-1.webp)
 ![](./LostColony/LostColony-hidden-1-2.webp)
@@ -50,7 +65,17 @@
 ## chaobox 1
 ![](./LostColony/LostColony-chaobox-1-1.webp)
 ![](./LostColony/LostColony-chaobox-1-2.webp)
+## item 4
+![](./LostColony/LostColony-item-4-1.webp)
 
+## item 5
+![](./LostColony/LostColony-item-5-1.webp)
+
+## item 6
+![](./LostColony/LostColony-item-6-1.webp)
+
+## item 7
+![](./LostColony/LostColony-item-7-1.webp)
 ## omochao 5
 ![](./LostColony/LostColony-omochao-5-1.webp)
 
@@ -65,7 +90,8 @@
 
 ## omochao 6
 ![](./LostColony/LostColony-omochao-6-1.webp)
-
+## item 8
+![](./LostColony/LostColony-item-8-1.webp)
 ## pipe 2
 ![](./LostColony/LostColony-pipe-2-1.webp)
 
@@ -84,13 +110,16 @@
 ![](./LostColony/LostColony-chaobox-3-1.webp)
 ![](./LostColony/LostColony-chaobox-3-2.webp)
 ![](./LostColony/LostColony-chaobox-3-3.webp)
-
+## big 1
+![](./LostColony/LostColony-big-1-1.webp)
+![](./LostColony/LostColony-big-1-2.webp)
 ## animal 13
 ![](./LostColony/LostColony-animal-13-1.webp)
 
 ## omochao 7
 ![](./LostColony/LostColony-omochao-7-1.webp)
-
+## item 9
+![](./LostColony/LostColony-item-9-1.webp)
 ## animal 14
 ![](./LostColony/LostColony-animal-14-1.webp)
 ![](./LostColony/LostColony-animal-14-2.webp)
