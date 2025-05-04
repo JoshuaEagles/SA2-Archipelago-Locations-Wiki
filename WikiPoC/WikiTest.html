@@ -1,22 +1,6 @@
 <!doctype html>
 
-<div>
-	<label for="pipe-toggle">Pipe: </label>
-	<div id="pipe-toggle">button</div>
-	<!-- <input id="pipe-toggle" type="checkbox" checked /> -->
-</div>
-
-<div>
-	<label for="hidden-toggle">Hidden: </label>
-	<div id="hidden-toggle">button</div>
-	<!-- <input id="hidden-toggle" type="checkbox" checked /> -->
-</div>
-
-<div style="margin-top: 8px">
-	<label for="chronological-toggle">Display as Chronological: </label>
-	<div id="chronological-toggle">button</div>
-	<!-- <input id="chronological-toggle" type="checkbox" /> -->
-</div>
+<div id="toggles-container"></div>
 
 <div id="chronological-first-location" data-chronological-first-location="hidden-1"></div>
 
@@ -63,14 +47,51 @@
 </div>
 
 <style>
-	#location-wrapper.disabled {
+	#location-wrapper .disabled {
 		display: none;
 	}
 
-	#location-wrapper.image-wrapper {
+	#location-wrapper .image-wrapper {
 		display: flex;
 		gap: 8px;
 		flex-wrap: wrap;
+	}
+
+	#toggles-container {
+		width: fit-content;
+		display: flex;
+		flex-direction: column;
+	}
+
+	#toggles-container hr {
+		width: 100%;
+	}
+
+	#toggles-container .toggle-button {
+		display: inline-block;
+		color: #fff;
+		border: 1px solid #ccc;
+		background: #ddd;
+		box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+		cursor: pointer;
+		vertical-align: middle;
+		max-width: 100px;
+		padding: 5px;
+		text-align: center;
+	}
+	#toggles-container .toggle-button:active {
+		box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6);
+	}
+	#toggles-container .toggle-button[data-toggled="true"] {
+		background: green;
+	}
+	#toggles-container .toggle-button[data-toggled="false"] {
+		background: red;
+	}
+
+	#toggles-container .toggle-label {
+		margin-right: 4px;
+		align-items: flex-end;
 	}
 </style>
 
