@@ -63,6 +63,12 @@
 		flex-direction: column;
 	}
 
+	#toggles-container .single-toggle-container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
 	#toggles-container hr {
 		width: 100%;
 	}
@@ -75,9 +81,10 @@
 		box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
 		cursor: pointer;
 		vertical-align: middle;
-		max-width: 100px;
+		width: 70px;
 		padding: 5px;
 		text-align: center;
+		user-select: none;
 	}
 	#toggles-container .toggle-button:active {
 		box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6);
@@ -90,8 +97,7 @@
 	}
 
 	#toggles-container .toggle-label {
-		margin-right: 4px;
-		align-items: flex-end;
+		margin-right: 8px;
 	}
 </style>
 

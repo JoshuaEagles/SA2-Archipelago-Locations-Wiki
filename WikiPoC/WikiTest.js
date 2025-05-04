@@ -28,9 +28,6 @@ function setupLocationTypeToggling() {
 		locationTypeCheckbox.addEventListener("click", function () {
 			handleFilterButtonClick();
 		});
-		locationTypeCheckbox.addEventListener("touchend", function () {
-			handleFilterButtonClick();
-		});
 
 		function handleFilterButtonClick() {
 			locationTypeCheckbox.dataset.toggled = !(locationTypeCheckbox.dataset.toggled === "true");
@@ -63,13 +60,8 @@ function setupChronologicalToggling() {
 	const initialLocationWrapperInnerHtml = locationWrapper.innerHTML;
 	const chronologicalOrderingDocumentFragment = generateChronologicalDocumentFragment();
 
-	let isChronologicalEnabled = false;
-
 	const toggleChronologicalCheckbox = document.querySelector("#chronological-toggle");
 	toggleChronologicalCheckbox.addEventListener("click", function () {
-		handleChronologicalButtonClick();
-	});
-	toggleChronologicalCheckbox.addEventListener("touchend", function () {
 		handleChronologicalButtonClick();
 	});
 
@@ -93,9 +85,9 @@ function setupChronologicalToggling() {
 		// When we get to an element that doesn't have a chronologicalNextLocation, this will be undefined, and therefore the loop will end
 		while (nextLocationId) {
 			if (handledLocationIds.has(nextLocationId)) {
-				console.error(
-					"Error encountered while generating the chronological page. a location Id that was already processed was processed again. This would lead to a loop.",
-				);
+				const locationAlreadyHandledErrorMessage =
+					"Error encountered while generating the chronological page. A location Id that was already processed was processed again. This would lead to a loop.";
+				console.error(locationAlreadyHandledErrorMessage);
 
 				// This will make the chronological button do nothing since this is what the page would display without clicking that button
 				return initialLocationWrapperInnerHtml;
@@ -103,9 +95,8 @@ function setupChronologicalToggling() {
 
 			const nextLocationElement = locationIdToLocationElementMap.get(nextLocationId);
 			if (!nextLocationElement) {
-				console.error(
-					`Error encountered while generating the chronological page. The nextChronologicalLocation "${nextLocationId}" referred to a location that does not exist on this page.`,
-				);
+				const chronologicalNextLocationDoesNotExistErrorMessage = `Error encountered while generating the chronological page. The nextChronologicalLocation "${nextLocationId}" referred to a location that does not exist on this page.`;
+				console.error(chronologicalNextLocationDoesNotExistErrorMessage);
 
 				// This will make the chronological button do nothing since this is what the page would display without clicking that button
 				return initialLocationWrapperInnerHtml;
@@ -152,56 +143,56 @@ function setupChronologicalToggling() {
 
 function addToggleButtonsHtml() {
 	let toggleButtonsElementHtml = `
-			<div>
-				<span class="toggle-label" style="margin-right">Display Chaobox Locations: </span>
-				<span class="toggle-button" id="chaobox-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Pipe Locations: </span>
-				<span class="toggle-button" id="pipe-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Hidden Locations: </span>
-				<span class="toggle-button" id="hidden-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Gold Beetle Locations: </span>
-				<span class="toggle-button" id="goldbeetle-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Omochao Locations: </span>
-				<span class="toggle-button" id="omochao-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Animal Locations: </span>
-				<span class="toggle-button" id="animal-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Item Locations: </span>
-				<span class="toggle-button" id="item-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Life Locations: </span>
-				<span class="toggle-button" id="life-toggle" data-toggled="true">Enabled</span>
-			</div>
-
-			<div>
-				<span class="toggle-label" style="margin-right">Display Big Locations: </span>
-				<span class="toggle-button" id="big-toggle" data-toggled="true">Enabled</span>
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display in Chronological Order: </span>
+				<span class="toggle-button" id="chronological-toggle" data-toggled="false">Disabled</span>
 			</div>
 
 			<hr />
 
-			<div>
-				<span class="toggle-label" style="margin-right">Display in Chronological Order: </span>
-				<span class="toggle-button" id="chronological-toggle" data-toggled="false">Disabled</span>
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Chaobox Locations: </span>
+				<span class="toggle-button" id="chaobox-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Pipe Locations: </span>
+				<span class="toggle-button" id="pipe-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Hidden Locations: </span>
+				<span class="toggle-button" id="hidden-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Gold Beetle Locations: </span>
+				<span class="toggle-button" id="goldbeetle-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Omochao Locations: </span>
+				<span class="toggle-button" id="omochao-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Animal Locations: </span>
+				<span class="toggle-button" id="animal-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Item Locations: </span>
+				<span class="toggle-button" id="item-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Life Locations: </span>
+				<span class="toggle-button" id="life-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="single-toggle-container">
+				<span class="toggle-label" style="margin-right">Display Big Locations: </span>
+				<span class="toggle-button" id="big-toggle" data-toggled="true">Enabled</span>
 			</div>
 		`;
 
