@@ -6,7 +6,7 @@ namespace Sa2ApWiki.MirahezePageGeneratorScript;
 
 public class MirahezeGenerator
 {
-    private Dictionary<string, IReadOnlyCollection<ChronologicalLocationModel>> _chronologicalLocationsByStage;
+    private readonly Dictionary<string, IReadOnlyCollection<ChronologicalLocationModel>> _chronologicalLocationsByStage;
     
     public MirahezeGenerator(Dictionary<string, IReadOnlyCollection<ChronologicalLocationModel>> chronologicalLocationsByStage)
     {
@@ -17,8 +17,6 @@ public class MirahezeGenerator
     {
         foreach (var characterName in Constants.CharacterNames)
         {
-            if (characterName != "Sonic") continue;
-            
             foreach (var directoryPath in Directory.EnumerateDirectories(Path.Join(path, characterName), string.Empty, SearchOption.TopDirectoryOnly))
             {
                 if (directoryPath.Contains("Chronological"))
@@ -45,9 +43,12 @@ public class MirahezeGenerator
     {
         var readableStageName = Constants.StageCodeNameToReadableName[stageName];
         var headerText = $$$"""
-                         __NOTOC__{{DISPLAYTITLE:{{{readableStageName}}} Locations}}
-                         Display as Chronological:
-                         <div id="chronological-toggle">button</div>
+                         {{DISPLAYTITLE:{{{readableStageName}}} Locations}}
+                         <div id="toggles-container"></div>
+                         
+                         <div id="location-wiki-toc">
+                            __TOC__
+                         </div>
                          
                          <div id="chronological-first-location" data-chronological-first-location="{{{chronologicalFirstLocation}}}"></div>
 
@@ -70,6 +71,9 @@ public class MirahezeGenerator
                 .GroupBy(y => y.LocationNumber)
                 .OrderBy(y => y.Key);
             
+
+            var isFirstLocation = true;
+            
             // The locationGroup represents a single location
             // Each entry in it is a different screenshot for that location
             foreach (var locationGroup in sortedLocationsOfType)
@@ -77,12 +81,19 @@ public class MirahezeGenerator
                 var currentLocationName = $"{locationType.CodeName}-{locationGroup.Key}";
                 var nextChronologicalLocationName =
                     chronologicalLocationsByLocationName[currentLocationName].NextLocation?.LocationName;
+
+                // Consolidate big types into one for easier lookup
+                var dataTypeForLocationDiv = locationType.CodeName;
+                if (locationType.CodeName is "bignormal" or "bighard")
+                {
+                    dataTypeForLocationDiv = "big";
+                }
                 
                 streamWriter.WriteLine($"""
                                         <div 
                                             id="{locationType.CodeName}-{locationGroup.Key}" 
                                             class="location" 
-                                            data-type="{locationType.CodeName}" 
+                                            data-type="{dataTypeForLocationDiv}" 
                                         """
                     );
                 if (nextChronologicalLocationName is not null)
@@ -91,16 +102,25 @@ public class MirahezeGenerator
                 }
                 streamWriter.WriteLine(">");
                 
-                streamWriter.WriteLine($"=== {locationType.ReadableName} {locationGroup.Key} {locationType.LocationNameSuffix} ===");
+                // Write the section header inside the first location's div so when we reorder the page this goes with the first location
+                // If bighard is on the page then bignormal would be, and that's where the header should be
+                if (isFirstLocation && locationType.CodeName is not "bighard")
+                {
+                    streamWriter.WriteLine($"\t<h2 class=\"location-type-header\">{locationType.ReadableName} Locations</h2>");
+                    isFirstLocation = false;
+                }
                 
+                streamWriter.WriteLine($"\t<b class=\"location-header\">{locationType.ReadableName} {locationGroup.Key} {locationType.LocationNameSuffix}</b> <br />");
+                
+                streamWriter.Write("\t");
                 var sortedLocationGroup = locationGroup.OrderBy(l => l.ScreenshotNumber);
                 foreach (var location in sortedLocationGroup)
                 {
-                    streamWriter.Write($"[[Image:{location.FileName}|512px|link=]] ");
+                    streamWriter.Write($"[[Image:{location.FileName}|640px|link=]] ");
                 }
                 streamWriter.WriteLine("<br />");
                 
-                streamWriter.WriteLine("[[#top|Back to top]]");
+                streamWriter.WriteLine("\t[[#top|Back to top]]");
                 streamWriter.WriteLine("</div>");
                 streamWriter.WriteLine();
             }
