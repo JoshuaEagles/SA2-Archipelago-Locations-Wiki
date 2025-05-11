@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:CityEscape-chaobox-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-chaobox-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="omochao-9
 >
 	<b class="location-header">Chaobox 2 </b> <br />
-	[[Image:CityEscape-chaobox-2-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-chaobox-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -39,7 +39,7 @@
     data-chronological-next-location="omochao-12
 >
 	<b class="location-header">Chaobox 3 </b> <br />
-	[[Image:CityEscape-chaobox-3-1.webp|640px|link=]] [[Image:CityEscape-chaobox-3-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-chaobox-03-1.webp|640px|link=]] [[Image:CityEscape-chaobox-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -51,7 +51,7 @@
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
-	[[Image:CityEscape-pipe-1-1.webp|640px|link=]] [[Image:CityEscape-pipe-1-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-pipe-01-1.webp|640px|link=]] [[Image:CityEscape-pipe-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
     data-chronological-next-location="animal-3
 >
 	<b class="location-header">Pipe 2 </b> <br />
-	[[Image:CityEscape-pipe-2-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-pipe-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -73,7 +73,7 @@
     data-chronological-next-location="animal-11
 >
 	<b class="location-header">Pipe 3 </b> <br />
-	[[Image:CityEscape-pipe-3-1.webp|640px|link=]] [[Image:CityEscape-pipe-3-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-pipe-03-1.webp|640px|link=]] [[Image:CityEscape-pipe-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -84,7 +84,7 @@
     data-chronological-next-location="animal-18
 >
 	<b class="location-header">Pipe 4 </b> <br />
-	[[Image:CityEscape-pipe-4-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-pipe-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -96,7 +96,7 @@
 >
 	<h2 class="location-type-header">Hidden Locations</h2>
 	<b class="location-header">Hidden 1 </b> <br />
-	[[Image:CityEscape-hidden-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-hidden-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -107,7 +107,7 @@
     data-chronological-next-location="animal-12
 >
 	<b class="location-header">Hidden 2 </b> <br />
-	[[Image:CityEscape-hidden-2-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-hidden-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -118,7 +118,7 @@
     data-chronological-next-location="animal-15
 >
 	<b class="location-header">Hidden 3 </b> <br />
-	[[Image:CityEscape-hidden-3-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-hidden-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -129,7 +129,7 @@
     data-chronological-next-location="animal-17
 >
 	<b class="location-header">Hidden 4 </b> <br />
-	[[Image:CityEscape-hidden-4-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-hidden-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -140,7 +140,7 @@
     data-chronological-next-location="animal-20
 >
 	<b class="location-header">Hidden 5 </b> <br />
-	[[Image:CityEscape-hidden-5-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-hidden-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -152,7 +152,7 @@
 >
 	<h2 class="location-type-header">Gold Beetle Locations</h2>
 	<b class="location-header">Gold Beetle 1 </b> <br />
-	[[Image:CityEscape-goldbeetle-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-goldbeetle-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -164,7 +164,7 @@
 >
 	<h2 class="location-type-header">Omochao Locations</h2>
 	<b class="location-header">Omochao 1 </b> <br />
-	[[Image:CityEscape-omochao-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -175,7 +175,7 @@
     data-chronological-next-location="omochao-3
 >
 	<b class="location-header">Omochao 2 </b> <br />
-	[[Image:CityEscape-omochao-2-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -186,7 +186,7 @@
     data-chronological-next-location="omochao-4
 >
 	<b class="location-header">Omochao 3 </b> <br />
-	[[Image:CityEscape-omochao-3-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -197,7 +197,7 @@
     data-chronological-next-location="omochao-5
 >
 	<b class="location-header">Omochao 4 </b> <br />
-	[[Image:CityEscape-omochao-4-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -208,7 +208,7 @@
     data-chronological-next-location="pipe-2
 >
 	<b class="location-header">Omochao 5 </b> <br />
-	[[Image:CityEscape-omochao-5-1.webp|640px|link=]] [[Image:CityEscape-omochao-5-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-05-1.webp|640px|link=]] [[Image:CityEscape-omochao-05-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -219,7 +219,7 @@
     data-chronological-next-location="animal-5
 >
 	<b class="location-header">Omochao 6 </b> <br />
-	[[Image:CityEscape-omochao-6-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -230,7 +230,7 @@
     data-chronological-next-location="animal-6
 >
 	<b class="location-header">Omochao 7 </b> <br />
-	[[Image:CityEscape-omochao-7-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -241,7 +241,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Omochao 8 </b> <br />
-	[[Image:CityEscape-omochao-8-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -252,7 +252,7 @@
     data-chronological-next-location="hidden-2
 >
 	<b class="location-header">Omochao 9 </b> <br />
-	[[Image:CityEscape-omochao-9-1.webp|640px|link=]] [[Image:CityEscape-omochao-9-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-omochao-09-1.webp|640px|link=]] [[Image:CityEscape-omochao-09-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -318,7 +318,7 @@
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
-	[[Image:CityEscape-animal-1-1.webp|640px|link=]] [[Image:CityEscape-animal-1-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-01-1.webp|640px|link=]] [[Image:CityEscape-animal-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -329,7 +329,7 @@
     data-chronological-next-location="item-3
 >
 	<b class="location-header">Animal 2 </b> <br />
-	[[Image:CityEscape-animal-2-1.webp|640px|link=]] [[Image:CityEscape-animal-2-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-02-1.webp|640px|link=]] [[Image:CityEscape-animal-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -340,7 +340,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Animal 3 </b> <br />
-	[[Image:CityEscape-animal-3-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -351,7 +351,7 @@
     data-chronological-next-location="omochao-6
 >
 	<b class="location-header">Animal 4 </b> <br />
-	[[Image:CityEscape-animal-4-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -362,7 +362,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Animal 5 </b> <br />
-	[[Image:CityEscape-animal-5-1.webp|640px|link=]] [[Image:CityEscape-animal-5-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-05-1.webp|640px|link=]] [[Image:CityEscape-animal-05-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -373,7 +373,7 @@
     data-chronological-next-location="animal-7
 >
 	<b class="location-header">Animal 6 </b> <br />
-	[[Image:CityEscape-animal-6-1.webp|640px|link=]] [[Image:CityEscape-animal-6-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-06-1.webp|640px|link=]] [[Image:CityEscape-animal-06-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -384,7 +384,7 @@
     data-chronological-next-location="omochao-8
 >
 	<b class="location-header">Animal 7 </b> <br />
-	[[Image:CityEscape-animal-7-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -395,7 +395,7 @@
     data-chronological-next-location="life-2
 >
 	<b class="location-header">Animal 8 </b> <br />
-	[[Image:CityEscape-animal-8-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -406,7 +406,7 @@
     data-chronological-next-location="hidden-1
 >
 	<b class="location-header">Animal 9 </b> <br />
-	[[Image:CityEscape-animal-9-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-animal-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -539,7 +539,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:CityEscape-item-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -550,7 +550,7 @@
     data-chronological-next-location="animal-1
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:CityEscape-item-2-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -561,7 +561,7 @@
     data-chronological-next-location="omochao-2
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:CityEscape-item-3-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -572,7 +572,7 @@
     data-chronological-next-location="animal-4
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:CityEscape-item-4-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -583,7 +583,7 @@
     data-chronological-next-location="omochao-7
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:CityEscape-item-5-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -594,7 +594,7 @@
     data-chronological-next-location="animal-9
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:CityEscape-item-6-1.webp|640px|link=]] [[Image:CityEscape-item-6-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-06-1.webp|640px|link=]] [[Image:CityEscape-item-06-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -605,7 +605,7 @@
     data-chronological-next-location="animal-13
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:CityEscape-item-7-1.webp|640px|link=]] [[Image:CityEscape-item-7-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-07-1.webp|640px|link=]] [[Image:CityEscape-item-07-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -616,7 +616,7 @@
     data-chronological-next-location="hidden-3
 >
 	<b class="location-header">Item box 8 </b> <br />
-	[[Image:CityEscape-item-8-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -627,7 +627,7 @@
     data-chronological-next-location="chaobox-3
 >
 	<b class="location-header">Item box 9 </b> <br />
-	[[Image:CityEscape-item-9-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-item-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -639,7 +639,7 @@
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
-	[[Image:CityEscape-life-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-life-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -650,7 +650,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Life box 2 </b> <br />
-	[[Image:CityEscape-life-2-1.webp|640px|link=]] [[Image:CityEscape-life-2-2.webp|640px|link=]] <br />
+	[[Image:CityEscape-life-02-1.webp|640px|link=]] [[Image:CityEscape-life-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -662,7 +662,7 @@
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 </b> <br />
-	[[Image:CityEscape-big-1-1.webp|640px|link=]] <br />
+	[[Image:CityEscape-big-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

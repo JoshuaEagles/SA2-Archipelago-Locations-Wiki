@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:PumpkinHill-chaobox-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-chaobox-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="item-10
 >
 	<b class="location-header">Chaobox 2 </b> <br />
-	[[Image:PumpkinHill-chaobox-2-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-chaobox-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -38,7 +38,7 @@
     data-type="chaobox" 
 >
 	<b class="location-header">Chaobox 3 </b> <br />
-	[[Image:PumpkinHill-chaobox-3-1.webp|640px|link=]] [[Image:PumpkinHill-chaobox-3-2.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-chaobox-03-1.webp|640px|link=]] [[Image:PumpkinHill-chaobox-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -50,7 +50,7 @@
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
-	[[Image:PumpkinHill-pipe-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-pipe-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
 >
 	<h2 class="location-type-header">Hidden Locations</h2>
 	<b class="location-header">Hidden 1 </b> <br />
-	[[Image:PumpkinHill-hidden-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-hidden-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -74,7 +74,7 @@
 >
 	<h2 class="location-type-header">Omochao Locations</h2>
 	<b class="location-header">Omochao 1 </b> <br />
-	[[Image:PumpkinHill-omochao-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -85,7 +85,7 @@
     data-chronological-next-location="omochao-3
 >
 	<b class="location-header">Omochao 2 </b> <br />
-	[[Image:PumpkinHill-omochao-2-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -96,7 +96,7 @@
     data-chronological-next-location="item-2
 >
 	<b class="location-header">Omochao 3 </b> <br />
-	[[Image:PumpkinHill-omochao-3-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -107,7 +107,7 @@
     data-chronological-next-location="animal-1
 >
 	<b class="location-header">Omochao 4 </b> <br />
-	[[Image:PumpkinHill-omochao-4-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -118,7 +118,7 @@
     data-chronological-next-location="animal-10
 >
 	<b class="location-header">Omochao 5 </b> <br />
-	[[Image:PumpkinHill-omochao-5-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -129,7 +129,7 @@
     data-chronological-next-location="item-9
 >
 	<b class="location-header">Omochao 6 </b> <br />
-	[[Image:PumpkinHill-omochao-6-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -140,7 +140,7 @@
     data-chronological-next-location="omochao-8
 >
 	<b class="location-header">Omochao 7 </b> <br />
-	[[Image:PumpkinHill-omochao-7-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -151,7 +151,7 @@
     data-chronological-next-location="chaobox-2
 >
 	<b class="location-header">Omochao 8 </b> <br />
-	[[Image:PumpkinHill-omochao-8-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -162,7 +162,7 @@
     data-chronological-next-location="animal-2
 >
 	<b class="location-header">Omochao 9 </b> <br />
-	[[Image:PumpkinHill-omochao-9-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-omochao-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -196,7 +196,7 @@
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
-	[[Image:PumpkinHill-animal-1-1.webp|640px|link=]] [[Image:PumpkinHill-animal-1-2.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-01-1.webp|640px|link=]] [[Image:PumpkinHill-animal-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -207,7 +207,7 @@
     data-chronological-next-location="item-7
 >
 	<b class="location-header">Animal 2 </b> <br />
-	[[Image:PumpkinHill-animal-2-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -218,7 +218,7 @@
     data-chronological-next-location="big-1
 >
 	<b class="location-header">Animal 3 </b> <br />
-	[[Image:PumpkinHill-animal-3-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -229,7 +229,7 @@
     data-chronological-next-location="omochao-11
 >
 	<b class="location-header">Animal 4 </b> <br />
-	[[Image:PumpkinHill-animal-4-1.webp|640px|link=]] [[Image:PumpkinHill-animal-4-2.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-04-1.webp|640px|link=]] [[Image:PumpkinHill-animal-04-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -240,7 +240,7 @@
     data-chronological-next-location="animal-4
 >
 	<b class="location-header">Animal 5 </b> <br />
-	[[Image:PumpkinHill-animal-5-1.webp|640px|link=]] [[Image:PumpkinHill-animal-5-2.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-05-1.webp|640px|link=]] [[Image:PumpkinHill-animal-05-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -251,7 +251,7 @@
     data-chronological-next-location="omochao-10
 >
 	<b class="location-header">Animal 6 </b> <br />
-	[[Image:PumpkinHill-animal-6-1.webp|640px|link=]] [[Image:PumpkinHill-animal-6-2.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-06-1.webp|640px|link=]] [[Image:PumpkinHill-animal-06-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -262,7 +262,7 @@
     data-chronological-next-location="animal-8
 >
 	<b class="location-header">Animal 7 </b> <br />
-	[[Image:PumpkinHill-animal-7-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -273,7 +273,7 @@
     data-chronological-next-location="omochao-9
 >
 	<b class="location-header">Animal 8 </b> <br />
-	[[Image:PumpkinHill-animal-8-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -284,7 +284,7 @@
     data-chronological-next-location="omochao-7
 >
 	<b class="location-header">Animal 9 </b> <br />
-	[[Image:PumpkinHill-animal-9-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-animal-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -318,7 +318,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:PumpkinHill-item-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -329,7 +329,7 @@
     data-chronological-next-location="omochao-4
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:PumpkinHill-item-2-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -340,7 +340,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:PumpkinHill-item-3-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -351,7 +351,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:PumpkinHill-item-4-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -362,7 +362,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:PumpkinHill-item-5-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -373,7 +373,7 @@
     data-chronological-next-location="chaobox-3
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:PumpkinHill-item-6-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -384,7 +384,7 @@
     data-chronological-next-location="item-8
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:PumpkinHill-item-7-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -395,7 +395,7 @@
     data-chronological-next-location="hidden-1
 >
 	<b class="location-header">Item box 8 </b> <br />
-	[[Image:PumpkinHill-item-8-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -406,7 +406,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Item box 9 </b> <br />
-	[[Image:PumpkinHill-item-9-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-item-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -429,7 +429,7 @@
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
-	[[Image:PumpkinHill-life-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-life-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -441,7 +441,7 @@
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 </b> <br />
-	[[Image:PumpkinHill-big-1-1.webp|640px|link=]] <br />
+	[[Image:PumpkinHill-big-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

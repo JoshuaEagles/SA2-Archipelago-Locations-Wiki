@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:WhiteJungle-chaobox-1-1.webp|640px|link=]] [[Image:WhiteJungle-chaobox-1-2.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-chaobox-01-1.webp|640px|link=]] [[Image:WhiteJungle-chaobox-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Chaobox 2 </b> <br />
-	[[Image:WhiteJungle-chaobox-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-chaobox-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -39,7 +39,7 @@
     data-chronological-next-location="omochao-5
 >
 	<b class="location-header">Chaobox 3 </b> <br />
-	[[Image:WhiteJungle-chaobox-3-1.webp|640px|link=]] [[Image:WhiteJungle-chaobox-3-2.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-chaobox-03-1.webp|640px|link=]] [[Image:WhiteJungle-chaobox-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -51,7 +51,7 @@
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
-	[[Image:WhiteJungle-pipe-1-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-pipe-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
     data-chronological-next-location="animal-10
 >
 	<b class="location-header">Pipe 2 </b> <br />
-	[[Image:WhiteJungle-pipe-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-pipe-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -73,7 +73,7 @@
     data-chronological-next-location="animal-12
 >
 	<b class="location-header">Pipe 3 </b> <br />
-	[[Image:WhiteJungle-pipe-3-1.webp|640px|link=]] [[Image:WhiteJungle-pipe-3-2.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-pipe-03-1.webp|640px|link=]] [[Image:WhiteJungle-pipe-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -84,7 +84,7 @@
     data-chronological-next-location="animal-15
 >
 	<b class="location-header">Pipe 4 </b> <br />
-	[[Image:WhiteJungle-pipe-4-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-pipe-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -96,7 +96,7 @@
 >
 	<h2 class="location-type-header">Hidden Locations</h2>
 	<b class="location-header">Hidden 1 </b> <br />
-	[[Image:WhiteJungle-hidden-1-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-hidden-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -107,7 +107,7 @@
     data-chronological-next-location="animal-8
 >
 	<b class="location-header">Hidden 2 </b> <br />
-	[[Image:WhiteJungle-hidden-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-hidden-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -118,7 +118,7 @@
     data-chronological-next-location="animal-16
 >
 	<b class="location-header">Hidden 3 </b> <br />
-	[[Image:WhiteJungle-hidden-3-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-hidden-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -130,7 +130,7 @@
 >
 	<h2 class="location-type-header">Gold Beetle Locations</h2>
 	<b class="location-header">Gold Beetle 1 </b> <br />
-	[[Image:WhiteJungle-goldbeetle-1-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-goldbeetle-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -142,7 +142,7 @@
 >
 	<h2 class="location-type-header">Omochao Locations</h2>
 	<b class="location-header">Omochao 1 </b> <br />
-	[[Image:WhiteJungle-omochao-1-1.webp|640px|link=]] [[Image:WhiteJungle-omochao-1-2.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-omochao-01-1.webp|640px|link=]] [[Image:WhiteJungle-omochao-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -153,7 +153,7 @@
     data-chronological-next-location="pipe-1
 >
 	<b class="location-header">Omochao 2 </b> <br />
-	[[Image:WhiteJungle-omochao-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-omochao-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -164,7 +164,7 @@
     data-chronological-next-location="omochao-4
 >
 	<b class="location-header">Omochao 3 </b> <br />
-	[[Image:WhiteJungle-omochao-3-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-omochao-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -175,7 +175,7 @@
     data-chronological-next-location="big-1
 >
 	<b class="location-header">Omochao 4 </b> <br />
-	[[Image:WhiteJungle-omochao-4-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-omochao-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -186,7 +186,7 @@
     data-chronological-next-location="big-2
 >
 	<b class="location-header">Omochao 5 </b> <br />
-	[[Image:WhiteJungle-omochao-5-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-omochao-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -198,7 +198,7 @@
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
-	[[Image:WhiteJungle-animal-1-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -209,7 +209,7 @@
     data-chronological-next-location="omochao-1
 >
 	<b class="location-header">Animal 2 </b> <br />
-	[[Image:WhiteJungle-animal-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -220,7 +220,7 @@
     data-chronological-next-location="omochao-2
 >
 	<b class="location-header">Animal 3 </b> <br />
-	[[Image:WhiteJungle-animal-3-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -231,7 +231,7 @@
     data-chronological-next-location="animal-5
 >
 	<b class="location-header">Animal 4 </b> <br />
-	[[Image:WhiteJungle-animal-4-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -242,7 +242,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Animal 5 </b> <br />
-	[[Image:WhiteJungle-animal-5-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -253,7 +253,7 @@
     data-chronological-next-location="animal-7
 >
 	<b class="location-header">Animal 6 </b> <br />
-	[[Image:WhiteJungle-animal-6-1.webp|640px|link=]] [[Image:WhiteJungle-animal-6-2.webp|640px|link=]] [[Image:WhiteJungle-animal-6-3.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-06-1.webp|640px|link=]] [[Image:WhiteJungle-animal-06-2.webp|640px|link=]] [[Image:WhiteJungle-animal-06-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -264,7 +264,7 @@
     data-chronological-next-location="item-3
 >
 	<b class="location-header">Animal 7 </b> <br />
-	[[Image:WhiteJungle-animal-7-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -275,7 +275,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Animal 8 </b> <br />
-	[[Image:WhiteJungle-animal-8-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -286,7 +286,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Animal 9 </b> <br />
-	[[Image:WhiteJungle-animal-9-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-animal-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -375,7 +375,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:WhiteJungle-item-1-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -386,7 +386,7 @@
     data-chronological-next-location="life-2
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:WhiteJungle-item-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -397,7 +397,7 @@
     data-chronological-next-location="hidden-2
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:WhiteJungle-item-3-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -408,7 +408,7 @@
     data-chronological-next-location="animal-9
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:WhiteJungle-item-4-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -419,7 +419,7 @@
     data-chronological-next-location="pipe-2
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:WhiteJungle-item-5-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -430,7 +430,7 @@
     data-chronological-next-location="item-7
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:WhiteJungle-item-6-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -441,7 +441,7 @@
     data-chronological-next-location="item-8
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:WhiteJungle-item-7-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -452,7 +452,7 @@
     data-chronological-next-location="pipe-4
 >
 	<b class="location-header">Item box 8 </b> <br />
-	[[Image:WhiteJungle-item-8-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-item-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -464,7 +464,7 @@
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
-	[[Image:WhiteJungle-life-1-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-life-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -475,7 +475,7 @@
     data-chronological-next-location="animal-6
 >
 	<b class="location-header">Life box 2 </b> <br />
-	[[Image:WhiteJungle-life-2-1.webp|640px|link=]] [[Image:WhiteJungle-life-2-2.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-life-02-1.webp|640px|link=]] [[Image:WhiteJungle-life-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -487,7 +487,7 @@
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 </b> <br />
-	[[Image:WhiteJungle-big-1-1.webp|640px|link=]] [[Image:WhiteJungle-big-1-2.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-big-01-1.webp|640px|link=]] [[Image:WhiteJungle-big-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -497,7 +497,7 @@
     data-type="big" 
 >
 	<b class="location-header">Big 2 </b> <br />
-	[[Image:WhiteJungle-big-2-1.webp|640px|link=]] <br />
+	[[Image:WhiteJungle-big-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

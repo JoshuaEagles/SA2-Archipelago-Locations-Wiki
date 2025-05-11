@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:SkyRail-chaobox-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-chaobox-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Chaobox 2 </b> <br />
-	[[Image:SkyRail-chaobox-2-1.webp|640px|link=]] [[Image:SkyRail-chaobox-2-2.webp|640px|link=]] <br />
+	[[Image:SkyRail-chaobox-02-1.webp|640px|link=]] [[Image:SkyRail-chaobox-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -39,7 +39,7 @@
     data-chronological-next-location="life-5
 >
 	<b class="location-header">Chaobox 3 </b> <br />
-	[[Image:SkyRail-chaobox-3-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-chaobox-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -51,7 +51,7 @@
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
-	[[Image:SkyRail-pipe-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-pipe-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
     data-chronological-next-location="animal-7
 >
 	<b class="location-header">Pipe 2 </b> <br />
-	[[Image:SkyRail-pipe-2-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-pipe-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -73,7 +73,7 @@
     data-chronological-next-location="animal-8
 >
 	<b class="location-header">Pipe 3 </b> <br />
-	[[Image:SkyRail-pipe-3-1.webp|640px|link=]] [[Image:SkyRail-pipe-3-2.webp|640px|link=]] <br />
+	[[Image:SkyRail-pipe-03-1.webp|640px|link=]] [[Image:SkyRail-pipe-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -84,7 +84,7 @@
     data-chronological-next-location="animal-13
 >
 	<b class="location-header">Pipe 4 </b> <br />
-	[[Image:SkyRail-pipe-4-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-pipe-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -95,7 +95,7 @@
     data-chronological-next-location="animal-15
 >
 	<b class="location-header">Pipe 5 </b> <br />
-	[[Image:SkyRail-pipe-5-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-pipe-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -106,7 +106,7 @@
     data-chronological-next-location="animal-17
 >
 	<b class="location-header">Pipe 6 </b> <br />
-	[[Image:SkyRail-pipe-6-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-pipe-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -118,7 +118,7 @@
 >
 	<h2 class="location-type-header">Gold Beetle Locations</h2>
 	<b class="location-header">Gold Beetle 1 </b> <br />
-	[[Image:SkyRail-goldbeetle-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-goldbeetle-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -130,7 +130,7 @@
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
-	[[Image:SkyRail-animal-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -141,7 +141,7 @@
     data-chronological-next-location="animal-3
 >
 	<b class="location-header">Animal 2 </b> <br />
-	[[Image:SkyRail-animal-2-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -152,7 +152,7 @@
     data-chronological-next-location="item-1
 >
 	<b class="location-header">Animal 3 </b> <br />
-	[[Image:SkyRail-animal-3-1.webp|640px|link=]] [[Image:SkyRail-animal-3-2.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-03-1.webp|640px|link=]] [[Image:SkyRail-animal-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -163,7 +163,7 @@
     data-chronological-next-location="pipe-1
 >
 	<b class="location-header">Animal 4 </b> <br />
-	[[Image:SkyRail-animal-4-1.webp|640px|link=]] [[Image:SkyRail-animal-4-2.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-04-1.webp|640px|link=]] [[Image:SkyRail-animal-04-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -174,7 +174,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Animal 5 </b> <br />
-	[[Image:SkyRail-animal-5-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -185,7 +185,7 @@
     data-chronological-next-location="item-3
 >
 	<b class="location-header">Animal 6 </b> <br />
-	[[Image:SkyRail-animal-6-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -196,7 +196,7 @@
     data-chronological-next-location="pipe-3
 >
 	<b class="location-header">Animal 7 </b> <br />
-	[[Image:SkyRail-animal-7-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -207,7 +207,7 @@
     data-chronological-next-location="life-3
 >
 	<b class="location-header">Animal 8 </b> <br />
-	[[Image:SkyRail-animal-8-1.webp|640px|link=]] [[Image:SkyRail-animal-8-2.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-08-1.webp|640px|link=]] [[Image:SkyRail-animal-08-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -218,7 +218,7 @@
     data-chronological-next-location="item-7
 >
 	<b class="location-header">Animal 9 </b> <br />
-	[[Image:SkyRail-animal-9-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-animal-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -350,7 +350,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:SkyRail-item-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -361,7 +361,7 @@
     data-chronological-next-location="animal-6
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:SkyRail-item-2-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -372,7 +372,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:SkyRail-item-3-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -383,7 +383,7 @@
     data-chronological-next-location="life-2
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:SkyRail-item-4-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -394,7 +394,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:SkyRail-item-5-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -405,7 +405,7 @@
     data-chronological-next-location="animal-9
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:SkyRail-item-6-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -416,7 +416,7 @@
     data-chronological-next-location="item-8
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:SkyRail-item-7-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -427,7 +427,7 @@
     data-chronological-next-location="animal-10
 >
 	<b class="location-header">Item box 8 </b> <br />
-	[[Image:SkyRail-item-8-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -438,7 +438,7 @@
     data-chronological-next-location="item-10
 >
 	<b class="location-header">Item box 9 </b> <br />
-	[[Image:SkyRail-item-9-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-item-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -604,7 +604,7 @@
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
-	[[Image:SkyRail-life-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -615,7 +615,7 @@
     data-chronological-next-location="pipe-2
 >
 	<b class="location-header">Life box 2 </b> <br />
-	[[Image:SkyRail-life-2-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -626,7 +626,7 @@
     data-chronological-next-location="chaobox-2
 >
 	<b class="location-header">Life box 3 </b> <br />
-	[[Image:SkyRail-life-3-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -637,7 +637,7 @@
     data-chronological-next-location="item-9
 >
 	<b class="location-header">Life box 4 </b> <br />
-	[[Image:SkyRail-life-4-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -648,7 +648,7 @@
     data-chronological-next-location="life-6
 >
 	<b class="location-header">Life box 5 </b> <br />
-	[[Image:SkyRail-life-5-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -659,7 +659,7 @@
     data-chronological-next-location="item-14
 >
 	<b class="location-header">Life box 6 </b> <br />
-	[[Image:SkyRail-life-6-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -670,7 +670,7 @@
     data-chronological-next-location="life-8
 >
 	<b class="location-header">Life box 7 </b> <br />
-	[[Image:SkyRail-life-7-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -681,7 +681,7 @@
     data-chronological-next-location="animal-14
 >
 	<b class="location-header">Life box 8 </b> <br />
-	[[Image:SkyRail-life-8-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -692,7 +692,7 @@
     data-chronological-next-location="item-23
 >
 	<b class="location-header">Life box 9 </b> <br />
-	[[Image:SkyRail-life-9-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-life-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -704,7 +704,7 @@
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 </b> <br />
-	[[Image:SkyRail-big-1-1.webp|640px|link=]] <br />
+	[[Image:SkyRail-big-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

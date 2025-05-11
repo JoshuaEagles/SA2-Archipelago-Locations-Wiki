@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:WeaponsBed-chaobox-1-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-1-2.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-chaobox-01-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="animal-8
 >
 	<b class="location-header">Chaobox 2 </b> <br />
-	[[Image:WeaponsBed-chaobox-2-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-2-2.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-chaobox-02-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -39,7 +39,7 @@
     data-chronological-next-location="animal-13
 >
 	<b class="location-header">Chaobox 3 </b> <br />
-	[[Image:WeaponsBed-chaobox-3-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-3-2.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-chaobox-03-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -51,7 +51,7 @@
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
-	[[Image:WeaponsBed-pipe-1-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-pipe-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
     data-chronological-next-location="animal-3
 >
 	<b class="location-header">Pipe 2 </b> <br />
-	[[Image:WeaponsBed-pipe-2-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-pipe-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -73,7 +73,7 @@
     data-chronological-next-location="animal-9
 >
 	<b class="location-header">Pipe 3 </b> <br />
-	[[Image:WeaponsBed-pipe-3-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-pipe-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -84,7 +84,7 @@
     data-chronological-next-location="animal-12
 >
 	<b class="location-header">Pipe 4 </b> <br />
-	[[Image:WeaponsBed-pipe-4-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-pipe-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -95,7 +95,7 @@
     data-chronological-next-location="animal-14
 >
 	<b class="location-header">Pipe 5 </b> <br />
-	[[Image:WeaponsBed-pipe-5-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-pipe-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -107,7 +107,7 @@
 >
 	<h2 class="location-type-header">Omochao Locations</h2>
 	<b class="location-header">Omochao 1 </b> <br />
-	[[Image:WeaponsBed-omochao-1-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-omochao-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -118,7 +118,7 @@
     data-chronological-next-location="animal-4
 >
 	<b class="location-header">Omochao 2 </b> <br />
-	[[Image:WeaponsBed-omochao-2-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-omochao-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -129,7 +129,7 @@
     data-chronological-next-location="item-3
 >
 	<b class="location-header">Omochao 3 </b> <br />
-	[[Image:WeaponsBed-omochao-3-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-omochao-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -141,7 +141,7 @@
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
-	[[Image:WeaponsBed-animal-1-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -152,7 +152,7 @@
     data-chronological-next-location="bignormal-1
 >
 	<b class="location-header">Animal 2 </b> <br />
-	[[Image:WeaponsBed-animal-2-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -163,7 +163,7 @@
     data-chronological-next-location="omochao-1
 >
 	<b class="location-header">Animal 3 </b> <br />
-	[[Image:WeaponsBed-animal-3-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -174,7 +174,7 @@
     data-chronological-next-location="animal-5
 >
 	<b class="location-header">Animal 4 </b> <br />
-	[[Image:WeaponsBed-animal-4-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -185,7 +185,7 @@
     data-chronological-next-location="animal-6
 >
 	<b class="location-header">Animal 5 </b> <br />
-	[[Image:WeaponsBed-animal-5-1.webp|640px|link=]] [[Image:WeaponsBed-animal-5-2.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-05-1.webp|640px|link=]] [[Image:WeaponsBed-animal-05-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -196,7 +196,7 @@
     data-chronological-next-location="item-1
 >
 	<b class="location-header">Animal 6 </b> <br />
-	[[Image:WeaponsBed-animal-6-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -207,7 +207,7 @@
     data-chronological-next-location="chaobox-2
 >
 	<b class="location-header">Animal 7 </b> <br />
-	[[Image:WeaponsBed-animal-7-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -218,7 +218,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Animal 8 </b> <br />
-	[[Image:WeaponsBed-animal-8-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -229,7 +229,7 @@
     data-chronological-next-location="animal-10
 >
 	<b class="location-header">Animal 9 </b> <br />
-	[[Image:WeaponsBed-animal-9-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-animal-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -306,7 +306,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:WeaponsBed-item-1-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -317,7 +317,7 @@
     data-chronological-next-location="omochao-3
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:WeaponsBed-item-2-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -328,7 +328,7 @@
     data-chronological-next-location="animal-7
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:WeaponsBed-item-3-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -339,7 +339,7 @@
     data-chronological-next-location="life-1
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:WeaponsBed-item-4-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -350,7 +350,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:WeaponsBed-item-5-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -361,7 +361,7 @@
     data-chronological-next-location="item-7
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:WeaponsBed-item-6-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -372,7 +372,7 @@
     data-chronological-next-location="animal-11
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:WeaponsBed-item-7-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-item-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -384,7 +384,7 @@
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
-	[[Image:WeaponsBed-life-1-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-life-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -396,7 +396,7 @@
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 (Normal Logic Only)</b> <br />
-	[[Image:WeaponsBed-bignormal-1-1.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-bignormal-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -407,7 +407,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Big 1 (Hard and Expert Logic Only)</b> <br />
-	[[Image:WeaponsBed-bighard-1-1.webp|640px|link=]] [[Image:WeaponsBed-bighard-1-2.webp|640px|link=]] [[Image:WeaponsBed-bighard-1-3.webp|640px|link=]] <br />
+	[[Image:WeaponsBed-bighard-01-1.webp|640px|link=]] [[Image:WeaponsBed-bighard-01-2.webp|640px|link=]] [[Image:WeaponsBed-bighard-01-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

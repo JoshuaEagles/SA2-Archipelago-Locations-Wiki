@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:DeathChamber-chaobox-1-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-chaobox-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="item-2
 >
 	<b class="location-header">Chaobox 2 </b> <br />
-	[[Image:DeathChamber-chaobox-2-1.webp|640px|link=]] [[Image:DeathChamber-chaobox-2-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-chaobox-02-1.webp|640px|link=]] [[Image:DeathChamber-chaobox-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -39,7 +39,7 @@
     data-chronological-next-location="hidden-1
 >
 	<b class="location-header">Chaobox 3 </b> <br />
-	[[Image:DeathChamber-chaobox-3-1.webp|640px|link=]] [[Image:DeathChamber-chaobox-3-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-chaobox-03-1.webp|640px|link=]] [[Image:DeathChamber-chaobox-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -51,7 +51,7 @@
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
-	[[Image:DeathChamber-pipe-1-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-pipe-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
     data-chronological-next-location="animal-4
 >
 	<b class="location-header">Pipe 2 </b> <br />
-	[[Image:DeathChamber-pipe-2-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-pipe-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -73,7 +73,7 @@
     data-chronological-next-location="animal-6
 >
 	<b class="location-header">Pipe 3 </b> <br />
-	[[Image:DeathChamber-pipe-3-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-pipe-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -85,7 +85,7 @@
 >
 	<h2 class="location-type-header">Hidden Locations</h2>
 	<b class="location-header">Hidden 1 </b> <br />
-	[[Image:DeathChamber-hidden-1-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-hidden-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -96,7 +96,7 @@
     data-chronological-next-location="animal-10
 >
 	<b class="location-header">Hidden 2 </b> <br />
-	[[Image:DeathChamber-hidden-2-1.webp|640px|link=]] [[Image:DeathChamber-hidden-2-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-hidden-02-1.webp|640px|link=]] [[Image:DeathChamber-hidden-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -108,7 +108,7 @@
 >
 	<h2 class="location-type-header">Gold Beetle Locations</h2>
 	<b class="location-header">Gold Beetle 1 </b> <br />
-	[[Image:DeathChamber-goldbeetle-1-1.webp|640px|link=]] [[Image:DeathChamber-goldbeetle-1-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-goldbeetle-01-1.webp|640px|link=]] [[Image:DeathChamber-goldbeetle-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -120,7 +120,7 @@
 >
 	<h2 class="location-type-header">Omochao Locations</h2>
 	<b class="location-header">Omochao 1 </b> <br />
-	[[Image:DeathChamber-omochao-1-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -131,7 +131,7 @@
     data-chronological-next-location="omochao-3
 >
 	<b class="location-header">Omochao 2 </b> <br />
-	[[Image:DeathChamber-omochao-2-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -142,7 +142,7 @@
     data-chronological-next-location="animal-1
 >
 	<b class="location-header">Omochao 3 </b> <br />
-	[[Image:DeathChamber-omochao-3-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -153,7 +153,7 @@
     data-chronological-next-location="animal-3
 >
 	<b class="location-header">Omochao 4 </b> <br />
-	[[Image:DeathChamber-omochao-4-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -164,7 +164,7 @@
     data-chronological-next-location="animal-8
 >
 	<b class="location-header">Omochao 5 </b> <br />
-	[[Image:DeathChamber-omochao-5-1.webp|640px|link=]] [[Image:DeathChamber-omochao-5-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-05-1.webp|640px|link=]] [[Image:DeathChamber-omochao-05-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -175,7 +175,7 @@
     data-chronological-next-location="hidden-2
 >
 	<b class="location-header">Omochao 6 </b> <br />
-	[[Image:DeathChamber-omochao-6-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -186,7 +186,7 @@
     data-chronological-next-location="goldbeetle-1
 >
 	<b class="location-header">Omochao 7 </b> <br />
-	[[Image:DeathChamber-omochao-7-1.webp|640px|link=]] [[Image:DeathChamber-omochao-7-2.webp|640px|link=]] [[Image:DeathChamber-omochao-7-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-07-1.webp|640px|link=]] [[Image:DeathChamber-omochao-07-2.webp|640px|link=]] [[Image:DeathChamber-omochao-07-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -197,7 +197,7 @@
     data-chronological-next-location="pipe-2
 >
 	<b class="location-header">Omochao 8 </b> <br />
-	[[Image:DeathChamber-omochao-8-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -208,7 +208,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Omochao 9 </b> <br />
-	[[Image:DeathChamber-omochao-9-1.webp|640px|link=]] [[Image:DeathChamber-omochao-9-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-omochao-09-1.webp|640px|link=]] [[Image:DeathChamber-omochao-09-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -220,7 +220,7 @@
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
-	[[Image:DeathChamber-animal-1-1.webp|640px|link=]] [[Image:DeathChamber-animal-1-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-01-1.webp|640px|link=]] [[Image:DeathChamber-animal-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -231,7 +231,7 @@
     data-chronological-next-location="omochao-4
 >
 	<b class="location-header">Animal 2 </b> <br />
-	[[Image:DeathChamber-animal-2-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -242,7 +242,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Animal 3 </b> <br />
-	[[Image:DeathChamber-animal-3-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -253,7 +253,7 @@
     data-chronological-next-location="item-11
 >
 	<b class="location-header">Animal 4 </b> <br />
-	[[Image:DeathChamber-animal-4-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -264,7 +264,7 @@
     data-chronological-next-location="item-3
 >
 	<b class="location-header">Animal 5 </b> <br />
-	[[Image:DeathChamber-animal-5-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -275,7 +275,7 @@
     data-chronological-next-location="animal-7
 >
 	<b class="location-header">Animal 6 </b> <br />
-	[[Image:DeathChamber-animal-6-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -286,7 +286,7 @@
     data-chronological-next-location="item-7
 >
 	<b class="location-header">Animal 7 </b> <br />
-	[[Image:DeathChamber-animal-7-1.webp|640px|link=]] [[Image:DeathChamber-animal-7-2.webp|640px|link=]] [[Image:DeathChamber-animal-7-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-07-1.webp|640px|link=]] [[Image:DeathChamber-animal-07-2.webp|640px|link=]] [[Image:DeathChamber-animal-07-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -297,7 +297,7 @@
     data-chronological-next-location="animal-9
 >
 	<b class="location-header">Animal 8 </b> <br />
-	[[Image:DeathChamber-animal-8-1.webp|640px|link=]] [[Image:DeathChamber-animal-8-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-08-1.webp|640px|link=]] [[Image:DeathChamber-animal-08-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -308,7 +308,7 @@
     data-chronological-next-location="chaobox-2
 >
 	<b class="location-header">Animal 9 </b> <br />
-	[[Image:DeathChamber-animal-9-1.webp|640px|link=]] [[Image:DeathChamber-animal-9-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-animal-09-1.webp|640px|link=]] [[Image:DeathChamber-animal-09-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -331,7 +331,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:DeathChamber-item-1-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -342,7 +342,7 @@
     data-chronological-next-location="omochao-9
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:DeathChamber-item-2-1.webp|640px|link=]] [[Image:DeathChamber-item-2-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-02-1.webp|640px|link=]] [[Image:DeathChamber-item-02-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -353,7 +353,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:DeathChamber-item-3-1.webp|640px|link=]] [[Image:DeathChamber-item-3-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-03-1.webp|640px|link=]] [[Image:DeathChamber-item-03-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -364,7 +364,7 @@
     data-chronological-next-location="chaobox-3
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:DeathChamber-item-4-1.webp|640px|link=]] [[Image:DeathChamber-item-4-2.webp|640px|link=]] [[Image:DeathChamber-item-4-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-04-1.webp|640px|link=]] [[Image:DeathChamber-item-04-2.webp|640px|link=]] [[Image:DeathChamber-item-04-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -375,7 +375,7 @@
     data-chronological-next-location="pipe-3
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:DeathChamber-item-5-1.webp|640px|link=]] [[Image:DeathChamber-item-5-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-05-1.webp|640px|link=]] [[Image:DeathChamber-item-05-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -386,7 +386,7 @@
     data-chronological-next-location="life-1
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:DeathChamber-item-6-1.webp|640px|link=]] [[Image:DeathChamber-item-6-2.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-06-1.webp|640px|link=]] [[Image:DeathChamber-item-06-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -397,7 +397,7 @@
     data-chronological-next-location="item-8
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:DeathChamber-item-7-1.webp|640px|link=]] [[Image:DeathChamber-item-7-2.webp|640px|link=]] [[Image:DeathChamber-item-7-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-07-1.webp|640px|link=]] [[Image:DeathChamber-item-07-2.webp|640px|link=]] [[Image:DeathChamber-item-07-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -408,7 +408,7 @@
     data-chronological-next-location="item-9
 >
 	<b class="location-header">Item box 8 </b> <br />
-	[[Image:DeathChamber-item-8-1.webp|640px|link=]] [[Image:DeathChamber-item-8-2.webp|640px|link=]] [[Image:DeathChamber-item-8-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-08-1.webp|640px|link=]] [[Image:DeathChamber-item-08-2.webp|640px|link=]] [[Image:DeathChamber-item-08-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -419,7 +419,7 @@
     data-chronological-next-location="item-10
 >
 	<b class="location-header">Item box 9 </b> <br />
-	[[Image:DeathChamber-item-9-1.webp|640px|link=]] [[Image:DeathChamber-item-9-2.webp|640px|link=]] [[Image:DeathChamber-item-9-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-item-09-1.webp|640px|link=]] [[Image:DeathChamber-item-09-2.webp|640px|link=]] [[Image:DeathChamber-item-09-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -452,7 +452,7 @@
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
-	[[Image:DeathChamber-life-1-1.webp|640px|link=]] [[Image:DeathChamber-life-1-2.webp|640px|link=]] [[Image:DeathChamber-life-1-3.webp|640px|link=]] <br />
+	[[Image:DeathChamber-life-01-1.webp|640px|link=]] [[Image:DeathChamber-life-01-2.webp|640px|link=]] [[Image:DeathChamber-life-01-3.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -464,7 +464,7 @@
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 </b> <br />
-	[[Image:DeathChamber-big-1-1.webp|640px|link=]] <br />
+	[[Image:DeathChamber-big-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

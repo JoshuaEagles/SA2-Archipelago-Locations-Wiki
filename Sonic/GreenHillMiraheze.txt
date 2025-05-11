@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
-	[[Image:GreenHill-chaobox-1-1.webp|640px|link=]] [[Image:GreenHill-chaobox-1-2.webp|640px|link=]] <br />
+	[[Image:GreenHill-chaobox-01-1.webp|640px|link=]] [[Image:GreenHill-chaobox-01-2.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -29,7 +29,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:GreenHill-item-1-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -40,7 +40,7 @@
     data-chronological-next-location="chaobox-1
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:GreenHill-item-2-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -51,7 +51,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:GreenHill-item-3-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -62,7 +62,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:GreenHill-item-4-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -73,7 +73,7 @@
     data-chronological-next-location="item-6
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:GreenHill-item-5-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -84,7 +84,7 @@
     data-chronological-next-location="item-7
 >
 	<b class="location-header">Item box 6 </b> <br />
-	[[Image:GreenHill-item-6-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-06-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -95,7 +95,7 @@
     data-chronological-next-location="item-8
 >
 	<b class="location-header">Item box 7 </b> <br />
-	[[Image:GreenHill-item-7-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-07-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -106,7 +106,7 @@
     data-chronological-next-location="item-9
 >
 	<b class="location-header">Item box 8 </b> <br />
-	[[Image:GreenHill-item-8-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-08-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -117,7 +117,7 @@
     data-chronological-next-location="item-10
 >
 	<b class="location-header">Item box 9 </b> <br />
-	[[Image:GreenHill-item-9-1.webp|640px|link=]] <br />
+	[[Image:GreenHill-item-09-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 

@@ -17,7 +17,7 @@
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
-	[[Image:Route101-item-1-1.webp|640px|link=]] <br />
+	[[Image:Route101-item-01-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -28,7 +28,7 @@
     data-chronological-next-location="item-3
 >
 	<b class="location-header">Item box 2 </b> <br />
-	[[Image:Route101-item-2-1.webp|640px|link=]] <br />
+	[[Image:Route101-item-02-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -39,7 +39,7 @@
     data-chronological-next-location="item-4
 >
 	<b class="location-header">Item box 3 </b> <br />
-	[[Image:Route101-item-3-1.webp|640px|link=]] <br />
+	[[Image:Route101-item-03-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -50,7 +50,7 @@
     data-chronological-next-location="item-5
 >
 	<b class="location-header">Item box 4 </b> <br />
-	[[Image:Route101-item-4-1.webp|640px|link=]] <br />
+	[[Image:Route101-item-04-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
@@ -60,7 +60,7 @@
     data-type="item" 
 >
 	<b class="location-header">Item box 5 </b> <br />
-	[[Image:Route101-item-5-1.webp|640px|link=]] <br />
+	[[Image:Route101-item-05-1.webp|640px|link=]] <br />
 	[[#top|Back to top]]
 </div>
 
