@@ -28,38 +28,58 @@ function setupLocationGuideScript() {
 }
 
 function setupLocationTypeToggling() {
-	locationTypeNamesInOrder.forEach(function (locationTypeName) {
+	locationTypeNamesInOrder.forEach((locationTypeName) => {
 		setupLocationTypeFilterButtonListener(locationTypeName);
 	});
+	setupToggleAllFiltersButtonListener();
 
 	function setupLocationTypeFilterButtonListener(locationTypeName) {
-		const locationTypeCheckbox = document.querySelector(`#${locationTypeName}-toggle`);
+		const locationTypeFilterButton = document.querySelector(`#${locationTypeName}-toggle`);
 
-		locationTypeCheckbox.addEventListener("click", function () {
+		locationTypeFilterButton.addEventListener("click", () => {
 			handleFilterButtonClick();
 		});
 
 		function handleFilterButtonClick() {
-			locationTypeCheckbox.dataset.toggled = !(locationTypeCheckbox.dataset.toggled === "true");
-			locationTypeCheckbox.innerHTML = locationTypeCheckbox.dataset.toggled === "true" ? "Enabled" : "Disabled";
+			locationTypeFilterButton.dataset.toggled = !(locationTypeFilterButton.dataset.toggled === "true");
+			locationTypeFilterButton.innerHTML = locationTypeFilterButton.dataset.toggled === "true" ? "Enabled" : "Disabled";
 
 			const locationElementsOfType = document.querySelectorAll(`.location[data-type=${locationTypeName}]`);
-			locationElementsOfType.forEach(function (location) {
-				location.classList.toggle("disabled", !(locationTypeCheckbox.dataset.toggled === "true"));
+			locationElementsOfType.forEach((location) => {
+				location.classList.toggle("disabled", !(locationTypeFilterButton.dataset.toggled === "true"));
 			});
 
 			// Handle special case of big locations manually, if more types start differing between logic difficulties then it'd be worth handling it more gracefully
 			if (locationTypeName === "big") {
 				const locationElementsForBigNormal = document.querySelectorAll(`.location[data-type=bignormal]`);
-				locationElementsForBigNormal.forEach(function (location) {
-					location.classList.toggle("disabled", !(locationTypeCheckbox.dataset.toggled === "true"));
+				locationElementsForBigNormal.forEach((location) => {
+					location.classList.toggle("disabled", !(locationTypeFilterButton.dataset.toggled === "true"));
 				});
 
 				const locationElementsForBigHard = document.querySelectorAll(`.location[data-type=bighard]`);
-				locationElementsForBigHard.forEach(function (location) {
-					location.classList.toggle("disabled", !(locationTypeCheckbox.dataset.toggled === "true"));
+				locationElementsForBigHard.forEach((location) => {
+					location.classList.toggle("disabled", !(locationTypeFilterButton.dataset.toggled === "true"));
 				});
 			}
+		}
+	}
+
+	function setupToggleAllFiltersButtonListener() {
+		const locationTypeFilterButton = document.querySelector(`#all-filters-toggle`);
+		locationTypeFilterButton.addEventListener("click", () => handleToggleAllFiltersButtonClick());
+
+		function handleToggleAllFiltersButtonClick() {
+			const allToggleButtons = Array.from(document.querySelectorAll(".toggle-button:not(#chronological-toggle)"));
+			const allDisabledToggleButtons = allToggleButtons.filter((button) => button.dataset.toggled == "false");
+
+			// If any are disabled, click those to enable them
+			if (allDisabledToggleButtons.length > 0) {
+				allDisabledToggleButtons.forEach((button) => button.click());
+				return;
+			}
+
+			// If all are enabled, click them all to disable them
+			allToggleButtons.forEach((button) => button.click());
 		}
 	}
 }
@@ -68,7 +88,7 @@ function setupChronologicalToggling() {
 	const locationWrapper = document.querySelector("#location-wrapper");
 
 	const toggleChronologicalCheckbox = document.querySelector("#chronological-toggle");
-	toggleChronologicalCheckbox.addEventListener("click", function () {
+	toggleChronologicalCheckbox.addEventListener("click", () => {
 		handleChronologicalButtonClick();
 	});
 
@@ -135,7 +155,7 @@ function setupChronologicalToggling() {
 
 		function setupMappingOfLocationIdToLocationElement() {
 			const locationMap = new Map();
-			allLocations.forEach(function (location) {
+			allLocations.forEach((location) => {
 				locationMap.set(location.id, location);
 			});
 
@@ -146,11 +166,11 @@ function setupChronologicalToggling() {
 	function sortPageIntoByTypeOrder() {
 		const sortedLocationElementsDocumentFragment = document.createDocumentFragment();
 
-		locationTypeNamesInOrder.forEach(function (typeName) {
+		locationTypeNamesInOrder.forEach((typeName) => {
 			const locationsOfTypeNodeList = document.querySelectorAll(`.location[data-type=${typeName}]`);
 			const locationsOfTypeArray = Array.from(locationsOfTypeNodeList);
 
-			locationsOfTypeArray.sort(function (a, b) {
+			locationsOfTypeArray.sort((a, b) => {
 				// This handles sorting big properly, bignormal and bighard sort in the reverse order we want,
 				// but big1 and big2 would sort in the right order
 				const aId = a.id.replace("bignormal", "big1").replace("bighard", "big2");
@@ -165,7 +185,7 @@ function setupChronologicalToggling() {
 
 				return 0;
 			});
-			locationsOfTypeArray.forEach(function (location) {
+			locationsOfTypeArray.forEach((location) => {
 				sortedLocationElementsDocumentFragment.appendChild(location);
 			});
 		});
@@ -179,7 +199,7 @@ function setupChronologicalToggling() {
 		tableOfContentsContainer.classList.toggle("disabled", !isShown);
 
 		const locationTypeHeaders = document.querySelectorAll(`#location-wrapper .location-type-header`);
-		locationTypeHeaders.forEach(function (header) {
+		locationTypeHeaders.forEach((header) => {
 			header.classList.toggle("disabled", !isShown);
 		});
 	}
@@ -189,54 +209,58 @@ function addToggleButtonsHtml() {
 	let toggleButtonsElementHtml = `
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display in Chronological Order: </span>
-				<span class="toggle-button" id="chronological-toggle" data-toggled="false">Disabled</span>
+				<span class="button toggle-button" id="chronological-toggle" data-toggled="false">Disabled</span>
 			</div>
 
 			<hr />
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Chaobox Locations: </span>
-				<span class="toggle-button" id="chaobox-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="chaobox-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Pipe Locations: </span>
-				<span class="toggle-button" id="pipe-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="pipe-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Hidden Locations: </span>
-				<span class="toggle-button" id="hidden-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="hidden-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Gold Beetle Locations: </span>
-				<span class="toggle-button" id="goldbeetle-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="goldbeetle-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Omochao Locations: </span>
-				<span class="toggle-button" id="omochao-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="omochao-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Animal Locations: </span>
-				<span class="toggle-button" id="animal-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="animal-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Item box Locations: </span>
-				<span class="toggle-button" id="item-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="item-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Life box Locations: </span>
-				<span class="toggle-button" id="life-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="life-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
 				<span class="toggle-label">Display Big Locations: </span>
-				<span class="toggle-button" id="big-toggle" data-toggled="true">Enabled</span>
+				<span class="button toggle-button" id="big-toggle" data-toggled="true">Enabled</span>
+			</div>
+
+			<div class="toggle-all-filters-container">
+				<span class="button" id="all-filters-toggle" data-toggled="true">Toggle all Filters</span>
 			</div>
 		`;
 
