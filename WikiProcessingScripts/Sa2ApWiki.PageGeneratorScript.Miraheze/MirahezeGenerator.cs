@@ -78,7 +78,9 @@ public class MirahezeGenerator
             // Each entry in it is a different screenshot for that location
             foreach (var locationGroup in sortedLocationsOfType)
             {
-                var currentLocationName = $"{locationType.CodeName}-{locationGroup.Key}";
+                var zeroPaddedLocationNumber = Helpers.ZeroPadNumber(locationGroup.Key, 2);
+                
+                var currentLocationName = $"{locationType.CodeName}-{zeroPaddedLocationNumber}";
                 var nextChronologicalLocationName =
                     chronologicalLocationsByLocationName[currentLocationName].NextLocation?.LocationName;
 
@@ -91,7 +93,7 @@ public class MirahezeGenerator
                 
                 streamWriter.WriteLine($"""
                                         <div 
-                                            id="{locationType.CodeName}-{locationGroup.Key}" 
+                                            id="{locationType.CodeName}-{zeroPaddedLocationNumber}" 
                                             class="location" 
                                             data-type="{dataTypeForLocationDiv}" 
                                         """

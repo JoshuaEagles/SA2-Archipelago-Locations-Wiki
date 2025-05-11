@@ -5,15 +5,15 @@
    __TOC__
 </div>
 
-<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+<div id="chronological-first-location" data-chronological-first-location="pipe-01"></div>
 
 <div id="location-wrapper">
     
 <div 
-    id="chaobox-1" 
+    id="chaobox-01" 
     class="location" 
     data-type="chaobox" 
-    data-chronological-next-location="pipe-2
+    data-chronological-next-location="pipe-02
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
@@ -22,10 +22,10 @@
 </div>
 
 <div 
-    id="chaobox-2" 
+    id="chaobox-02" 
     class="location" 
     data-type="chaobox" 
-    data-chronological-next-location="animal-8
+    data-chronological-next-location="animal-08
 >
 	<b class="location-header">Chaobox 2 </b> <br />
 	[[Image:WeaponsBed-chaobox-02-1.webp|640px|link=]] [[Image:WeaponsBed-chaobox-02-2.webp|640px|link=]] <br />
@@ -33,7 +33,7 @@
 </div>
 
 <div 
-    id="chaobox-3" 
+    id="chaobox-03" 
     class="location" 
     data-type="chaobox" 
     data-chronological-next-location="animal-13
@@ -44,10 +44,10 @@
 </div>
 
 <div 
-    id="pipe-1" 
+    id="pipe-01" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="animal-1
+    data-chronological-next-location="animal-01
 >
 	<h2 class="location-type-header">Pipe Locations</h2>
 	<b class="location-header">Pipe 1 </b> <br />
@@ -56,10 +56,10 @@
 </div>
 
 <div 
-    id="pipe-2" 
+    id="pipe-02" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="animal-3
+    data-chronological-next-location="animal-03
 >
 	<b class="location-header">Pipe 2 </b> <br />
 	[[Image:WeaponsBed-pipe-02-1.webp|640px|link=]] <br />
@@ -67,10 +67,10 @@
 </div>
 
 <div 
-    id="pipe-3" 
+    id="pipe-03" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="animal-9
+    data-chronological-next-location="animal-09
 >
 	<b class="location-header">Pipe 3 </b> <br />
 	[[Image:WeaponsBed-pipe-03-1.webp|640px|link=]] <br />
@@ -78,7 +78,7 @@
 </div>
 
 <div 
-    id="pipe-4" 
+    id="pipe-04" 
     class="location" 
     data-type="pipe" 
     data-chronological-next-location="animal-12
@@ -89,7 +89,7 @@
 </div>
 
 <div 
-    id="pipe-5" 
+    id="pipe-05" 
     class="location" 
     data-type="pipe" 
     data-chronological-next-location="animal-14
@@ -100,10 +100,10 @@
 </div>
 
 <div 
-    id="omochao-1" 
+    id="omochao-01" 
     class="location" 
     data-type="omochao" 
-    data-chronological-next-location="omochao-2
+    data-chronological-next-location="omochao-02
 >
 	<h2 class="location-type-header">Omochao Locations</h2>
 	<b class="location-header">Omochao 1 </b> <br />
@@ -112,10 +112,10 @@
 </div>
 
 <div 
-    id="omochao-2" 
+    id="omochao-02" 
     class="location" 
     data-type="omochao" 
-    data-chronological-next-location="animal-4
+    data-chronological-next-location="animal-04
 >
 	<b class="location-header">Omochao 2 </b> <br />
 	[[Image:WeaponsBed-omochao-02-1.webp|640px|link=]] <br />
@@ -123,10 +123,10 @@
 </div>
 
 <div 
-    id="omochao-3" 
+    id="omochao-03" 
     class="location" 
     data-type="omochao" 
-    data-chronological-next-location="item-3
+    data-chronological-next-location="item-03
 >
 	<b class="location-header">Omochao 3 </b> <br />
 	[[Image:WeaponsBed-omochao-03-1.webp|640px|link=]] <br />
@@ -134,10 +134,10 @@
 </div>
 
 <div 
-    id="animal-1" 
+    id="animal-01" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="animal-2
+    data-chronological-next-location="animal-02
 >
 	<h2 class="location-type-header">Animal Locations</h2>
 	<b class="location-header">Animal 1 </b> <br />
@@ -146,10 +146,10 @@
 </div>
 
 <div 
-    id="animal-2" 
+    id="animal-02" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="bignormal-1
+    data-chronological-next-location="bignormal-01
 >
 	<b class="location-header">Animal 2 </b> <br />
 	[[Image:WeaponsBed-animal-02-1.webp|640px|link=]] <br />
@@ -157,10 +157,10 @@
 </div>
 
 <div 
-    id="animal-3" 
+    id="animal-03" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="omochao-1
+    data-chronological-next-location="omochao-01
 >
 	<b class="location-header">Animal 3 </b> <br />
 	[[Image:WeaponsBed-animal-03-1.webp|640px|link=]] <br />
@@ -168,10 +168,10 @@
 </div>
 
 <div 
-    id="animal-4" 
+    id="animal-04" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="animal-5
+    data-chronological-next-location="animal-05
 >
 	<b class="location-header">Animal 4 </b> <br />
 	[[Image:WeaponsBed-animal-04-1.webp|640px|link=]] <br />
@@ -179,10 +179,10 @@
 </div>
 
 <div 
-    id="animal-5" 
+    id="animal-05" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="animal-6
+    data-chronological-next-location="animal-06
 >
 	<b class="location-header">Animal 5 </b> <br />
 	[[Image:WeaponsBed-animal-05-1.webp|640px|link=]] [[Image:WeaponsBed-animal-05-2.webp|640px|link=]] <br />
@@ -190,10 +190,10 @@
 </div>
 
 <div 
-    id="animal-6" 
+    id="animal-06" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="item-1
+    data-chronological-next-location="item-01
 >
 	<b class="location-header">Animal 6 </b> <br />
 	[[Image:WeaponsBed-animal-06-1.webp|640px|link=]] <br />
@@ -201,10 +201,10 @@
 </div>
 
 <div 
-    id="animal-7" 
+    id="animal-07" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="chaobox-2
+    data-chronological-next-location="chaobox-02
 >
 	<b class="location-header">Animal 7 </b> <br />
 	[[Image:WeaponsBed-animal-07-1.webp|640px|link=]] <br />
@@ -212,10 +212,10 @@
 </div>
 
 <div 
-    id="animal-8" 
+    id="animal-08" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="item-4
+    data-chronological-next-location="item-04
 >
 	<b class="location-header">Animal 8 </b> <br />
 	[[Image:WeaponsBed-animal-08-1.webp|640px|link=]] <br />
@@ -223,7 +223,7 @@
 </div>
 
 <div 
-    id="animal-9" 
+    id="animal-09" 
     class="location" 
     data-type="animal" 
     data-chronological-next-location="animal-10
@@ -237,7 +237,7 @@
     id="animal-10" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="item-5
+    data-chronological-next-location="item-05
 >
 	<b class="location-header">Animal 10 </b> <br />
 	[[Image:WeaponsBed-animal-10-1.webp|640px|link=]] [[Image:WeaponsBed-animal-10-2.webp|640px|link=]] <br />
@@ -248,7 +248,7 @@
     id="animal-11" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="pipe-4
+    data-chronological-next-location="pipe-04
 >
 	<b class="location-header">Animal 11 </b> <br />
 	[[Image:WeaponsBed-animal-11-1.webp|640px|link=]] <br />
@@ -259,7 +259,7 @@
     id="animal-12" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="chaobox-3
+    data-chronological-next-location="chaobox-03
 >
 	<b class="location-header">Animal 12 </b> <br />
 	[[Image:WeaponsBed-animal-12-1.webp|640px|link=]] <br />
@@ -270,7 +270,7 @@
     id="animal-13" 
     class="location" 
     data-type="animal" 
-    data-chronological-next-location="pipe-5
+    data-chronological-next-location="pipe-05
 >
 	<b class="location-header">Animal 13 </b> <br />
 	[[Image:WeaponsBed-animal-13-1.webp|640px|link=]] <br />
@@ -299,10 +299,10 @@
 </div>
 
 <div 
-    id="item-1" 
+    id="item-01" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-2
+    data-chronological-next-location="item-02
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
@@ -311,10 +311,10 @@
 </div>
 
 <div 
-    id="item-2" 
+    id="item-02" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="omochao-3
+    data-chronological-next-location="omochao-03
 >
 	<b class="location-header">Item box 2 </b> <br />
 	[[Image:WeaponsBed-item-02-1.webp|640px|link=]] <br />
@@ -322,10 +322,10 @@
 </div>
 
 <div 
-    id="item-3" 
+    id="item-03" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="animal-7
+    data-chronological-next-location="animal-07
 >
 	<b class="location-header">Item box 3 </b> <br />
 	[[Image:WeaponsBed-item-03-1.webp|640px|link=]] <br />
@@ -333,10 +333,10 @@
 </div>
 
 <div 
-    id="item-4" 
+    id="item-04" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="life-1
+    data-chronological-next-location="life-01
 >
 	<b class="location-header">Item box 4 </b> <br />
 	[[Image:WeaponsBed-item-04-1.webp|640px|link=]] <br />
@@ -344,10 +344,10 @@
 </div>
 
 <div 
-    id="item-5" 
+    id="item-05" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-6
+    data-chronological-next-location="item-06
 >
 	<b class="location-header">Item box 5 </b> <br />
 	[[Image:WeaponsBed-item-05-1.webp|640px|link=]] <br />
@@ -355,10 +355,10 @@
 </div>
 
 <div 
-    id="item-6" 
+    id="item-06" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-7
+    data-chronological-next-location="item-07
 >
 	<b class="location-header">Item box 6 </b> <br />
 	[[Image:WeaponsBed-item-06-1.webp|640px|link=]] <br />
@@ -366,7 +366,7 @@
 </div>
 
 <div 
-    id="item-7" 
+    id="item-07" 
     class="location" 
     data-type="item" 
     data-chronological-next-location="animal-11
@@ -377,10 +377,10 @@
 </div>
 
 <div 
-    id="life-1" 
+    id="life-01" 
     class="location" 
     data-type="life" 
-    data-chronological-next-location="pipe-3
+    data-chronological-next-location="pipe-03
 >
 	<h2 class="location-type-header">Life box Locations</h2>
 	<b class="location-header">Life box 1 </b> <br />
@@ -389,10 +389,10 @@
 </div>
 
 <div 
-    id="bignormal-1" 
+    id="bignormal-01" 
     class="location" 
     data-type="big" 
-    data-chronological-next-location="bighard-1
+    data-chronological-next-location="bighard-01
 >
 	<h2 class="location-type-header">Big Locations</h2>
 	<b class="location-header">Big 1 (Normal Logic Only)</b> <br />
@@ -401,10 +401,10 @@
 </div>
 
 <div 
-    id="bighard-1" 
+    id="bighard-01" 
     class="location" 
     data-type="big" 
-    data-chronological-next-location="chaobox-1
+    data-chronological-next-location="chaobox-01
 >
 	<b class="location-header">Big 1 (Hard and Expert Logic Only)</b> <br />
 	[[Image:WeaponsBed-bighard-01-1.webp|640px|link=]] [[Image:WeaponsBed-bighard-01-2.webp|640px|link=]] [[Image:WeaponsBed-bighard-01-3.webp|640px|link=]] <br />

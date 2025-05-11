@@ -5,15 +5,15 @@
    __TOC__
 </div>
 
-<div id="chronological-first-location" data-chronological-first-location="item-1"></div>
+<div id="chronological-first-location" data-chronological-first-location="item-01"></div>
 
 <div id="location-wrapper">
     
 <div 
-    id="chaobox-1" 
+    id="chaobox-01" 
     class="location" 
     data-type="chaobox" 
-    data-chronological-next-location="item-3
+    data-chronological-next-location="item-03
 >
 	<h2 class="location-type-header">Chaobox Locations</h2>
 	<b class="location-header">Chaobox 1 </b> <br />
@@ -22,10 +22,10 @@
 </div>
 
 <div 
-    id="item-1" 
+    id="item-01" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-2
+    data-chronological-next-location="item-02
 >
 	<h2 class="location-type-header">Item box Locations</h2>
 	<b class="location-header">Item box 1 </b> <br />
@@ -34,10 +34,10 @@
 </div>
 
 <div 
-    id="item-2" 
+    id="item-02" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="chaobox-1
+    data-chronological-next-location="chaobox-01
 >
 	<b class="location-header">Item box 2 </b> <br />
 	[[Image:GreenHill-item-02-1.webp|640px|link=]] <br />
@@ -45,10 +45,10 @@
 </div>
 
 <div 
-    id="item-3" 
+    id="item-03" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-4
+    data-chronological-next-location="item-04
 >
 	<b class="location-header">Item box 3 </b> <br />
 	[[Image:GreenHill-item-03-1.webp|640px|link=]] <br />
@@ -56,10 +56,10 @@
 </div>
 
 <div 
-    id="item-4" 
+    id="item-04" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-5
+    data-chronological-next-location="item-05
 >
 	<b class="location-header">Item box 4 </b> <br />
 	[[Image:GreenHill-item-04-1.webp|640px|link=]] <br />
@@ -67,10 +67,10 @@
 </div>
 
 <div 
-    id="item-5" 
+    id="item-05" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-6
+    data-chronological-next-location="item-06
 >
 	<b class="location-header">Item box 5 </b> <br />
 	[[Image:GreenHill-item-05-1.webp|640px|link=]] <br />
@@ -78,10 +78,10 @@
 </div>
 
 <div 
-    id="item-6" 
+    id="item-06" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-7
+    data-chronological-next-location="item-07
 >
 	<b class="location-header">Item box 6 </b> <br />
 	[[Image:GreenHill-item-06-1.webp|640px|link=]] <br />
@@ -89,10 +89,10 @@
 </div>
 
 <div 
-    id="item-7" 
+    id="item-07" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-8
+    data-chronological-next-location="item-08
 >
 	<b class="location-header">Item box 7 </b> <br />
 	[[Image:GreenHill-item-07-1.webp|640px|link=]] <br />
@@ -100,10 +100,10 @@
 </div>
 
 <div 
-    id="item-8" 
+    id="item-08" 
     class="location" 
     data-type="item" 
-    data-chronological-next-location="item-9
+    data-chronological-next-location="item-09
 >
 	<b class="location-header">Item box 8 </b> <br />
 	[[Image:GreenHill-item-08-1.webp|640px|link=]] <br />
@@ -111,7 +111,7 @@
 </div>
 
 <div 
-    id="item-9" 
+    id="item-09" 
     class="location" 
     data-type="item" 
     data-chronological-next-location="item-10

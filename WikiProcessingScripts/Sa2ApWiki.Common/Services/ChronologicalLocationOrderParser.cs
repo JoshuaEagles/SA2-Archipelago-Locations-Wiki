@@ -18,7 +18,7 @@ public static class ChronologicalLocationOrderParser
 			var stageName = line.Substring(0, indexOfFirstSpace);
 			var orderText = line.Substring(indexOfFirstSpace);
 
-			var orderTextSplit = orderText.Split(',').Select(y => y.Trim()).ToImmutableArray();
+			var orderTextSplit = orderText.Trim().Split(' ').Select(y => y.Trim()).ToImmutableArray();
 
 			var chronologicalLocationNames = new List<string>();
 			foreach (var singleChronologicalEntry in orderTextSplit)
