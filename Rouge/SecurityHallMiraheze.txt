@@ -1,30 +1,603 @@
-__NOTOC__{{DISPLAYTITLE:Security Hall Locations}}
-Display as Chronological:
-<div id="chronological-toggle">button</div>
+{{DISPLAYTITLE:Security Hall Locations}}
+<div id="toggles-container"></div>
 
-<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+<div id="location-wiki-toc">
+   __TOC__
+</div>
+
+<div id="chronological-first-location" data-chronological-first-location="omochao-1"></div>
 
 <div id="location-wrapper">
     
 <div 
+    id="chaobox-1" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="omochao-3
+>
+	<h2 class="location-type-header">Chaobox Locations</h2>
+	<b class="location-header">Chaobox 1 </b> <br />
+	[[Image:SecurityHall-chaobox-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-2" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="animal-7
+>
+	<b class="location-header">Chaobox 2 </b> <br />
+	[[Image:SecurityHall-chaobox-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-3" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="omochao-6
+>
+	<b class="location-header">Chaobox 3 </b> <br />
+	[[Image:SecurityHall-chaobox-3-1.webp|640px|link=]] [[Image:SecurityHall-chaobox-3-2.webp|640px|link=]] [[Image:SecurityHall-chaobox-3-3.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
     id="pipe-1" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="hidden-1
+    data-chronological-next-location="animal-1
 >
-=== Pipe 1 ===
-[[Image:pipe-1-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Pipe Locations</h2>
+	<b class="location-header">Pipe 1 </b> <br />
+	[[Image:SecurityHall-pipe-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="hidden-1" 
     class="location" 
     data-type="hidden" 
+    data-chronological-next-location="animal-8
 >
-=== Hidden 1 ===
-[[Image:hidden-1-1.webp|512px|link=]] [[Image:hidden-1-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Hidden Locations</h2>
+	<b class="location-header">Hidden 1 </b> <br />
+	[[Image:SecurityHall-hidden-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="goldbeetle-1" 
+    class="location" 
+    data-type="goldbeetle" 
+    data-chronological-next-location="omochao-10
+>
+	<h2 class="location-type-header">Gold Beetle Locations</h2>
+	<b class="location-header">Gold Beetle 1 </b> <br />
+	[[Image:SecurityHall-goldbeetle-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-1" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="bignormal-1
+>
+	<h2 class="location-type-header">Omochao Locations</h2>
+	<b class="location-header">Omochao 1 </b> <br />
+	[[Image:SecurityHall-omochao-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-2" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="pipe-1
+>
+	<b class="location-header">Omochao 2 </b> <br />
+	[[Image:SecurityHall-omochao-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-3" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-2
+>
+	<b class="location-header">Omochao 3 </b> <br />
+	[[Image:SecurityHall-omochao-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-4" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-3
+>
+	<b class="location-header">Omochao 4 </b> <br />
+	[[Image:SecurityHall-omochao-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-5" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-4
+>
+	<b class="location-header">Omochao 5 </b> <br />
+	[[Image:SecurityHall-omochao-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-6" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="omochao-7
+>
+	<b class="location-header">Omochao 6 </b> <br />
+	[[Image:SecurityHall-omochao-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-7" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-18
+>
+	<b class="location-header">Omochao 7 </b> <br />
+	[[Image:SecurityHall-omochao-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-8" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="life-1
+>
+	<b class="location-header">Omochao 8 </b> <br />
+	[[Image:SecurityHall-omochao-8-1.webp|640px|link=]] [[Image:SecurityHall-omochao-8-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-9" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-5
+>
+	<b class="location-header">Omochao 9 </b> <br />
+	[[Image:SecurityHall-omochao-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-10" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="omochao-11
+>
+	<b class="location-header">Omochao 10 </b> <br />
+	[[Image:SecurityHall-omochao-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-11" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-23
+>
+	<b class="location-header">Omochao 11 </b> <br />
+	[[Image:SecurityHall-omochao-11-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-12" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-24
+>
+	<b class="location-header">Omochao 12 </b> <br />
+	[[Image:SecurityHall-omochao-12-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-1" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-1
+>
+	<h2 class="location-type-header">Animal Locations</h2>
+	<b class="location-header">Animal 1 </b> <br />
+	[[Image:SecurityHall-animal-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-2" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-1
+>
+	<b class="location-header">Animal 2 </b> <br />
+	[[Image:SecurityHall-animal-2-1.webp|640px|link=]] [[Image:SecurityHall-animal-2-2.webp|640px|link=]] [[Image:SecurityHall-animal-2-3.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-3" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-9
+>
+	<b class="location-header">Animal 3 </b> <br />
+	[[Image:SecurityHall-animal-3-1.webp|640px|link=]] [[Image:SecurityHall-animal-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-4" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-3
+>
+	<b class="location-header">Animal 4 </b> <br />
+	[[Image:SecurityHall-animal-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-5" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-6
+>
+	<b class="location-header">Animal 5 </b> <br />
+	[[Image:SecurityHall-animal-5-1.webp|640px|link=]] [[Image:SecurityHall-animal-5-2.webp|640px|link=]] [[Image:SecurityHall-animal-5-3.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-6" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="goldbeetle-1
+>
+	<b class="location-header">Animal 6 </b> <br />
+	[[Image:SecurityHall-animal-6-1.webp|640px|link=]] [[Image:SecurityHall-animal-6-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-7" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-12
+>
+	<b class="location-header">Animal 7 </b> <br />
+	[[Image:SecurityHall-animal-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-8" 
+    class="location" 
+    data-type="animal" 
+>
+	<b class="location-header">Animal 8 </b> <br />
+	[[Image:SecurityHall-animal-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-1" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-2
+>
+	<h2 class="location-type-header">Item box Locations</h2>
+	<b class="location-header">Item box 1 </b> <br />
+	[[Image:SecurityHall-item-1-1.webp|640px|link=]] [[Image:SecurityHall-item-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-2" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-3
+>
+	<b class="location-header">Item box 2 </b> <br />
+	[[Image:SecurityHall-item-2-1.webp|640px|link=]] [[Image:SecurityHall-item-2-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-3" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-4
+>
+	<b class="location-header">Item box 3 </b> <br />
+	[[Image:SecurityHall-item-3-1.webp|640px|link=]] [[Image:SecurityHall-item-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-4" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-5
+>
+	<b class="location-header">Item box 4 </b> <br />
+	[[Image:SecurityHall-item-4-1.webp|640px|link=]] [[Image:SecurityHall-item-4-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-5" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-6
+>
+	<b class="location-header">Item box 5 </b> <br />
+	[[Image:SecurityHall-item-5-1.webp|640px|link=]] [[Image:SecurityHall-item-5-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-6" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-7
+>
+	<b class="location-header">Item box 6 </b> <br />
+	[[Image:SecurityHall-item-6-1.webp|640px|link=]] [[Image:SecurityHall-item-6-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-7" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-8
+>
+	<b class="location-header">Item box 7 </b> <br />
+	[[Image:SecurityHall-item-7-1.webp|640px|link=]] [[Image:SecurityHall-item-7-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-8" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-4
+>
+	<b class="location-header">Item box 8 </b> <br />
+	[[Image:SecurityHall-item-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-9" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-10
+>
+	<b class="location-header">Item box 9 </b> <br />
+	[[Image:SecurityHall-item-9-1.webp|640px|link=]] [[Image:SecurityHall-item-9-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-10" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-11
+>
+	<b class="location-header">Item box 10 </b> <br />
+	[[Image:SecurityHall-item-10-1.webp|640px|link=]] [[Image:SecurityHall-item-10-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-11" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-12
+>
+	<b class="location-header">Item box 11 </b> <br />
+	[[Image:SecurityHall-item-11-1.webp|640px|link=]] [[Image:SecurityHall-item-11-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-12" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-13
+>
+	<b class="location-header">Item box 12 </b> <br />
+	[[Image:SecurityHall-item-12-1.webp|640px|link=]] [[Image:SecurityHall-item-12-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-13" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-14
+>
+	<b class="location-header">Item box 13 </b> <br />
+	[[Image:SecurityHall-item-13-1.webp|640px|link=]] [[Image:SecurityHall-item-13-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-14" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-15
+>
+	<b class="location-header">Item box 14 </b> <br />
+	[[Image:SecurityHall-item-14-1.webp|640px|link=]] [[Image:SecurityHall-item-14-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-15" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-5
+>
+	<b class="location-header">Item box 15 </b> <br />
+	[[Image:SecurityHall-item-15-1.webp|640px|link=]] [[Image:SecurityHall-item-15-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-16" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-17
+>
+	<b class="location-header">Item box 16 </b> <br />
+	[[Image:SecurityHall-item-16-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-17" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-9
+>
+	<b class="location-header">Item box 17 </b> <br />
+	[[Image:SecurityHall-item-17-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-18" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-19
+>
+	<b class="location-header">Item box 18 </b> <br />
+	[[Image:SecurityHall-item-18-1.webp|640px|link=]] [[Image:SecurityHall-item-18-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-19" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-20
+>
+	<b class="location-header">Item box 19 </b> <br />
+	[[Image:SecurityHall-item-19-1.webp|640px|link=]] [[Image:SecurityHall-item-19-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-20" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-21
+>
+	<b class="location-header">Item box 20 </b> <br />
+	[[Image:SecurityHall-item-20-1.webp|640px|link=]] [[Image:SecurityHall-item-20-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-21" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-22
+>
+	<b class="location-header">Item box 21 </b> <br />
+	[[Image:SecurityHall-item-21-1.webp|640px|link=]] [[Image:SecurityHall-item-21-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-22" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-8
+>
+	<b class="location-header">Item box 22 </b> <br />
+	[[Image:SecurityHall-item-22-1.webp|640px|link=]] [[Image:SecurityHall-item-22-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-23" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="chaobox-2
+>
+	<b class="location-header">Item box 23 </b> <br />
+	[[Image:SecurityHall-item-23-1.webp|640px|link=]] [[Image:SecurityHall-item-23-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-24" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="hidden-1
+>
+	<b class="location-header">Item box 24 </b> <br />
+	[[Image:SecurityHall-item-24-1.webp|640px|link=]] [[Image:SecurityHall-item-24-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-1" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-16
+>
+	<h2 class="location-type-header">Life box Locations</h2>
+	<b class="location-header">Life box 1 </b> <br />
+	[[Image:SecurityHall-life-1-1.webp|640px|link=]] [[Image:SecurityHall-life-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="bignormal-1" 
+    class="location" 
+    data-type="big" 
+    data-chronological-next-location="bighard-1
+>
+	<h2 class="location-type-header">Big Locations</h2>
+	<b class="location-header">Big 1 (Normal Logic Only)</b> <br />
+	[[Image:SecurityHall-bignormal-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="bighard-1" 
+    class="location" 
+    data-type="big" 
+    data-chronological-next-location="omochao-2
+>
+	<b class="location-header">Big 1 (Hard and Expert Logic Only)</b> <br />
+	[[Image:SecurityHall-bighard-1-1.webp|640px|link=]] [[Image:SecurityHall-bighard-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 </div>

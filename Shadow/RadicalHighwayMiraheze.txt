@@ -1,74 +1,548 @@
-__NOTOC__{{DISPLAYTITLE:Radical Highway Locations}}
-Display as Chronological:
-<div id="chronological-toggle">button</div>
+{{DISPLAYTITLE:Radical Highway Locations}}
+<div id="toggles-container"></div>
 
-<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+<div id="location-wiki-toc">
+   __TOC__
+</div>
+
+<div id="chronological-first-location" data-chronological-first-location="animal-1"></div>
 
 <div id="location-wrapper">
     
 <div 
+    id="chaobox-1" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="animal-5
+>
+	<h2 class="location-type-header">Chaobox Locations</h2>
+	<b class="location-header">Chaobox 1 </b> <br />
+	[[Image:RadicalHighway-chaobox-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-2" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="pipe-1
+>
+	<b class="location-header">Chaobox 2 </b> <br />
+	[[Image:RadicalHighway-chaobox-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-3" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="animal-14
+>
+	<b class="location-header">Chaobox 3 </b> <br />
+	[[Image:RadicalHighway-chaobox-3-1.webp|640px|link=]] [[Image:RadicalHighway-chaobox-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
     id="pipe-1" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-2
+    data-chronological-next-location="animal-9
 >
-=== Pipe 1 ===
-[[Image:pipe-1-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Pipe Locations</h2>
+	<b class="location-header">Pipe 1 </b> <br />
+	[[Image:RadicalHighway-pipe-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-2" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="hidden-2
+    data-chronological-next-location="animal-13
 >
-=== Pipe 2 ===
-[[Image:pipe-2-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 2 </b> <br />
+	[[Image:RadicalHighway-pipe-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-3" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="hidden-3
+    data-chronological-next-location="animal-18
 >
-=== Pipe 3 ===
-[[Image:pipe-3-1.webp|512px|link=]] [[Image:pipe-3-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 3 </b> <br />
+	[[Image:RadicalHighway-pipe-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="hidden-1" 
     class="location" 
     data-type="hidden" 
-    data-chronological-next-location="pipe-1
+    data-chronological-next-location="animal-2
 >
-=== Hidden 1 ===
-[[Image:hidden-1-1.webp|512px|link=]] [[Image:hidden-1-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Hidden Locations</h2>
+	<b class="location-header">Hidden 1 </b> <br />
+	[[Image:RadicalHighway-hidden-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="hidden-2" 
     class="location" 
     data-type="hidden" 
-    data-chronological-next-location="pipe-3
+    data-chronological-next-location="animal-16
 >
-=== Hidden 2 ===
-[[Image:hidden-2-1.webp|512px|link=]] [[Image:hidden-2-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Hidden 2 </b> <br />
+	[[Image:RadicalHighway-hidden-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="hidden-3" 
     class="location" 
     data-type="hidden" 
+    data-chronological-next-location="animal-19
 >
-=== Hidden 3 ===
-[[Image:hidden-3-1.webp|512px|link=]] [[Image:hidden-3-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Hidden 3 </b> <br />
+	[[Image:RadicalHighway-hidden-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="goldbeetle-1" 
+    class="location" 
+    data-type="goldbeetle" 
+    data-chronological-next-location="pipe-2
+>
+	<h2 class="location-type-header">Gold Beetle Locations</h2>
+	<b class="location-header">Gold Beetle 1 </b> <br />
+	[[Image:RadicalHighway-goldbeetle-1-1.webp|640px|link=]] [[Image:RadicalHighway-goldbeetle-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-1" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="omochao-2
+>
+	<h2 class="location-type-header">Omochao Locations</h2>
+	<b class="location-header">Omochao 1 </b> <br />
+	[[Image:RadicalHighway-omochao-1-1.webp|640px|link=]] [[Image:RadicalHighway-omochao-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-2" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-6
+>
+	<b class="location-header">Omochao 2 </b> <br />
+	[[Image:RadicalHighway-omochao-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-3" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-1
+>
+	<b class="location-header">Omochao 3 </b> <br />
+	[[Image:RadicalHighway-omochao-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-4" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="chaobox-2
+>
+	<b class="location-header">Omochao 4 </b> <br />
+	[[Image:RadicalHighway-omochao-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-5" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="goldbeetle-1
+>
+	<b class="location-header">Omochao 5 </b> <br />
+	[[Image:RadicalHighway-omochao-5-1.webp|640px|link=]] [[Image:RadicalHighway-omochao-5-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-6" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="life-2
+>
+	<b class="location-header">Omochao 6 </b> <br />
+	[[Image:RadicalHighway-omochao-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-7" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="omochao-8
+>
+	<b class="location-header">Omochao 7 </b> <br />
+	[[Image:RadicalHighway-omochao-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-8" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="omochao-6
+>
+	<b class="location-header">Omochao 8 </b> <br />
+	[[Image:RadicalHighway-omochao-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-1" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="hidden-1
+>
+	<h2 class="location-type-header">Animal Locations</h2>
+	<b class="location-header">Animal 1 </b> <br />
+	[[Image:RadicalHighway-animal-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-2" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-3
+>
+	<b class="location-header">Animal 2 </b> <br />
+	[[Image:RadicalHighway-animal-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-3" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-4
+>
+	<b class="location-header">Animal 3 </b> <br />
+	[[Image:RadicalHighway-animal-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-4" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-1
+>
+	<b class="location-header">Animal 4 </b> <br />
+	[[Image:RadicalHighway-animal-4-1.webp|640px|link=]] [[Image:RadicalHighway-animal-4-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-5" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-1
+>
+	<b class="location-header">Animal 5 </b> <br />
+	[[Image:RadicalHighway-animal-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-6" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-3
+>
+	<b class="location-header">Animal 6 </b> <br />
+	[[Image:RadicalHighway-animal-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-7" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-8
+>
+	<b class="location-header">Animal 7 </b> <br />
+	[[Image:RadicalHighway-animal-7-1.webp|640px|link=]] [[Image:RadicalHighway-animal-7-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-8" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-4
+>
+	<b class="location-header">Animal 8 </b> <br />
+	[[Image:RadicalHighway-animal-8-1.webp|640px|link=]] [[Image:RadicalHighway-animal-8-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-9" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-3
+>
+	<b class="location-header">Animal 9 </b> <br />
+	[[Image:RadicalHighway-animal-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-10" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="big-1
+>
+	<b class="location-header">Animal 10 </b> <br />
+	[[Image:RadicalHighway-animal-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-11" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-5
+>
+	<b class="location-header">Animal 11 </b> <br />
+	[[Image:RadicalHighway-animal-11-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-12" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-5
+>
+	<b class="location-header">Animal 12 </b> <br />
+	[[Image:RadicalHighway-animal-12-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-13" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-7
+>
+	<b class="location-header">Animal 13 </b> <br />
+	[[Image:RadicalHighway-animal-13-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-14" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="hidden-2
+>
+	<b class="location-header">Animal 14 </b> <br />
+	[[Image:RadicalHighway-animal-14-1.webp|640px|link=]] [[Image:RadicalHighway-animal-14-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-15" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-3
+>
+	<b class="location-header">Animal 15 </b> <br />
+	[[Image:RadicalHighway-animal-15-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-16" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-17
+>
+	<b class="location-header">Animal 16 </b> <br />
+	[[Image:RadicalHighway-animal-16-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-17" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="pipe-3
+>
+	<b class="location-header">Animal 17 </b> <br />
+	[[Image:RadicalHighway-animal-17-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-18" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-6
+>
+	<b class="location-header">Animal 18 </b> <br />
+	[[Image:RadicalHighway-animal-18-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-19" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-20
+>
+	<b class="location-header">Animal 19 </b> <br />
+	[[Image:RadicalHighway-animal-19-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-20" 
+    class="location" 
+    data-type="animal" 
+>
+	<b class="location-header">Animal 20 </b> <br />
+	[[Image:RadicalHighway-animal-20-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-1" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-2
+>
+	<h2 class="location-type-header">Item box Locations</h2>
+	<b class="location-header">Item box 1 </b> <br />
+	[[Image:RadicalHighway-item-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-2" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-1
+>
+	<b class="location-header">Item box 2 </b> <br />
+	[[Image:RadicalHighway-item-2-1.webp|640px|link=]] [[Image:RadicalHighway-item-2-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-3" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-10
+>
+	<b class="location-header">Item box 3 </b> <br />
+	[[Image:RadicalHighway-item-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-4" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-11
+>
+	<b class="location-header">Item box 4 </b> <br />
+	[[Image:RadicalHighway-item-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-5" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-12
+>
+	<b class="location-header">Item box 5 </b> <br />
+	[[Image:RadicalHighway-item-5-1.webp|640px|link=]] [[Image:RadicalHighway-item-5-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-6" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-7
+>
+	<b class="location-header">Item box 6 </b> <br />
+	[[Image:RadicalHighway-item-6-1.webp|640px|link=]] [[Image:RadicalHighway-item-6-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-7" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="hidden-3
+>
+	<b class="location-header">Item box 7 </b> <br />
+	[[Image:RadicalHighway-item-7-1.webp|640px|link=]] [[Image:RadicalHighway-item-7-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-1" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-7
+>
+	<h2 class="location-type-header">Life box Locations</h2>
+	<b class="location-header">Life box 1 </b> <br />
+	[[Image:RadicalHighway-life-1-1.webp|640px|link=]] [[Image:RadicalHighway-life-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-2" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-15
+>
+	<b class="location-header">Life box 2 </b> <br />
+	[[Image:RadicalHighway-life-2-1.webp|640px|link=]] [[Image:RadicalHighway-life-2-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="big-1" 
+    class="location" 
+    data-type="big" 
+    data-chronological-next-location="item-4
+>
+	<h2 class="location-type-header">Big Locations</h2>
+	<b class="location-header">Big 1 </b> <br />
+	[[Image:RadicalHighway-big-1-1.webp|640px|link=]] [[Image:RadicalHighway-big-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 </div>

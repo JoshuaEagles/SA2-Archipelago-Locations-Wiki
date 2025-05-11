@@ -1,63 +1,459 @@
-__NOTOC__{{DISPLAYTITLE:Sand Ocean Locations}}
-Display as Chronological:
-<div id="chronological-toggle">button</div>
+{{DISPLAYTITLE:Sand Ocean Locations}}
+<div id="toggles-container"></div>
 
-<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+<div id="location-wiki-toc">
+   __TOC__
+</div>
+
+<div id="chronological-first-location" data-chronological-first-location="animal-1"></div>
 
 <div id="location-wrapper">
     
 <div 
+    id="chaobox-1" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="animal-5
+>
+	<h2 class="location-type-header">Chaobox Locations</h2>
+	<b class="location-header">Chaobox 1 </b> <br />
+	[[Image:SandOcean-chaobox-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-2" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="goldbeetle-1
+>
+	<b class="location-header">Chaobox 2 </b> <br />
+	[[Image:SandOcean-chaobox-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-3" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="pipe-3
+>
+	<b class="location-header">Chaobox 3 </b> <br />
+	[[Image:SandOcean-chaobox-3-1.webp|640px|link=]] [[Image:SandOcean-chaobox-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
     id="pipe-1" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-2
+    data-chronological-next-location="animal-6
 >
-=== Pipe 1 ===
-[[Image:pipe-1-1.webp|512px|link=]] [[Image:pipe-1-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Pipe Locations</h2>
+	<b class="location-header">Pipe 1 </b> <br />
+	[[Image:SandOcean-pipe-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-2" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-3
+    data-chronological-next-location="animal-7
 >
-=== Pipe 2 ===
-[[Image:pipe-2-1.webp|512px|link=]] [[Image:pipe-2-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 2 </b> <br />
+	[[Image:SandOcean-pipe-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-3" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-4
+    data-chronological-next-location="animal-11
 >
-=== Pipe 3 ===
-[[Image:pipe-3-1.webp|512px|link=]] [[Image:pipe-3-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 3 </b> <br />
+	[[Image:SandOcean-pipe-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-4" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-5
+    data-chronological-next-location="animal-13
 >
-=== Pipe 4 ===
-[[Image:pipe-4-1.webp|512px|link=]] [[Image:pipe-4-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 4 </b> <br />
+	[[Image:SandOcean-pipe-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-5" 
     class="location" 
     data-type="pipe" 
+    data-chronological-next-location="animal-14
 >
-=== Pipe 5 ===
-[[Image:pipe-5-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 5 </b> <br />
+	[[Image:SandOcean-pipe-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="goldbeetle-1" 
+    class="location" 
+    data-type="goldbeetle" 
+    data-chronological-next-location="pipe-1
+>
+	<h2 class="location-type-header">Gold Beetle Locations</h2>
+	<b class="location-header">Gold Beetle 1 </b> <br />
+	[[Image:SandOcean-goldbeetle-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-1" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-2
+>
+	<h2 class="location-type-header">Omochao Locations</h2>
+	<b class="location-header">Omochao 1 </b> <br />
+	[[Image:SandOcean-omochao-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-2" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-3
+>
+	<b class="location-header">Omochao 2 </b> <br />
+	[[Image:SandOcean-omochao-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-1" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="life-1
+>
+	<h2 class="location-type-header">Animal Locations</h2>
+	<b class="location-header">Animal 1 </b> <br />
+	[[Image:SandOcean-animal-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-2" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-2
+>
+	<b class="location-header">Animal 2 </b> <br />
+	[[Image:SandOcean-animal-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-3" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-7
+>
+	<b class="location-header">Animal 3 </b> <br />
+	[[Image:SandOcean-animal-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-4" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-1
+>
+	<b class="location-header">Animal 4 </b> <br />
+	[[Image:SandOcean-animal-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-5" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-2
+>
+	<b class="location-header">Animal 5 </b> <br />
+	[[Image:SandOcean-animal-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-6" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="pipe-2
+>
+	<b class="location-header">Animal 6 </b> <br />
+	[[Image:SandOcean-animal-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-7" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-8
+>
+	<b class="location-header">Animal 7 </b> <br />
+	[[Image:SandOcean-animal-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-8" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="life-3
+>
+	<b class="location-header">Animal 8 </b> <br />
+	[[Image:SandOcean-animal-8-1.webp|640px|link=]] [[Image:SandOcean-animal-8-2.webp|640px|link=]] [[Image:SandOcean-animal-8-3.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-9" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-10
+>
+	<b class="location-header">Animal 9 </b> <br />
+	[[Image:SandOcean-animal-9-1.webp|640px|link=]] [[Image:SandOcean-animal-9-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-10" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-3
+>
+	<b class="location-header">Animal 10 </b> <br />
+	[[Image:SandOcean-animal-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-11" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-8
+>
+	<b class="location-header">Animal 11 </b> <br />
+	[[Image:SandOcean-animal-11-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-12" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="pipe-4
+>
+	<b class="location-header">Animal 12 </b> <br />
+	[[Image:SandOcean-animal-12-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-13" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="pipe-5
+>
+	<b class="location-header">Animal 13 </b> <br />
+	[[Image:SandOcean-animal-13-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-14" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-15
+>
+	<b class="location-header">Animal 14 </b> <br />
+	[[Image:SandOcean-animal-14-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-15" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-10
+>
+	<b class="location-header">Animal 15 </b> <br />
+	[[Image:SandOcean-animal-15-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-1" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-1
+>
+	<h2 class="location-type-header">Item box Locations</h2>
+	<b class="location-header">Item box 1 </b> <br />
+	[[Image:SandOcean-item-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-2" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-2
+>
+	<b class="location-header">Item box 2 </b> <br />
+	[[Image:SandOcean-item-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-3" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-4
+>
+	<b class="location-header">Item box 3 </b> <br />
+	[[Image:SandOcean-item-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-4" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-5
+>
+	<b class="location-header">Item box 4 </b> <br />
+	[[Image:SandOcean-item-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-5" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-6
+>
+	<b class="location-header">Item box 5 </b> <br />
+	[[Image:SandOcean-item-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-6" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-3
+>
+	<b class="location-header">Item box 6 </b> <br />
+	[[Image:SandOcean-item-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-7" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-2
+>
+	<b class="location-header">Item box 7 </b> <br />
+	[[Image:SandOcean-item-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-8" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-9
+>
+	<b class="location-header">Item box 8 </b> <br />
+	[[Image:SandOcean-item-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-9" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-12
+>
+	<b class="location-header">Item box 9 </b> <br />
+	[[Image:SandOcean-item-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-10" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="big-1
+>
+	<b class="location-header">Item box 10 </b> <br />
+	[[Image:SandOcean-item-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-1" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-1
+>
+	<h2 class="location-type-header">Life box Locations</h2>
+	<b class="location-header">Life box 1 </b> <br />
+	[[Image:SandOcean-life-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-2" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-4
+>
+	<b class="location-header">Life box 2 </b> <br />
+	[[Image:SandOcean-life-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-3" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-9
+>
+	<b class="location-header">Life box 3 </b> <br />
+	[[Image:SandOcean-life-3-1.webp|640px|link=]] [[Image:SandOcean-life-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="big-1" 
+    class="location" 
+    data-type="big" 
+>
+	<h2 class="location-type-header">Big Locations</h2>
+	<b class="location-header">Big 1 </b> <br />
+	[[Image:SandOcean-big-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 </div>

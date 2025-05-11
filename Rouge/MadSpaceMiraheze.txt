@@ -1,52 +1,547 @@
-__NOTOC__{{DISPLAYTITLE:Mad Space Locations}}
-Display as Chronological:
-<div id="chronological-toggle">button</div>
+{{DISPLAYTITLE:Mad Space Locations}}
+<div id="toggles-container"></div>
 
-<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+<div id="location-wiki-toc">
+   __TOC__
+</div>
+
+<div id="chronological-first-location" data-chronological-first-location="animal-1"></div>
 
 <div id="location-wrapper">
     
 <div 
+    id="chaobox-1" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="pipe-2
+>
+	<h2 class="location-type-header">Chaobox Locations</h2>
+	<b class="location-header">Chaobox 1 </b> <br />
+	[[Image:MadSpace-chaobox-1-1.webp|640px|link=]] [[Image:MadSpace-chaobox-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-2" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="animal-7
+>
+	<b class="location-header">Chaobox 2 </b> <br />
+	[[Image:MadSpace-chaobox-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-3" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="pipe-4
+>
+	<b class="location-header">Chaobox 3 </b> <br />
+	[[Image:MadSpace-chaobox-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
     id="pipe-1" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-2
+    data-chronological-next-location="animal-2
 >
-=== Pipe 1 ===
-[[Image:pipe-1-1.webp|512px|link=]] [[Image:pipe-1-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Pipe Locations</h2>
+	<b class="location-header">Pipe 1 </b> <br />
+	[[Image:MadSpace-pipe-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-2" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-3
+    data-chronological-next-location="animal-3
 >
-=== Pipe 2 ===
-[[Image:pipe-2-1.webp|512px|link=]] [[Image:pipe-2-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 2 </b> <br />
+	[[Image:MadSpace-pipe-2-1.webp|640px|link=]] [[Image:MadSpace-pipe-2-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-3" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-4
+    data-chronological-next-location="animal-8
 >
-=== Pipe 3 ===
-[[Image:pipe-3-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 3 </b> <br />
+	[[Image:MadSpace-pipe-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-4" 
     class="location" 
     data-type="pipe" 
+    data-chronological-next-location="animal-9
 >
-=== Pipe 4 ===
-[[Image:pipe-4-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 4 </b> <br />
+	[[Image:MadSpace-pipe-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="goldbeetle-1" 
+    class="location" 
+    data-type="goldbeetle" 
+    data-chronological-next-location="pipe-3
+>
+	<h2 class="location-type-header">Gold Beetle Locations</h2>
+	<b class="location-header">Gold Beetle 1 </b> <br />
+	[[Image:MadSpace-goldbeetle-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-1" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="omochao-2
+>
+	<h2 class="location-type-header">Omochao Locations</h2>
+	<b class="location-header">Omochao 1 </b> <br />
+	[[Image:MadSpace-omochao-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-2" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-6
+>
+	<b class="location-header">Omochao 2 </b> <br />
+	[[Image:MadSpace-omochao-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-3" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-4
+>
+	<b class="location-header">Omochao 3 </b> <br />
+	[[Image:MadSpace-omochao-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-4" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="animal-5
+>
+	<b class="location-header">Omochao 4 </b> <br />
+	[[Image:MadSpace-omochao-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-5" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="item-12
+>
+	<b class="location-header">Omochao 5 </b> <br />
+	[[Image:MadSpace-omochao-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-1" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-1
+>
+	<h2 class="location-type-header">Animal Locations</h2>
+	<b class="location-header">Animal 1 </b> <br />
+	[[Image:MadSpace-animal-1-1.webp|640px|link=]] [[Image:MadSpace-animal-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-2" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-1
+>
+	<b class="location-header">Animal 2 </b> <br />
+	[[Image:MadSpace-animal-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-3" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-3
+>
+	<b class="location-header">Animal 3 </b> <br />
+	[[Image:MadSpace-animal-3-1.webp|640px|link=]] [[Image:MadSpace-animal-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-4" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-4
+>
+	<b class="location-header">Animal 4 </b> <br />
+	[[Image:MadSpace-animal-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-5" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-6
+>
+	<b class="location-header">Animal 5 </b> <br />
+	[[Image:MadSpace-animal-5-1.webp|640px|link=]] [[Image:MadSpace-animal-5-2.webp|640px|link=]] [[Image:MadSpace-animal-5-3.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-6" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-8
+>
+	<b class="location-header">Animal 6 </b> <br />
+	[[Image:MadSpace-animal-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-7" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="omochao-5
+>
+	<b class="location-header">Animal 7 </b> <br />
+	[[Image:MadSpace-animal-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-8" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-16
+>
+	<b class="location-header">Animal 8 </b> <br />
+	[[Image:MadSpace-animal-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-9" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-10
+>
+	<b class="location-header">Animal 9 </b> <br />
+	[[Image:MadSpace-animal-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-10" 
+    class="location" 
+    data-type="animal" 
+>
+	<b class="location-header">Animal 10 </b> <br />
+	[[Image:MadSpace-animal-10-1.webp|640px|link=]] [[Image:MadSpace-animal-10-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-1" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-2
+>
+	<h2 class="location-type-header">Item box Locations</h2>
+	<b class="location-header">Item box 1 </b> <br />
+	[[Image:MadSpace-item-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-2" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-1
+>
+	<b class="location-header">Item box 2 </b> <br />
+	[[Image:MadSpace-item-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-3" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-4
+>
+	<b class="location-header">Item box 3 </b> <br />
+	[[Image:MadSpace-item-3-1.webp|640px|link=]] [[Image:MadSpace-item-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-4" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-5
+>
+	<b class="location-header">Item box 4 </b> <br />
+	[[Image:MadSpace-item-4-1.webp|640px|link=]] [[Image:MadSpace-item-4-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-5" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-2
+>
+	<b class="location-header">Item box 5 </b> <br />
+	[[Image:MadSpace-item-5-1.webp|640px|link=]] [[Image:MadSpace-item-5-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-6" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-7
+>
+	<b class="location-header">Item box 6 </b> <br />
+	[[Image:MadSpace-item-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-7" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-1
+>
+	<b class="location-header">Item box 7 </b> <br />
+	[[Image:MadSpace-item-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-8" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-9
+>
+	<b class="location-header">Item box 8 </b> <br />
+	[[Image:MadSpace-item-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-9" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-10
+>
+	<b class="location-header">Item box 9 </b> <br />
+	[[Image:MadSpace-item-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-10" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-11
+>
+	<b class="location-header">Item box 10 </b> <br />
+	[[Image:MadSpace-item-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-11" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-4
+>
+	<b class="location-header">Item box 11 </b> <br />
+	[[Image:MadSpace-item-11-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-12" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-13
+>
+	<b class="location-header">Item box 12 </b> <br />
+	[[Image:MadSpace-item-12-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-13" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-14
+>
+	<b class="location-header">Item box 13 </b> <br />
+	[[Image:MadSpace-item-13-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-14" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-15
+>
+	<b class="location-header">Item box 14 </b> <br />
+	[[Image:MadSpace-item-14-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-15" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="goldbeetle-1
+>
+	<b class="location-header">Item box 15 </b> <br />
+	[[Image:MadSpace-item-15-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-16" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-17
+>
+	<b class="location-header">Item box 16 </b> <br />
+	[[Image:MadSpace-item-16-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-17" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-18
+>
+	<b class="location-header">Item box 17 </b> <br />
+	[[Image:MadSpace-item-17-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-18" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="big-1
+>
+	<b class="location-header">Item box 18 </b> <br />
+	[[Image:MadSpace-item-18-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-19" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-20
+>
+	<b class="location-header">Item box 19 </b> <br />
+	[[Image:MadSpace-item-19-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-20" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="chaobox-3
+>
+	<b class="location-header">Item box 20 </b> <br />
+	[[Image:MadSpace-item-20-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-1" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="pipe-1
+>
+	<h2 class="location-type-header">Life box Locations</h2>
+	<b class="location-header">Life box 1 </b> <br />
+	[[Image:MadSpace-life-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-2" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="life-3
+>
+	<b class="location-header">Life box 2 </b> <br />
+	[[Image:MadSpace-life-2-1.webp|640px|link=]] [[Image:MadSpace-life-2-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-3" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="omochao-3
+>
+	<b class="location-header">Life box 3 </b> <br />
+	[[Image:MadSpace-life-3-1.webp|640px|link=]] [[Image:MadSpace-life-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-4" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="chaobox-2
+>
+	<b class="location-header">Life box 4 </b> <br />
+	[[Image:MadSpace-life-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="big-1" 
+    class="location" 
+    data-type="big" 
+    data-chronological-next-location="item-19
+>
+	<h2 class="location-type-header">Big Locations</h2>
+	<b class="location-header">Big 1 </b> <br />
+	[[Image:MadSpace-big-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 </div>

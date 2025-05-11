@@ -1,0 +1,45 @@
+{{DISPLAYTITLE:Route 280 Locations}}
+<div id="toggles-container"></div>
+
+<div id="location-wiki-toc">
+   __TOC__
+</div>
+
+<div id="chronological-first-location" data-chronological-first-location="item-1"></div>
+
+<div id="location-wrapper">
+    
+<div 
+    id="item-1" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-2
+>
+	<h2 class="location-type-header">Item box Locations</h2>
+	<b class="location-header">Item box 1 </b> <br />
+	[[Image:Route280-item-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-2" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-3
+>
+	<b class="location-header">Item box 2 </b> <br />
+	[[Image:Route280-item-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-3" 
+    class="location" 
+    data-type="item" 
+>
+	<b class="location-header">Item box 3 </b> <br />
+	[[Image:Route280-item-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+</div>

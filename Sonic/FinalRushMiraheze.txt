@@ -1,30 +1,899 @@
-__NOTOC__{{DISPLAYTITLE:Final Rush Locations}}
-Display as Chronological:
-<div id="chronological-toggle">button</div>
+{{DISPLAYTITLE:Final Rush Locations}}
+<div id="toggles-container"></div>
 
-<div id="chronological-first-location" data-chronological-first-location="pipe-1"></div>
+<div id="location-wiki-toc">
+   __TOC__
+</div>
+
+<div id="chronological-first-location" data-chronological-first-location="item-1"></div>
 
 <div id="location-wrapper">
     
 <div 
+    id="chaobox-1" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="life-2
+>
+	<h2 class="location-type-header">Chaobox Locations</h2>
+	<b class="location-header">Chaobox 1 </b> <br />
+	[[Image:FinalRush-chaobox-1-1.webp|640px|link=]] [[Image:FinalRush-chaobox-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-2" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="pipe-1
+>
+	<b class="location-header">Chaobox 2 </b> <br />
+	[[Image:FinalRush-chaobox-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="chaobox-3" 
+    class="location" 
+    data-type="chaobox" 
+    data-chronological-next-location="animal-11
+>
+	<b class="location-header">Chaobox 3 </b> <br />
+	[[Image:FinalRush-chaobox-3-1.webp|640px|link=]] [[Image:FinalRush-chaobox-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
     id="pipe-1" 
     class="location" 
     data-type="pipe" 
-    data-chronological-next-location="pipe-2
+    data-chronological-next-location="animal-3
 >
-=== Pipe 1 ===
-[[Image:pipe-1-1.webp|512px|link=]] [[Image:pipe-1-2.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<h2 class="location-type-header">Pipe Locations</h2>
+	<b class="location-header">Pipe 1 </b> <br />
+	[[Image:FinalRush-pipe-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 <div 
     id="pipe-2" 
     class="location" 
     data-type="pipe" 
+    data-chronological-next-location="animal-5
 >
-=== Pipe 2 ===
-[[Image:pipe-2-1.webp|512px|link=]] <br />
-[[#top|Back to top]]
+	<b class="location-header">Pipe 2 </b> <br />
+	[[Image:FinalRush-pipe-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="goldbeetle-1" 
+    class="location" 
+    data-type="goldbeetle" 
+    data-chronological-next-location="life-7
+>
+	<h2 class="location-type-header">Gold Beetle Locations</h2>
+	<b class="location-header">Gold Beetle 1 </b> <br />
+	[[Image:FinalRush-goldbeetle-1-1.webp|640px|link=]] [[Image:FinalRush-goldbeetle-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-1" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="life-1
+>
+	<h2 class="location-type-header">Omochao Locations</h2>
+	<b class="location-header">Omochao 1 </b> <br />
+	[[Image:FinalRush-omochao-1-1.webp|640px|link=]] [[Image:FinalRush-omochao-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-2" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="chaobox-2
+>
+	<b class="location-header">Omochao 2 </b> <br />
+	[[Image:FinalRush-omochao-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="omochao-3" 
+    class="location" 
+    data-type="omochao" 
+    data-chronological-next-location="life-8
+>
+	<b class="location-header">Omochao 3 </b> <br />
+	[[Image:FinalRush-omochao-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-1" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-1
+>
+	<h2 class="location-type-header">Animal Locations</h2>
+	<b class="location-header">Animal 1 </b> <br />
+	[[Image:FinalRush-animal-1-1.webp|640px|link=]] [[Image:FinalRush-animal-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-2" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-2
+>
+	<b class="location-header">Animal 2 </b> <br />
+	[[Image:FinalRush-animal-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-3" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-4
+>
+	<b class="location-header">Animal 3 </b> <br />
+	[[Image:FinalRush-animal-3-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-4" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-4
+>
+	<b class="location-header">Animal 4 </b> <br />
+	[[Image:FinalRush-animal-4-1.webp|640px|link=]] [[Image:FinalRush-animal-4-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-5" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-6
+>
+	<b class="location-header">Animal 5 </b> <br />
+	[[Image:FinalRush-animal-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-6" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-7
+>
+	<b class="location-header">Animal 6 </b> <br />
+	[[Image:FinalRush-animal-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-7" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-9
+>
+	<b class="location-header">Animal 7 </b> <br />
+	[[Image:FinalRush-animal-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-8" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-17
+>
+	<b class="location-header">Animal 8 </b> <br />
+	[[Image:FinalRush-animal-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-9" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-27
+>
+	<b class="location-header">Animal 9 </b> <br />
+	[[Image:FinalRush-animal-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-10" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="chaobox-3
+>
+	<b class="location-header">Animal 10 </b> <br />
+	[[Image:FinalRush-animal-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-11" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-12
+>
+	<b class="location-header">Animal 11 </b> <br />
+	[[Image:FinalRush-animal-11-1.webp|640px|link=]] [[Image:FinalRush-animal-11-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-12" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="animal-13
+>
+	<b class="location-header">Animal 12 </b> <br />
+	[[Image:FinalRush-animal-12-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-13" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="life-9
+>
+	<b class="location-header">Animal 13 </b> <br />
+	[[Image:FinalRush-animal-13-1.webp|640px|link=]] [[Image:FinalRush-animal-13-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-14" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="life-13
+>
+	<b class="location-header">Animal 14 </b> <br />
+	[[Image:FinalRush-animal-14-1.webp|640px|link=]] [[Image:FinalRush-animal-14-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-15" 
+    class="location" 
+    data-type="animal" 
+    data-chronological-next-location="item-37
+>
+	<b class="location-header">Animal 15 </b> <br />
+	[[Image:FinalRush-animal-15-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="animal-16" 
+    class="location" 
+    data-type="animal" 
+>
+	<b class="location-header">Animal 16 </b> <br />
+	[[Image:FinalRush-animal-16-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-1" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-1
+>
+	<h2 class="location-type-header">Item box Locations</h2>
+	<b class="location-header">Item box 1 </b> <br />
+	[[Image:FinalRush-item-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-2" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-2
+>
+	<b class="location-header">Item box 2 </b> <br />
+	[[Image:FinalRush-item-2-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-3" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-2
+>
+	<b class="location-header">Item box 3 </b> <br />
+	[[Image:FinalRush-item-3-1.webp|640px|link=]] [[Image:FinalRush-item-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-4" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-3
+>
+	<b class="location-header">Item box 4 </b> <br />
+	[[Image:FinalRush-item-4-1.webp|640px|link=]] [[Image:FinalRush-item-4-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-5" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-6
+>
+	<b class="location-header">Item box 5 </b> <br />
+	[[Image:FinalRush-item-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-6" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-4
+>
+	<b class="location-header">Item box 6 </b> <br />
+	[[Image:FinalRush-item-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-7" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-5
+>
+	<b class="location-header">Item box 7 </b> <br />
+	[[Image:FinalRush-item-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-8" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="pipe-2
+>
+	<b class="location-header">Item box 8 </b> <br />
+	[[Image:FinalRush-item-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-9" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-10
+>
+	<b class="location-header">Item box 9 </b> <br />
+	[[Image:FinalRush-item-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-10" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-11
+>
+	<b class="location-header">Item box 10 </b> <br />
+	[[Image:FinalRush-item-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-11" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-12
+>
+	<b class="location-header">Item box 11 </b> <br />
+	[[Image:FinalRush-item-11-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-12" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-6
+>
+	<b class="location-header">Item box 12 </b> <br />
+	[[Image:FinalRush-item-12-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-13" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-14
+>
+	<b class="location-header">Item box 13 </b> <br />
+	[[Image:FinalRush-item-13-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-14" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-15
+>
+	<b class="location-header">Item box 14 </b> <br />
+	[[Image:FinalRush-item-14-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-15" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-16
+>
+	<b class="location-header">Item box 15 </b> <br />
+	[[Image:FinalRush-item-15-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-16" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-8
+>
+	<b class="location-header">Item box 16 </b> <br />
+	[[Image:FinalRush-item-16-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-17" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="goldbeetle-1
+>
+	<b class="location-header">Item box 17 </b> <br />
+	[[Image:FinalRush-item-17-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-18" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-19
+>
+	<b class="location-header">Item box 18 </b> <br />
+	[[Image:FinalRush-item-18-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-19" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-20
+>
+	<b class="location-header">Item box 19 </b> <br />
+	[[Image:FinalRush-item-19-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-20" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-21
+>
+	<b class="location-header">Item box 20 </b> <br />
+	[[Image:FinalRush-item-20-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-21" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="omochao-3
+>
+	<b class="location-header">Item box 21 </b> <br />
+	[[Image:FinalRush-item-21-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-22" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-23
+>
+	<b class="location-header">Item box 22 </b> <br />
+	[[Image:FinalRush-item-22-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-23" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-24
+>
+	<b class="location-header">Item box 23 </b> <br />
+	[[Image:FinalRush-item-23-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-24" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-25
+>
+	<b class="location-header">Item box 24 </b> <br />
+	[[Image:FinalRush-item-24-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-25" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-26
+>
+	<b class="location-header">Item box 25 </b> <br />
+	[[Image:FinalRush-item-25-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-26" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-9
+>
+	<b class="location-header">Item box 26 </b> <br />
+	[[Image:FinalRush-item-26-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-27" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-28
+>
+	<b class="location-header">Item box 27 </b> <br />
+	[[Image:FinalRush-item-27-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-28" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-29
+>
+	<b class="location-header">Item box 28 </b> <br />
+	[[Image:FinalRush-item-28-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-29" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-30
+>
+	<b class="location-header">Item box 29 </b> <br />
+	[[Image:FinalRush-item-29-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-30" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-31
+>
+	<b class="location-header">Item box 30 </b> <br />
+	[[Image:FinalRush-item-30-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-31" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-32
+>
+	<b class="location-header">Item box 31 </b> <br />
+	[[Image:FinalRush-item-31-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-32" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-33
+>
+	<b class="location-header">Item box 32 </b> <br />
+	[[Image:FinalRush-item-32-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-33" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-34
+>
+	<b class="location-header">Item box 33 </b> <br />
+	[[Image:FinalRush-item-33-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-34" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-35
+>
+	<b class="location-header">Item box 34 </b> <br />
+	[[Image:FinalRush-item-34-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-35" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-10
+>
+	<b class="location-header">Item box 35 </b> <br />
+	[[Image:FinalRush-item-35-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-36" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="life-11
+>
+	<b class="location-header">Item box 36 </b> <br />
+	[[Image:FinalRush-item-36-1.webp|640px|link=]] [[Image:FinalRush-item-36-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-37" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-38
+>
+	<b class="location-header">Item box 37 </b> <br />
+	[[Image:FinalRush-item-37-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-38" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-39
+>
+	<b class="location-header">Item box 38 </b> <br />
+	[[Image:FinalRush-item-38-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-39" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="item-40
+>
+	<b class="location-header">Item box 39 </b> <br />
+	[[Image:FinalRush-item-39-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="item-40" 
+    class="location" 
+    data-type="item" 
+    data-chronological-next-location="animal-16
+>
+	<b class="location-header">Item box 40 </b> <br />
+	[[Image:FinalRush-item-40-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-1" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-1
+>
+	<h2 class="location-type-header">Life box Locations</h2>
+	<b class="location-header">Life box 1 </b> <br />
+	[[Image:FinalRush-life-1-1.webp|640px|link=]] [[Image:FinalRush-life-1-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-2" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-3
+>
+	<b class="location-header">Life box 2 </b> <br />
+	[[Image:FinalRush-life-2-1.webp|640px|link=]] [[Image:FinalRush-life-2-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-3" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-5
+>
+	<b class="location-header">Life box 3 </b> <br />
+	[[Image:FinalRush-life-3-1.webp|640px|link=]] [[Image:FinalRush-life-3-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-4" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-7
+>
+	<b class="location-header">Life box 4 </b> <br />
+	[[Image:FinalRush-life-4-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-5" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-8
+>
+	<b class="location-header">Life box 5 </b> <br />
+	[[Image:FinalRush-life-5-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-6" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-13
+>
+	<b class="location-header">Life box 6 </b> <br />
+	[[Image:FinalRush-life-6-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-7" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-18
+>
+	<b class="location-header">Life box 7 </b> <br />
+	[[Image:FinalRush-life-7-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-8" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="item-22
+>
+	<b class="location-header">Life box 8 </b> <br />
+	[[Image:FinalRush-life-8-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-9" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="life-10
+>
+	<b class="location-header">Life box 9 </b> <br />
+	[[Image:FinalRush-life-9-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-10" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="bignormal-1
+>
+	<b class="location-header">Life box 10 </b> <br />
+	[[Image:FinalRush-life-10-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-11" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="life-12
+>
+	<b class="location-header">Life box 11 </b> <br />
+	[[Image:FinalRush-life-11-1.webp|640px|link=]] [[Image:FinalRush-life-11-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-12" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-14
+>
+	<b class="location-header">Life box 12 </b> <br />
+	[[Image:FinalRush-life-12-1.webp|640px|link=]] [[Image:FinalRush-life-12-2.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="life-13" 
+    class="location" 
+    data-type="life" 
+    data-chronological-next-location="animal-15
+>
+	<b class="location-header">Life box 13 </b> <br />
+	[[Image:FinalRush-life-13-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="bignormal-1" 
+    class="location" 
+    data-type="big" 
+    data-chronological-next-location="bighard-1
+>
+	<h2 class="location-type-header">Big Locations</h2>
+	<b class="location-header">Big 1 (Normal Logic Only)</b> <br />
+	[[Image:FinalRush-bignormal-1-1.webp|640px|link=]] <br />
+	[[#top|Back to top]]
+</div>
+
+<div 
+    id="bighard-1" 
+    class="location" 
+    data-type="big" 
+    data-chronological-next-location="item-36
+>
+	<b class="location-header">Big 1 (Hard and Expert Logic Only)</b> <br />
+	[[Image:FinalRush-bighard-1-1.webp|640px|link=]] [[Image:FinalRush-bighard-1-2.webp|640px|link=]] [[Image:FinalRush-bighard-1-3.webp|640px|link=]] <br />
+	[[#top|Back to top]]
 </div>
 
 </div>
