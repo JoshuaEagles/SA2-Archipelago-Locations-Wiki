@@ -30,7 +30,7 @@ void PerformFileRename(string stageName, string directoryPath)
 	{
 		var filePath = $"{directoryPath}/{locationScreenshot.FileName}";
 		
-		var zeroPaddedLocationNumber = ZeroPadNumber(locationScreenshot.LocationNumber, 2);
+		var zeroPaddedLocationNumber = Helpers.ZeroPadNumber(locationScreenshot.LocationNumber, 2);
 		
 		var newFileName =
 			$"{stageName}-{locationScreenshot.LocationType}-{(locationScreenshot.IsBonus ? "bonus" : "")}{zeroPaddedLocationNumber}-{locationScreenshot.ScreenshotNumber}{Path.GetExtension(filePath)}";
@@ -39,9 +39,4 @@ void PerformFileRename(string stageName, string directoryPath)
 			$"Renaming {filePath} to {directoryPath}/{newFileName}");
 		File.Move(filePath, $"{directoryPath}/{newFileName}");
 	}
-}
-
-string ZeroPadNumber(int number, int length)
-{
-	return number.ToString().PadLeft(length, '0');
 }

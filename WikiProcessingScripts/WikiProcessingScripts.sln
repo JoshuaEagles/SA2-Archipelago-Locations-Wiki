@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.ChronologicalDataCollectionScript", "Sa2ApWiki.ChronologicalDataCollectionScript\Sa2ApWiki.ChronologicalDataCollectionScript.csproj", "{88D4A785-94E3-454D-B781-CE09CCF29F1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.ChronologicalDataScriptEditor", "Sa2ApWiki.ChronologicalDataScriptEditor\Sa2ApWiki.ChronologicalDataScriptEditor.csproj", "{88D4A785-94E3-454D-B781-CE09CCF29F1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa2ApWiki.ImageProcessingScript", "Sa2ApWiki.ImageProcessingScript\Sa2ApWiki.ImageProcessingScript.csproj", "{83E14CD6-BDBC-4EAB-903D-B1AC0B9ECF4E}"
 EndProject
