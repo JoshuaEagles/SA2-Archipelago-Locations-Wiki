@@ -1,4 +1,9 @@
-- Need to revert the script back to actually moving the elements around for toggling chronological, will solve issues with filtering and would be better for future features like collapsing locations
-- Need to add location type headers and a table of contents, but only when in By Type sort, so they'll need to be hidden when in the chronological sort.
+DONE - Need to revert the script back to actually moving the elements around for toggling chronological, will solve issues with filtering and would be better for future features like collapsing locations
+DONE - Need to add location type headers and a table of contents, but only when in By Type sort, so they'll need to be hidden when in the chronological sort.
 DONE - Need to right align the buttons so they look nicer
 DONE - Images probably should be bigger
+
+- Change buttons to "Display Item Box Locations" and "Display Life Box Locations", maybe also change the readable location type names to that
+- Fix sorting of non-chrono locations after toggling chrono on and off
+- Add a "Toggle all filters" button
+- Make all location guide pages and upload content. Url format: /wiki/Location_Guide:Stage_Name

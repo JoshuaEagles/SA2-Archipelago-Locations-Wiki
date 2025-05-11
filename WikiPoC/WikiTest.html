@@ -2,11 +2,16 @@
 
 <div id="toggles-container"></div>
 
+<div id="location-wiki-toc">
+	<h1>TOC</h1>
+</div>
+
 <div id="chronological-first-location" data-chronological-first-location="hidden-1"></div>
 
 <div id="location-wrapper">
 	<div id="pipe-1" class="location" data-type="pipe" data-chronological-next-location="hidden-2">
-		<h2>City Escape Pipe 1</h2>
+		<h2 class="location-type-header">Pipe Locations</h2>
+		<b class="location-header">City Escape Pipe 1</b>
 		<div class="image-wrapper">
 			<img src="pipe-1-1.webp" />
 			<img src="pipe-1-2.webp" />
@@ -15,8 +20,8 @@
 		<a href="#">Back to top</a>
 	</div>
 
-	<div id="pipe-2" class="location" data-type="pipe">
-		<h2>City Escape Pipe 2</h2>
+	<div id="pipe-2" class="location" data-type="pipe" data-chronological-next-location="bignormal-1">
+		<b class="location-header">City Escape Pipe 2</b>
 		<div class="image-wrapper">
 			<img src="pipe-2-1.webp" />
 			<img src="pipe-2-2.webp" />
@@ -26,7 +31,8 @@
 	</div>
 
 	<div id="hidden-1" class="location" data-chronological-next-location="pipe-1" data-type="hidden">
-		<h2>City Escape Hidden 1</h2>
+		<h2 class="location-type-header">Hidden Locations</h2>
+		<b class="location-header">City Escape Hidden 1</b>
 		<div class="image-wrapper">
 			<img src="hidden-1-1.webp" />
 			<img src="hidden-1-2.webp" />
@@ -36,7 +42,7 @@
 	</div>
 
 	<div id="hidden-2" class="location" data-chronological-next-location="pipe-2" data-type="hidden">
-		<h2>City Escape Hidden 2</h2>
+		<b class="location-header">City Escape Hidden 2</b>
 		<div class="image-wrapper">
 			<img src="hidden-2-1.webp" />
 			<img src="hidden-2-2.webp" />
@@ -44,23 +50,31 @@
 		<p>Test comment</p>
 		<a href="#">Back to top</a>
 	</div>
+
+	<div id="bignormal-1" class="location" data-chronological-next-location="bighard-1" data-type="big">
+		<h2 class="location-type-header">Big Locations</h2>
+		<b class="location-header">City Escape Big 1 (Normal Only)</b>
+		<div class="image-wrapper">
+			<img src="MetalHarbor-bignormal-1-1.webp" />
+		</div>
+		<a href="#">Back to top</a>
+	</div>
+
+	<div id="bighard-1" class="location" data-type="big">
+		<b class="location-header">City Escape Big 1 (Hard Only)</b>
+		<div class="image-wrapper">
+			<img src="MetalHarbor-bighard-1-4.webp" />
+		</div>
+		<a href="#">Back to top</a>
+	</div>
 </div>
 
 <style>
-	#location-wrapper .disabled {
-		display: none;
-	}
-
-	#location-wrapper .image-wrapper {
-		display: flex;
-		gap: 8px;
-		flex-wrap: wrap;
-	}
-
 	#toggles-container {
 		width: fit-content;
 		display: flex;
 		flex-direction: column;
+		margin-bottom: 16px;
 	}
 
 	#toggles-container .single-toggle-container {
@@ -98,6 +112,23 @@
 
 	#toggles-container .toggle-label {
 		margin-right: 8px;
+	}
+
+	#location-wrapper .disabled,
+	#location-wiki-toc.disabled {
+		display: none;
+	}
+
+	#location-wrapper .image-wrapper {
+		display: flex;
+		gap: 8px;
+		flex-wrap: wrap;
+	}
+
+	#location-wrapper .location-header {
+		margin: 20px auto -20px;
+		display: block;
+		font-size: 20px;
 	}
 </style>
 

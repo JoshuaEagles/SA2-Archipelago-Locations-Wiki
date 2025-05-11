@@ -1,5 +1,17 @@
 "use strict";
 
+const locationTypeNamesInOrder = [
+	"chaobox",
+	"pipe",
+	"hidden",
+	"goldbeetle",
+	"omochao",
+	"animal",
+	"item",
+	"life",
+	"big",
+];
+
 setupLocationGuideScript();
 
 function setupLocationGuideScript() {
@@ -16,9 +28,7 @@ function setupLocationGuideScript() {
 }
 
 function setupLocationTypeToggling() {
-	const locationTypeNames = ["chaobox", "pipe", "hidden", "goldbeetle", "omochao", "animal", "item", "life", "big"];
-
-	locationTypeNames.forEach(function (locationTypeName) {
+	locationTypeNamesInOrder.forEach(function (locationTypeName) {
 		setupLocationTypeFilterButtonListener(locationTypeName);
 	});
 
@@ -57,15 +67,28 @@ function setupLocationTypeToggling() {
 function setupChronologicalToggling() {
 	const locationWrapper = document.querySelector("#location-wrapper");
 
-	const initialLocationWrapperInnerHtml = locationWrapper.innerHTML;
-	const chronologicalOrderingDocumentFragment = generateChronologicalDocumentFragment();
-
 	const toggleChronologicalCheckbox = document.querySelector("#chronological-toggle");
 	toggleChronologicalCheckbox.addEventListener("click", function () {
 		handleChronologicalButtonClick();
 	});
 
-	function generateChronologicalDocumentFragment() {
+	function handleChronologicalButtonClick() {
+		toggleChronologicalCheckbox.dataset.toggled = !(toggleChronologicalCheckbox.dataset.toggled === "true");
+		toggleChronologicalCheckbox.innerHTML =
+			toggleChronologicalCheckbox.dataset.toggled === "true" ? "Enabled" : "Disabled";
+
+		if (toggleChronologicalCheckbox.dataset.toggled === "true") {
+			sortPageIntoChronologicalOrder();
+			toggleTypeHeaderAndTableOfContents(false);
+		} else {
+			sortPageIntoByTypeOrder();
+			toggleTypeHeaderAndTableOfContents(true);
+		}
+	}
+
+	function sortPageIntoChronologicalOrder() {
+		const initialLocationWrapperInnerHtml = locationWrapper.innerHTML;
+
 		const allLocations = document.querySelectorAll(".location");
 
 		const locationIdToLocationElementMap = setupMappingOfLocationIdToLocationElement();
@@ -102,12 +125,13 @@ function setupChronologicalToggling() {
 				return initialLocationWrapperInnerHtml;
 			}
 
-			sortedLocationElementsDocumentFragment.appendChild(nextLocationElement.cloneNode(true));
+			sortedLocationElementsDocumentFragment.appendChild(nextLocationElement);
 
 			nextLocationId = nextLocationElement.dataset.chronologicalNextLocation;
 		}
 
-		return sortedLocationElementsDocumentFragment;
+		locationWrapper.innerHTML = null;
+		locationWrapper.appendChild(sortedLocationElementsDocumentFragment);
 
 		function setupMappingOfLocationIdToLocationElement() {
 			const locationMap = new Map();
@@ -119,79 +143,99 @@ function setupChronologicalToggling() {
 		}
 	}
 
-	function handleChronologicalButtonClick() {
-		toggleChronologicalCheckbox.dataset.toggled = !(toggleChronologicalCheckbox.dataset.toggled === "true");
-		toggleChronologicalCheckbox.innerHTML =
-			toggleChronologicalCheckbox.dataset.toggled === "true" ? "Enabled" : "Disabled";
+	function sortPageIntoByTypeOrder() {
+		const sortedLocationElementsDocumentFragment = document.createDocumentFragment();
 
-		if (toggleChronologicalCheckbox.dataset.toggled === "true") {
-			changeToDisplayByChronological();
-		} else {
-			changeToDisplayByType();
-		}
+		locationTypeNamesInOrder.forEach(function (typeName) {
+			const locationsOfTypeNodeList = document.querySelectorAll(`.location[data-type=${typeName}]`);
+			const locationsOfTypeArray = Array.from(locationsOfTypeNodeList);
+
+			locationsOfTypeArray.sort(function (a, b) {
+				// This handles sorting big properly, bignormal and bighard sort in the reverse order we want,
+				// but big1 and big2 would sort in the right order
+				const aId = a.id.replace("bignormal", "big1").replace("bighard", "big2");
+				const bId = b.id.replace("bignormal", "big1").replace("bighard", "big2");
+
+				if (aId < bId) {
+					return -1;
+				}
+				if (aId > bId) {
+					return 1;
+				}
+
+				return 0;
+			});
+			locationsOfTypeArray.forEach(function (location) {
+				sortedLocationElementsDocumentFragment.appendChild(location);
+			});
+		});
+
+		locationWrapper.innerHtml = null;
+		locationWrapper.appendChild(sortedLocationElementsDocumentFragment);
 	}
 
-	function changeToDisplayByChronological() {
-		locationWrapper.innerHTML = null;
-		locationWrapper.appendChild(chronologicalOrderingDocumentFragment.cloneNode(true));
-	}
+	function toggleTypeHeaderAndTableOfContents(isShown) {
+		const tableOfContentsContainer = document.querySelector(`#location-wiki-toc`);
+		tableOfContentsContainer.classList.toggle("disabled", !isShown);
 
-	function changeToDisplayByType() {
-		locationWrapper.innerHTML = initialLocationWrapperInnerHtml;
+		const locationTypeHeaders = document.querySelectorAll(`#location-wrapper .location-type-header`);
+		locationTypeHeaders.forEach(function (header) {
+			header.classList.toggle("disabled", !isShown);
+		});
 	}
 }
 
 function addToggleButtonsHtml() {
 	let toggleButtonsElementHtml = `
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display in Chronological Order: </span>
+				<span class="toggle-label">Display in Chronological Order: </span>
 				<span class="toggle-button" id="chronological-toggle" data-toggled="false">Disabled</span>
 			</div>
 
 			<hr />
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Chaobox Locations: </span>
+				<span class="toggle-label">Display Chaobox Locations: </span>
 				<span class="toggle-button" id="chaobox-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Pipe Locations: </span>
+				<span class="toggle-label">Display Pipe Locations: </span>
 				<span class="toggle-button" id="pipe-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Hidden Locations: </span>
+				<span class="toggle-label">Display Hidden Locations: </span>
 				<span class="toggle-button" id="hidden-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Gold Beetle Locations: </span>
+				<span class="toggle-label">Display Gold Beetle Locations: </span>
 				<span class="toggle-button" id="goldbeetle-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Omochao Locations: </span>
+				<span class="toggle-label">Display Omochao Locations: </span>
 				<span class="toggle-button" id="omochao-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Animal Locations: </span>
+				<span class="toggle-label">Display Animal Locations: </span>
 				<span class="toggle-button" id="animal-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Item Locations: </span>
+				<span class="toggle-label">Display Item box Locations: </span>
 				<span class="toggle-button" id="item-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Life Locations: </span>
+				<span class="toggle-label">Display Life box Locations: </span>
 				<span class="toggle-button" id="life-toggle" data-toggled="true">Enabled</span>
 			</div>
 
 			<div class="single-toggle-container">
-				<span class="toggle-label" style="margin-right">Display Big Locations: </span>
+				<span class="toggle-label">Display Big Locations: </span>
 				<span class="toggle-button" id="big-toggle" data-toggled="true">Enabled</span>
 			</div>
 		`;
