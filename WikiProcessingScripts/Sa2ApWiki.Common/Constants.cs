@@ -65,7 +65,7 @@ public static class Constants
 		{"FinalChase", "Final Chase"},
     
 		// Last Story
-		{"CannonsCore", "Cannons Core"},
+		{"CannonsCore", "Cannon's Core"},
 		
 		{"GreenHill", "Green Hill"}
 	};
